@@ -33,7 +33,11 @@ Al enfrentarse a este caos de datos, la IA no optó por inventar masa invisible.
  ≈1.2
  ×10−10
  m/s2
-. Cuando la aceleración de una estrella cae por debajo de este valor tan pequeño, el sistema introduce de forma natural una función de escala (μ), modificando la fuerza para que deciga de forma más suave (1/r), manteniendo la estructura unida. 
+. Cuando la aceleración de una estrella cae por debajo de este valor tan pequeño, el sistema introduce de forma natural una función de escala (μ), modificando la fuerza para que deciga de forma más suave (1/r), manteniendo la estructura unida.
+**1.3.1 La Formulación Matemática de la Ley de Escala**
+Para formalizar este comportamiento sin recurrir a masas invisibles, definimos la Ley de Escala Dinámica mediante la introducción de la función de transición $\mu$:
+$$F = G \frac{m_1 \cdot m_2}{d^2} \cdot \mu\left(\frac{a}{a_0}\right)$$
+En el régimen local donde las aceleraciones son altas ($a \gg a_0$), la función $\mu \to 1$, recuperando exactamente la ley de Newton. Sin embargo, en el régimen de aceleración ultra-baja característico de las periferias galácticas ($a \ll a_0$), la función adopta la forma $\mu \approx a / a_0$, lo que reduce la ley de decaimiento a un régimen de $1/r$. Como veremos más adelante, esta formulación deja de ser una simple hipótesis local para convertirse en el principio geométrico que rige tanto la estabilidad de las galaxias como la macroarquitectura de todo el cosmos. 
 1.4 Atribución Histórica y Enfoque Crítico
 En cumplimiento del rigor científico, reconocemos formalmente que esta fórmula de escala coincide con la estructura de la Dinámica Newtoniana Modificada (MOND), propuesta originalmente por el físico Mordehai Milgrom en 1983. Aunque nuestro camino computacional fue totalmente independiente y guiado por datos brutos, la coincidencia matemática con el modelo de Milgrom valida la solidez de la ecuación. Sin embargo, donde la comunidad académica tradicional se estancó —tratando esto como un simple parche matemático local— esta investigación avanza. Postulamos que este comportamiento de la gravedad es la consecuencia física directa de una arquitectura cósmica organizada, jerárquica y viviente. 
 ________________________________________
