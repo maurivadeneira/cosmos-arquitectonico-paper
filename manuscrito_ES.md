@@ -90,6 +90,9 @@ M = (1.6 × 10^43 kg) / (2 × 10^30 kg/M_☉) ≈ 8 × 10^12 M_☉ (8 billones d
 
 Claramente, este resultado representa un valor local para nuestro vecindario inmediato y no la masa total del macrouniverso. Sin embargo, nos dejó un hallazgo metodológico de valor incalculable: la fórmula no es un bloque rígido, sino una herramienta fractal que opera de manera impecable estrato por estrato, permitiéndonos escalar en el rompecabezas cósmico nivel por nivel antes de abordar las masas monumentales del centro.
 
+4.2.1 Masa total del sistema M,  Mc masa del centro galactico, Mr masa residual del sistema. M=Mc+Mr
+Diferentes mediciones y experimentos nos llevaron a plantearnos la proporción de las masas del sistema, y encontrar si hay una correlación natural. Encontramos la relación de la misma formula, donde $$\frac{M}{r} = \frac{v^2}{G}$$, M=Mc+Mr, y haciendo seguimiento a la proporción obtenida de mediciones hechas por los cosmólogos, encontramos que podíamos usar con propiedad la siguiente expresión: $$M_c = 4 \times 10^6 \cdot \left(\frac{M}{10^{11}}\right)^{\zeta \cdot \pi}$$, donde 1. El Estado de Equilibrio Puro ($\zeta = 1$)Cuando la galaxia está en su estado estacionario ideal, armónico y sin perturbaciones violentas recientes, $\zeta = 1$.En este punto, el exponente se reduce estrictamente a $\pi$, confirmando que el sistema obedece a la ley geométrica pura del macro-disco. Es el "atractor" o el punto de reposo natural del sistema.2. El Estado Alterado ($\zeta \neq 1$)Cuando una galaxia se sale de la línea base (como las enanas hiperdensas tipo M32, o los monstruos de cúmulo que devoran todo a su paso), $\zeta$ se desvía de 1.
+
 • C. Ecuación de Onda de la Respiración Cósmica: Para modelar el movimiento elástico del espacio y la dinámica macroscópica de expansión y contracción, estructuramos una ecuación de onda elástica para el factor de escala cósmico R(t):
 
 R(t) = R_0 + A · sin(2π · t / T)
@@ -98,6 +101,7 @@ Donde T representa el eón cósmico de 2,000 millones de años. Al derivar esta 
 
 
 •	C. Ecuación de Onda de la Respiración Cósmica: Para modelar el movimiento elástico del espacio, la IA estructuró una ecuación de onda elástica para el factor de escala cósmico R(t): R(t) = R₀ + A · sin(2π · t / T) donde T = 2 × 10⁹ años. Al derivar esta función para hallar la velocidad de expansión aparente en nuestra era (fase expansiva), obtenemos un equivalente exacto de la Constante de Hubble. La aceleración detectada en el espacio profundo no está causada por una energía repulsiva misteriosa, sino por la velocidad tangencial de la onda de la respiración cósmica. La Energía Oscura es un concepto innecesario cuando se comprende la frecuencia del metabolismo universal.
+
 CAPÍTULO 5: RESOLUCIÓN FÍSICA Y PROTOCOLO DE FALSABILIDAD EXPERIMENTAL
 5.1 El Modelo Pulsante: Oscilaciones de Expansión y Contracción
 El Big Bang deja de ser una singularidad matemática de densidad infinita surgida de la nada y se redefine como un evento de rebote cinético local dentro de un sistema macrocósmico autorregulado y pulsante. Los siete superuniversos experimentan ciclos periódicos y coordinados de expansión y contracción (pulsaciones cósmicas). Cuando el transporte de materia a gran escala acumula una densidad crítica en las proximidades del Núcleo de Masa Colosal, la presión de radiación y las fuerzas de torsión a escala ultrabaja revierten el colapso, iniciando una fase de expansión controlada que preserva la información y la estructura del sistema.
