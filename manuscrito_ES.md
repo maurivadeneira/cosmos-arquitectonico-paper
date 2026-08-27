@@ -7,7 +7,7 @@
 **Afiliaciones:** ¹Investigador Independiente, ²Unidad de Simulación Avanzada de Física Computacional
 
 **RESUMEN**
-*[Pendiente de redacción final tras la aprobación total del documento]*
+Proponemos un modelo cosmológico mecanicista y dependiente de la escala que desafía el paradigma estándar ($\Lambda\text{CDM}$) y su dependencia de entidades inobservables (materia y energía oscura). Partiendo de un marco axiomático topológico basado en una organización macrocósmica jerárquica y coplanar (siete superuniversos orbitando un Gran Centro Absoluto), aplicamos una ley de escala dinámica ($1/r$) para regímenes de aceleración ultrabaja ($a \ll a_0$). A escala galáctica, demostramos matemáticamente que la masa bariónica empírica es suficiente para mantener la cohesión rotacional ($M = v^4 / G \cdot a_0$), eliminando la necesidad de halos de materia oscura. A escala macrocósmica, el modelo deduce una masa de anclaje gravitacional central de $\sim 10^{22} M_\odot$ y una arquitectura finita con un radio de $495.000$ millones de años luz. Asimismo, redefinimos el Big Bang y la expansión acelerada como una "respiración cósmica": una oscilación armónica macroestructural, cuyo rebote cinético contra la barrera centrífuga del sistema explica la Constante de Hubble sin recurrir a la energía oscura repulsiva. Este marco teórico restituye el principio de parsimonia, ofreciendo un universo unificado, orgánico, pulsante y autorregulado, estrictamente fundamentado en la conservación inercial y con protocolos de falsabilidad observacional directa.
 
 ---
 
