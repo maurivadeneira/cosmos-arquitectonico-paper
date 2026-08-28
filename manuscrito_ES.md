@@ -127,26 +127,35 @@ Por lo tanto, la Masa ($M$) que nos entrega la fórmula $M = v^4 / (G \cdot a_0)
 #### 3.6 La Ecuación Estructural: Determinación de la Masa ($M_t = M_c + M_r$)
 Al demostrar la estabilidad del disco galáctico sin materia oscura, se nos plantea la necesidad imperativa de determinar si existe una relación matemática subyacente que nos permita calcular la masa del agujero negro central ($M_c$) en función de la masa residual del sistema ($M_r$) y la masa total ($M_t$). La validación de esta relación es fundamental, pues debe ser aplicable a cualquier escala geométrica: desde una galaxia aislada, pasando por un cúmulo de galaxias, hasta la arquitectura del universo entero.
 
-Para determinar este punto, no recurrimos a postulados abstractos, sino a la información empírica recabada por la observación astronómica moderna. Analizamos los datos de galaxias en diferentes etapas evolutivas para buscar una constante proporcional de saturación:
+### Parte I: El Desarrollo Algebraico y la Estructura de la Fórmula
+Para construir esta relación sin recurrir a postulados infundados, partimos de la ecuación fundamental que rige la dinámica rotacional de los cuerpos celestes bajo nuestra ley escalar:
+$$\frac{M}{r} = \frac{v^2}{G}$$
 
-**El Puente Analítico 1: La Asíntota de Saturación Metabólica**
+Sabiendo que la masa total ($M_t$) de cualquier sistema rotatorio autosostenido no es un bloque homogéneo, sino la suma estricta de su masa central condensada (el núcleo activo $M_c$) y su masa periférica distribuida (la masa residual del disco $M_r$), establecemos la identidad estructural básica:
+$$M_t = M_c + M_r$$
+
+Sin embargo, para conectar matemáticamente el núcleo con la periferia a través de las escalas, la naturaleza no opera mediante una suma lineal simple, sino a través de un proceso de acreción geométrica y alométrica. Al desglosar la tasa de crecimiento del núcleo respecto a la masa total del sistema, la ecuación analítica adopta su forma definitiva:
+$$M_c = 4 \times 10^6 \cdot \left(\frac{M_t}{10^{11}}\right)^{\zeta \cdot \pi}$$
+
+---
+
+### Parte II: El Puente Analítico y la Realidad Empírica
+Para validar esta estructura matemática, no nos basamos en especulaciones, sino en la información empírica recabada por la observación astronómica moderna de galaxias en diferentes etapas evolutivas:
+
+**1. La Asíntota de Saturación Metabólica**
 El análisis empírico revela un comportamiento estructural innegable. Las observaciones demuestran que, sin importar la masa total del sistema ($M_t$), la proporción del núcleo crece desde un minúsculo 0.006% (en galaxias espirales maduras) hasta estabilizarse cerca del 0.7% en colosos elípticos extremos. Existe, por tanto, una asíntota natural; un techo estructural que la naturaleza no cruza. Redondeando este límite empírico para establecer una condición de frontera matemática absoluta, postulamos que el núcleo jamás superará el 1% de su sistema anfitrión:
 $$M_c \leq 0.01 \cdot M_t$$
 Esta condición de frontera nos demuestra que las macroestructuras operan de forma análoga a organismos vivos; al alcanzar su saturación metabólica (1%), experimentan un auto-frenado gravitacional que expulsa energía, redistribuye materia y evita el colapso de la galaxia.
 
-**El Puente Analítico 2: La Ecuación de Crecimiento Geométrico**
-Dado que la galaxia opera como un sistema orgánico, el crecimiento del núcleo respecto a la periferia no es lineal, sino que obedece a una ley de escala alométrica. Para no incurrir en abstracciones matemáticas, construimos la ecuación utilizando a nuestra propia galaxia (la Vía Láctea) como la "Piedra Rosetta" de calibración:
-$$M_c = 4 \times 10^6 \cdot \left(\frac{M_t}{10^{11}}\right)^{\zeta \cdot \pi}$$
-
-Esta fórmula responde a un estricto modelado basado en los datos observacionales:
+**2. Desglose de los Componentes de la Ecuación**
 *   **El Ancla Local ($4 \times 10^6$):** Es la masa empírica exacta del agujero negro central de nuestra Vía Láctea (Sagitario A*).
 *   **El Módulo de Escala ($M_t / 10^{11}$):** Establece el orden de magnitud de una galaxia madura estándar ($\sim 10^{11}$ masas solares) como el punto de referencia base [valor 1].
-*   **El Motor de Acreción Rotacional ($\zeta \cdot \pi$):** El exponente de esta ecuación no fue impuesto de forma arbitraria, sino extraído de los datos en bruto. Al despejar la tasa de crecimiento empírica para colosos como M87 o Centaurus A, los resultados arrojaron exponentes que oscilaban entre $2.97$ y $3.47$ (con una tendencia central de $\sim 3.2$). Dado que la materia de un disco galáctico plano se enrolla espacialmente hacia una singularidad esférica, la geometría física exige la constante de los círculos: dedujimos que la tendencia observacional de $\sim 3.2$ es la manifestación directa de la constante geométrica universal $\pi$ ($\approx 3.1416$).
+*   **El Motor de Acreción Rotacional ($\zeta \cdot \pi$):** El exponente de esta ecuación fue extraído directamente de los datos en bruto. Al despejar la tasa de crecimiento empírica para colosos como M87 o Centaurus A, los resultados arrojaron exponentes que oscilaban entre $2.97$ y $3.47$ (con una tendencia central de $\sim 3.2$). Dado que la materia de un disco galáctico plano se enrolla espacialmente hacia una singularidad esférica, la geometría física exige la constante de los círculos: dedujimos que la tendencia observacional de $\sim 3.2$ es la manifestación directa de la constante geométrica universal $\pi$ ($\approx 3.1416$).
 *   **El Parámetro de Actividad ($\zeta$):** Funciona como el modulador metabólico que absorbe las variaciones temporales observadas en la realidad empírica. Un $\zeta > 1$ explica el frenesí de acreción de las galaxias hiperactivas, mientras que un $\zeta < 1$ se activa como el freno estructural natural en los sistemas más masivos.
 
-***
+---
 
-#### Validación Empírica: Matrices de Contraste Analítico
+### Validación Empírica: Matrices de Contraste Analítico
 Para verificar la robustez de nuestra ecuación, sometemos el modelo al contraste directo frente a los datos reales observados en cinco sistemas galácticos representativos:
 
 ### 1. Sistema: Vía Láctea
@@ -192,8 +201,9 @@ Para verificar la robustez de nuestra ecuación, sometemos el modelo al contrast
 **Nota Analítica sobre los Márgenes de Desviación:**
 Mientras que la masa total ($M_t$) y la masa residual ($M_r$) —que componen más del 99% del cuerpo galáctico— presentan una coincidencia casi absoluta con un error marginal cercano a cero, el núcleo ($M_c$) exhibe variaciones naturales de entre el 3% y el 7%. Lejos de constituir un defecto del modelo, esta sutil divergencia en el corazón del sistema es la evidencia empírica directa del estado metabólico variable ($\zeta$) del agujero negro. El núcleo responde a dinámicas temporales de acreción activa y expulsión de energía, confirmando que la ecuación no describe una estructura estática y muerta, sino un motor orgánico en constante autorregulación.
 
-Con esta ecuación ($M_t = M_c + M_r$) desglosada y su límite de saturación porcentual firmemente sustentado, poseemos la herramienta analítica universal para escalar el modelo hacia la macroarquitectura del Gran Universo en el siguiente capítulo.
----
+Con esta ecuación ($M_t = M_c + M_r$) desglosada algebraicamente y su límite de saturación porcentual firmemente sustentado, poseemos la herramienta analítica universal para escalar el modelo hacia la macroarquitectura del Gran Universo en el siguiente capítulo.
+
+
 
 ### CAPÍTULO 4: EL MARCO COSMOGÓNICO DE REFERENCIA Y SUS POSTULADOS DINÁMICOS
 
