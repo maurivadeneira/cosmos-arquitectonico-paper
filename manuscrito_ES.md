@@ -165,19 +165,6 @@ Esta fórmula es el resultado de un estricto modelado basado en los datos observ
 
 Con esta ecuación ($M_t = M_c + M_r$) desglosada rigurosamente y su límite de saturación porcentual (1%) firmemente sustentado en la realidad empírica, poseemos ahora la herramienta analítica universal para escalar el modelo. Esta misma regla de proporción geométrica nos permitirá deducir, en el siguiente capítulo, la masa del ancla gravitacional absoluta que rige la dinámica del Gran Universo.
 
-#### 3.6 La Ecuación Estructural: Determinación de la Masa ($M_t = M_c + M_r$)
-Al demostrar la estabilidad del disco galáctico sin materia oscura, se nos plantea la necesidad imperativa de determinar si existe una relación matemática subyacente que nos permita calcular la masa del agujero negro central ($M_c$) en función de la masa residual del sistema ($M_r$) y la masa total ($M_t$). La validación de esta relación es fundamental, pues debe ser aplicable a cualquier escala geométrica: desde una galaxia aislada, pasando por un cúmulo de galaxias, hasta la arquitectura del universo entero.
-
-### Parte I: El Desarrollo Algebraico y la Estructura de la Fórmula
-Para construir esta relación sin recurrir a postulados infundados, partimos de la ecuación fundamental que rige la dinámica rotacional de los cuerpos celestes bajo nuestra ley escalar:
-$$\frac{M}{r} = \frac{v^2}{G}$$
-
-Sabiendo que la masa total ($M_t$) de cualquier sistema rotatorio autosostenido no es un bloque homogéneo, sino la suma estricta de su masa central condensada (el núcleo activo $M_c$) y su masa periférica distribuida (la masa residual del disco $M_r$), establecemos la identidad estructural básica:
-$$M_t = M_c + M_r$$
-
-Sin embargo, para conectar matemáticamente el núcleo con la periferia a través de las escalas, la naturaleza no opera mediante una suma lineal simple, sino a través de un proceso de acreción geométrica y alométrica. 
-
----
 
 ### Parte II: El Puente Analítico y el Hallazgo Empírico de la Constante
 Para dotar de sustento físico a esta relación, no recurrimos a abstracciones, sino a la información empírica recabada por la observación astronómica moderna. Al analizar los datos de colosos galácticos, pudimos extraer dos conclusiones fundamentales:
