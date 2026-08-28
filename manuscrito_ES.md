@@ -247,6 +247,21 @@ Mientras que la masa total ($M_t$) y la masa residual ($M_r$) —que componen m�
 
 Con esta ecuación ($M_t = M_c + M_r$) plenamente desarrollada, fundamentada y contrastada, poseemos la herramienta analítica universal para escalar el modelo hacia la macroarquitectura del Gran Universo en el siguiente capítulo.
 
+#### 3.7 La Velocidad como ADN Arquitectónico: Los Umbrales Cinemáticos de la Escala
+Al profundizar en la aplicación de nuestra ecuación fundamental ($\frac{M}{r} = \frac{v^2}{G}$), nos topamos con una revelación que subvierte la física tradicional: la velocidad de rotación ($v$) no es una mera consecuencia pasiva de la masa acumulada, sino el **ADN arquitectónico que comanda y dimensiona el tamaño del sistema**. 
+
+En la cosmología estándar se asume que los objetos adquieren su tamaño por azar histórico o por acreción desordenada. Sin embargo, al ensayar diferentes rangos cinemáticos en nuestras ecuaciones, comprobamos que el espacio y la masa se pliegan de un solo tajo según el régimen de velocidad en el que opera el sistema. El cosmos está estratificado por **umbrales de velocidad resonantes**:
+
+1. **El Régimen Galáctico (Cientos de km/s):** 
+   Cuando la velocidad de rotación opera en el rango de los cientos de kilómetros por segundo (como los $220\text{ km/s}$ de nuestra Vía Láctea), la ecuación colapsa inexorablemente su solución métrica hacia la escala kilopársec, delimitando discos estelares estables y núcleos masivos de millones de masas solares.
+2. **El Régimen de Cúmulos (Miles de km/s):** 
+   Al escalar la velocidad hacia regímenes superiores, la métrica espacial se estira de manera proporcional, obligando a la materia a organizarse no en galaxias aisladas, sino en enjambres y cúmulos masivos que exigen un radio de acción infinitamente mayor.
+3. **El Régimen Macrocaudal (Escalas Superuniversales):** 
+   En los peldaños cinemáticos más altos de la arquitectura cósmica, los grandes flujos de rotación dictan el radio y la masa de los superuniversos completos.
+
+Esta correspondencia directa demuestra que un sistema no puede girar a cualquier velocidad arbitraria; **la cinemática le impone una sentencia geométrica estricta al espacio**. Si conocemos la velocidad de un sistema autosostenido, conocemos simultáneamente su radio métrico y su masa total. Los diferentes tamaños del universo —desde una galaxia espiral hasta un macro-sistema— no son accidentes caóticos, sino los peldaños estables de velocidad permitidos por la arquitectura unificada de la gravedad.
+
+
 ### CAPÍTULO 4: EL MARCO COSMOGÓNICO DE REFERENCIA Y SUS POSTULADOS DINÁMICOS
 
 #### 4.1 Metodología Axiomática y Arquitectura del Macro-Cosmos Estabilizado
