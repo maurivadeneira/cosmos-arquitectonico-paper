@@ -134,7 +134,7 @@ $$\frac{M}{r} = \frac{v^2}{G}$$
 Sabiendo que la masa total ($M_t$) de cualquier sistema rotatorio autosostenido no es un bloque homogéneo, sino la suma estricta de su masa central condensada (el núcleo activo $M_c$) y su masa periférica distribuida (la masa residual del disco $M_r$), establecemos la identidad estructural básica:
 $$M_t = M_c + M_r$$
 
-Sin embargo, para conectar matemáticamente el núcleo con la periferia a través de las escalas, la naturaleza no opera mediante una suma lineal simple, sino a través de un proceso de acreción geométrica. Para determinar este punto, no recurrimos a abstracciones, sino a la información empírica recabada por la observación astronómica moderna. Tabulamos los datos de galaxias en diferentes etapas evolutivas para buscar una constante de proporción ($M_c = x\% \cdot M_t$):
+Sin embargo, para conectar matemáticamente el núcleo con la periferia a través de las escalas, la naturaleza no opera mediante una suma lineal simple, sino a través de un proceso de acreción geométrica. Para determinar este punto, recurrimos a la información empírica recabada por la observación astronómica moderna, tabulando los datos de galaxias en diferentes etapas evolutivas:
 
 | Galaxia Observada | Masa del Núcleo ($M_c$) | Masa Total del Sistema ($M_t$) | Proporción Observada ($M_c / M_t$) |
 | :--- | :--- | :--- | :--- |
@@ -146,28 +146,8 @@ Sin embargo, para conectar matemáticamente el núcleo con la periferia a travé
 
 ---
 
-### Parte II: El Puente Analítico y la Ecuación de Crecimiento
-
-**El Puente Analítico 1: La Asíntota de Saturación Metabólica**
-El análisis de esta tabla revela un comportamiento estructural innegable. Las observaciones demuestran que, sin importar la masa total del sistema ($M_t$), la proporción del núcleo crece desde un minúsculo 0.006% (en galaxias espirales maduras) hasta estabilizarse cerca del 0.7% en colosos elípticos extremos (como Centaurus A). Existe, por tanto, una asíntota natural; un techo estructural que la naturaleza no cruza. Redondeando este límite empírico para establecer una condición de frontera matemática absoluta, postulamos que el núcleo jamás superará el 1% de su sistema anfitrión:
-$$M_c \leq 0.01 \cdot M_t$$
-Esta condición de frontera nos demuestra que las macroestructuras operan de forma análoga a organismos vivos; al alcanzar su saturación metabólica (1%), experimentan un auto-frenado gravitacional que expulsa energía, redistribuye materia y evita el colapso de la galaxia.
-
-**El Puente Analítico 2: La Ecuación de Crecimiento Geométrico**
-Dado que la galaxia opera como un sistema orgánico, el crecimiento del núcleo respecto a su periferia no es lineal, sino que obedece a una ley de escala (análoga a las leyes de crecimiento alométrico en biología). Para no incurrir en abstracciones matemáticas, construimos la ecuación de este crecimiento utilizando a nuestra propia galaxia (la Vía Láctea) como la "Piedra Rosetta" de calibración:
-$$M_c = 4 \times 10^6 \cdot \left(\frac{M_t}{10^{11}}\right)^{\zeta \cdot \pi}$$
-
-Esta fórmula es el resultado de un estricto modelado basado en los datos observacionales:
-* **El Ancla Local ($4 \times 10^6$):** Es la masa empírica exacta del agujero negro central de nuestra Vía Láctea (Sagitario A*).
-* **El Módulo de Escala ($M_t / 10^{11}$):** Establece el orden de magnitud de una galaxia madura estándar ($\sim 10^{11}$ masas solares) como el punto de referencia [valor 1]. Si evaluamos nuestra propia galaxia, el paréntesis equivale a $1$, y el núcleo queda intacto en sus 4 millones de masas solares, garantizando que el escalado inicie desde un punto empíricamente verificado.
-* **El Motor de Acreción Rotacional ($\zeta \cdot \pi$):** El exponente de esta ecuación fue extraído directamente del laboratorio de datos. Al despejar la tasa de crecimiento empírica para colosos como M87 o Centaurus A, los resultados matemáticos arrojaron exponentes crudos que oscilaban entre $2.97$ y $3.47$ (con una tendencia central de $\sim 3.2$). Dado que estamos modelando un proceso de acreción donde la materia de un disco galáctico plano se enrolla espacialmente hacia una singularidad esférica, la geometría física exige la constante de los círculos. Así, dedujimos que la tendencia observacional de $\sim 3.2$ es, en realidad, la manifestación de la constante geométrica universal $\pi$ ($\approx 3.1416$).
-* **El Parámetro de Actividad ($\zeta$):** Funciona como el modulador metabólico que absorbe las variaciones temporales observadas en la realidad empírica. Un $\zeta > 1$ explica el frenesí de acreción temporal de las galaxias hiperactivas (explicando los exponentes empíricos mayores a 3.14), mientras que un $\zeta < 1$ se activa como el freno estructural natural en los sistemas más masivos, amortiguando la implacable agresividad de $\pi$ al acercarse a la frontera del 1%.
-
-Con esta ecuación ($M_t = M_c + M_r$) desglosada rigurosamente y su límite de saturación porcentual (1%) firmemente sustentado en la realidad empírica, poseemos ahora la herramienta analítica universal para escalar el modelo. Esta misma regla de proporción geométrica nos permitirá deducir, en el siguiente capítulo, la masa del ancla gravitacional absoluta que rige la dinámica del Gran Universo.
-
-
 ### Parte II: El Puente Analítico y el Hallazgo Empírico de la Constante
-Para dotar de sustento físico a esta relación, no recurrimos a abstracciones, sino a la información empírica recabada por la observación astronómica moderna. Al analizar los datos de colosos galácticos, pudimos extraer dos conclusiones fundamentales:
+Para dotar de sustento físico a esta relación, analizamos los datos de colosos galácticos y extrajimos las siguientes conclusiones fundamentales:
 
 **1. La Asíntota de Saturación Metabólica (El límite del 1%)**
 Las observaciones demuestran que, sin importar la masa total del sistema ($M_t$), la proporción del núcleo crece desde un minúsculo 0.006% (en galaxias espirales maduras) hasta estabilizarse cerca del 0.7% en colosos elípticos extremos (como Centaurus A o M87). Existe, por tanto, una asíntota natural; un techo estructural que la naturaleza no cruza. Redondeando este límite empírico para establecer una condición de frontera matemática absoluta, postulamos que el núcleo jamás superará el 1% de su sistema anfitrión:
@@ -178,11 +158,11 @@ Esta condición de frontera nos demuestra que las macroestructuras operan de for
 Para calcular cómo crece el núcleo respecto a la masa total, partimos de una ley de escala alométrica utilizando a nuestra propia galaxia (la Vía Láctea) como la "Piedra Rosetta" de calibración:
 $$M_c = 4 \times 10^6 \cdot \left(\frac{M_t}{10^{11}}\right)^{\zeta \cdot \pi}$$
 
-El origen de este exponente no es un adorno teórico, sino el resultado directo de someter los datos a prueba:
-* Al despejar la tasa de crecimiento empírica ($k$) para colosos como M87 y Centaurus A, los cálculos en bruto arrojaron exponentes que oscilaban consistentemente entre $2.97$ y $3.47$ (con una tendencia central y promedio muy sólida ubicada en $\sim 3.2$).
-* Ante este resultado, nos hicimos la pregunta fundamental: ¿cómo se traduce matemáticamente la acreción de un sistema donde la materia de un disco galáctico plano (2D) converge en espiral hacia una singularidad esférica o puntual (3D)? La geometría física de los sistemas rotatorios exige de forma absoluta la constante que gobierna las áreas y volúmenes circulares. 
-* Concluimos así que ese valor empírico crudo de $\sim 3.2$ no era otra cosa que la manifestación directa de la constante geométrica universal **$\pi$ ($\approx 3.1416$)**. 
-* Finalmente, el **Parámetro de Actividad ($\zeta$)** actúa como el modulador metabólico que absorbe las pequeñas desviaciones de la realidad: un $\zeta > 1$ explica el frenesí de acreción de las galaxias hiperactivas, mientras que un $\zeta < 1$ opera como el freno estructural natural en los sistemas macroscópicos más masivos.
+El origen de este exponente responde a un riguroso modelado basado en los datos observacionales:
+* **El Ancla Local ($4 \times 10^6$):** Es la masa empírica exacta del agujero negro central de nuestra Vía Láctea (Sagitario A*).
+* **El Módulo de Escala ($M_t / 10^{11}$):** Establece el orden de magnitud de una galaxia madura estándar ($\sim 10^{11}$ masas solares) como el punto de referencia base [valor 1]. Si evaluamos nuestra propia galaxia, el paréntesis equivale a $1$, y el núcleo queda intacto en sus 4 millones de masas solares.
+* **El Motor de Acreción Rotacional ($\zeta \cdot \pi$):** Al despejar la tasa de crecimiento empírica para colosos como M87 o Centaurus A, los cálculos en bruto arrojaron exponentes que oscilaban consistentemente entre $2.97$ y $3.47$ (con una tendencia central de $\sim 3.2$). Dado que la materia de un disco galáctico plano (2D) converge en espiral hacia una singularidad esférica (3D), la geometría física de los sistemas rotatorios exige la constante geométrica universal **$\pi$ ($\approx 3.1416$)**.
+* **El Parámetro de Actividad ($\zeta$):** Funciona como el modulador metabólico que absorbe las pequeñas desviaciones de la realidad: un $\zeta > 1$ explica el frenesí de acreción de las galaxias hiperactivas, mientras que un $\zeta < 1$ opera como el freno estructural natural en los sistemas macroscópicos más masivos.
 
 ---
 
