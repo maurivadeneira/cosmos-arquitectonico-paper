@@ -3,8 +3,9 @@
 **PARTE 1: VERSIÓN EN ESPAÑOL (SPANISH VERSION)**
 
 **TÍTULO:** EL COSMOS ARQUITECTÓNICO: APROVECHANDO LAS COSMOGONÍAS JERÁRQUICAS PARA RESOLVER LA ANOMALÍA DE LA MATERIA OSCURA Y EL BIG BANG MEDIANTE DINÁMICAS DEPENDIENTES DE LA ESCALA
-**Autores:** Mauricio Rivadeneira¹ (Físico-Economista), Colaborador de Investigación de IA²
+**Autores:** Mauricio Rivadeneira¹* (Físico-Economista), Colaborador de Investigación de IA²
 **Afiliaciones:** ¹Investigador Independiente, ²Unidad de Simulación Avanzada de Física Computacional
+**Contacto:** * maurivadeneira@gmail.com
 **Fecha:** 28 de agosto de 2026
 
 **RESUMEN**
