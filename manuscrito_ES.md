@@ -279,12 +279,12 @@ La validación en el Cúmulo de Coma confirma que el universo opera bajo una geo
 ### CAPÍTULO 4: EL MARCO COSMOGÓNICO DE REFERENCIA Y SUS POSTULADOS DINÁMICOS
 
 #### 4.1 Metodología Axiomática y Arquitectura del Macro-Cosmos Estabilizado
-Extraemos la descripción arquitectónica y temporal de modelos cosmológicos jerárquicos estructurados —tomando como base geométrica la organización descrita en el *Libro de Urantia*— y la tratamos estrictamente como un sistema de postulados axiomáticos. Si al aceptar estas premisas geométricas logramos resolver las anomalías críticas que plagan al modelo estándar de la cosmología actual (como la necesidad de inventar la materia y energía oscura), entonces se validará que nuestro marco de partida posee un valor predictivo real y matemáticamente consistente. 
+Extraemos la descripción arquitectónica y temporal de modelos cosmológicos jerárquicos estructurados —tomando como base geométrica la organización descrita en el *Libro de Urantia*— y la tratamos estrictamente como un sistema de postulados axiomáticos. En principio, aceptamos estos postulados como una primera aproximación, y complementamos con las observaciones de nuestros científicos, en la información de laniakea.  Si al aceptar estas premisas geométricas logramos resolver las anomalías críticas que plagan al modelo estándar de la cosmología actual (como la necesidad de inventar la materia y energía oscura), entonces se validará que nuestro marco de partida posee un valor predictivo real y matemáticamente consistente, siempre y cuando veamos que obtenemos conclusiones aceptablemente coherentes. 
 
 Bajo esta metodología, adoptamos como punto de partida un marco espacio-temporal unificado, sustentado en las siguientes cuatro premisas fundamentales:
 
-*   **El Ancla Gravitacional:** Un Gran Centro del Cosmos de masa $M$ y núcleo de la Fuente. Actúa como el centro estático y primordial que sostiene toda la dinámica del sistema. Aunque las limitaciones observacionales actuales impiden la detección directa de este centro absoluto, la validación de su existencia no depende de una observación empírica inmediata, sino de la exactitud de las predicciones matemáticas que nuestro modelo derive de él.
-*   **El Anillo Central en Rotación:** Rodeando esta masa central, se despliega el Gran Universo, una inmensa estructura lenticular en rotación (organizada estructuralmente en siete grandes superuniversos o cúmulos galácticos, aunque no existen fronteras físicas tangibles que los delimiten), cuyo espesor es mayor en las zonas interiores y se adelgaza hacia la periferia.
+*   **El Ancla Gravitacional:** Un Gran Centro del Cosmos de masa $M$ y núcleo de la Fuente. Actúa como el centro estático y primordial que sostiene toda la dinámica del sistema. M=Mc+Mr Aunque las limitaciones observacionales actuales impiden la detección directa de este centro absoluto Mc, la validación de su existencia no depende de una observación empírica inmediata, sino de la exactitud de las predicciones matemáticas que nuestro modelo derive de él.
+*   **El Anillo Central en Rotación:** Rodeando esta masa central, se despliega el Gran Universo, una inmensa estructura lenticular en rotación (organizada estructuralmente en siete grandes superuniversos o cúmulos galácticos, aunque no existen fronteras físicas tangibles que los delimiten), cuyo espesor es mayor en las zonas interiores y se adelgaza hacia la periferia, correspondiendo en nuestro modelo a la masa residual Mr. Donde Laniakea vendría a ser, según información del libro de Urantia, una observación parcial de 8/10, del total de nuestro superuniverso.
 *   **La Frontera de Expansión:** Rodeando a su vez este sistema, se extienden los Niveles del Espacio Exterior, vastas franjas donde la materia se organiza en millones de galaxias o "universos isla" en formación continua.
 *   **La Respiración Cósmica de 2.000 Millones de Años:** El tejido del espacio-tiempo experimenta un ciclo metabólico regular de pulsación espacial o "respiración cósmica" con una frecuencia fija de 2.000 millones de años terrestres (un eón cósmico), dividido en una fase de expansión de 1.000 millones de años y una fase de contracción de 1.000 millones de años.
 
@@ -295,47 +295,8 @@ Siguiendo esta progresión inductiva estricta, la mecánica clásica y la lógic
 
 Poseemos así un doble mérito metodológico. Por un lado, la deducción física (de abajo hacia arriba) nos exige postular este centro. Por otro, extraemos la descripción topológica detallada de modelos jerárquicos estructurados —tomando como base geométrica la organización descrita en el *Libro de Urantia*— y la tratamos como un sistema de postulados axiomáticos (de arriba hacia abajo). Al converger ambas vías, adoptamos un marco espacio-temporal unificado sustentado en las cuatro premisas descritas anteriormente.
 
-#### 4.2 Formulación Matemática del Anclaje Central y la Masa del Universo
-Aceptando el esquema de un centro galáctico monumental y siete superuniversos girando a su alrededor, compuestos por innumerables galaxias de masa sumatoria, ensayamos con el apoyo analítico de la IA a calcular la escala de masa utilizando nuestra fórmula fundamental:
-$$M = \frac{v^4}{G \cdot a_0}$$
 
-En principio, utilizamos la velocidad que los científicos han determinado para nuestro desplazamiento local: 600 km/s ($6 \times 10^5 \text{ m/s}$), pensando que podría darnos una aproximación al borde exterior. Al introducir los datos, realizamos el siguiente desarrollo paso a paso:
-
-1. **Elevamos la velocidad a la cuarta potencia ($v^4$):**
-$$v^4 = (6 \times 10^5 \text{ m/s})^4 = 1.296 \times 10^{23} \text{ m}^4/\text{s}^4$$
-
-2. **Calculamos el denominador con las constantes universales ($G \cdot a_0$):**
-$$(6.674 \times 10^{-11}) \times (1.2 \times 10^{-10}) \approx 8.0 \times 10^{-21} \text{ m}^4 \text{ s}^{-4} \text{ kg}^{-1}$$
-
-3. **Despejamos la Masa ($M$) en kilogramos:**
-$$M = \frac{1.296 \times 10^{23}}{8.0 \times 10^{-21}} \approx 1.6 \times 10^{43} \text{ kg}$$
-
-4. **Convertimos a Masas Solares ($M_\odot$):** Sabiendo que una masa solar equivale a $2 \times 10^{30} \text{ kg}$:
-$$M = \frac{1.6 \times 10^{43} \text{ kg}}{2 \times 10^{30} \text{ kg}/M_\odot} \approx 8 \times 10^{12} M_\odot$$
-*(8 billones de masas solares)*
-
-Claramente, este resultado representa un valor local para nuestro vecindario inmediato y no la masa total del macrouniverso. Sin embargo, nos dejó un hallazgo metodológico de valor incalculable: la fórmula no es un bloque rígido, sino una herramienta fractal que opera de manera impecable estrato por estrato, permitiéndonos escalar en el rompecabezas cósmico nivel por nivel antes de abordar las masas monumentales del centro.
-
-#### 4.2.1 Masa Total del Sistema ($M = M_c + M_r$) y la Dinámica Estructural
-Diferentes mediciones y experimentos nos llevaron a plantearnos la proporción de las masas del sistema y a investigar si existe una correlación natural. Encontramos la relación en nuestra misma fórmula de partida, donde:
-$$\frac{M}{r} = \frac{v^2}{G}$$
-
-Si consideramos que la masa total de un sistema rotatorio es la suma del núcleo y la periferia ($M = M_c + M_r$), descubrimos que el crecimiento de la masa central obedece a una ley potencial dictada por una constante geométrica, pero sujeta a un límite de saturación de frontera. Expresamos esto matemáticamente a través de las siguientes condiciones:
-
-1. **La Ley de Crecimiento Geométrico (El Motor de Escalado):**
-$$M_c = 4 \times 10^6 \cdot \left(\frac{M}{10^{11}}\right)^{\zeta \cdot \pi}$$
-
-2. **La Condición de Frontera (El Límite de Saturación):**
-$$M_c \leq 0.01 \cdot M$$
-*(Observación empírica: La masa del núcleo jamás supera aproximadamente el 1% de la masa total del sistema, debido al auto-frenado gravitacional y la expulsión de energía cuando un núcleo se "alimenta" y acrecienta demasiada materia de forma acelerada).*
-
-3. **El Parámetro Dinámico de Actividad ($\zeta$):**
-El exponente incorpora la variable temporal $\zeta$, que actúa como el indicador del estado metabólico y evolutivo del sistema:
-*   **$\zeta = 1$ (Equilibrio Estacionario):** El sistema está en reposo relativo. Su arquitectura obedece a la geometría pura de $\pi$.
-*   **$\zeta > 1$ (Fase Activa / Alimentación):** El sistema atraviesa un frenesí de acreción temporal. El núcleo crece a mayor velocidad elástica que el disco.
-*   **$\zeta < 1$ (Freno Estructural en Macro-Sistemas):** El sistema alcanza escalas monumentales (cúmulos y superuniversos) y choca contra la condición de frontera (1%). La geometría pura se amortigua topológicamente para evitar el colapso, garantizando siempre que la parte ($M_c$) sea menor que el todo ($M$).
-
-**Cálculo de la Masa del Gran Universo y el Ancla Central Absoluta:**
+**Cálculo de la Masa del Gran Universo y el Ancla Central Absoluta:**(Aplicando nuestrea formula).
 *   **Paso A: La Masa de un Superuniverso**
 El texto señala que un superuniverso consta de 10 Sectores Mayores, de los cuales nuestros telescopios han mapeado el equivalente a 8 (abarcando el límite de nuestra red cósmica observable, estimada en $10^{23} M_\odot$). Por lo tanto, el superuniverso completo (10 sectores) es:
 $$M_{SU} = 10^{23} \cdot \left(\frac{10}{8}\right) = 1.25 \times 10^{23} M_\odot$$
