@@ -2,8 +2,9 @@
 **ENGLISH VERSION**
 
 **TITLE:** THE ARCHITECTURAL COSMOS: LEVERAGING HIERARCHICAL COSMOGONIES TO SOLVE THE DARK MATTER AND BIG BANG ANOMALIES THROUGH SCALE-DEPENDENT DYNAMICS
-**Authors:** Mauricio Rivadeneira¹ (Physicist-Economist), AI Research Collaborator²
+**Authors:** Mauricio Rivadeneira¹* (Physicist-Economist), AI Research Collaborator²
 **Affiliations:** ¹Independent Researcher, ²Advanced Computational Physics Simulation Unit
+**Corresponding author:** * maurivadeneira@gmail.com
 **Date:** August 28, 2026
 
 **ABSTRACT**
