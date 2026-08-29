@@ -407,10 +407,17 @@ Si el universo posee una arquitectura rotacional coherente a macroescala, los pu
 ---
 
 ### REFERENCIAS BIBLIOGRÁFICAS
-1.  **Fundación Urantia.** (1955). *El Libro de Urantia*. (Documento 15: Los Universos Locales y Documento 11: La Isla Eterna del Paraíso).
-2.  **Milgrom, M.** (1983). *A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis*. The Astrophysical Journal, 270, 365-370.
-3.  **Kashlinsky, A., et al.** (2008). *A measurement of large-scale peculiar velocities of clusters of galaxies: results and cosmological implications* (El Flujo Oscuro). The Astrophysical Journal Letters, 686(2), L49.
-4.  **Lelli, F., McGaugh, S. S., & Schombert, J. M.** (2016). *SPARC: Mass Models for 175 Disk Galaxies with Spitzer Photometry and Accurate Rotation Curves*. The Astronomical Journal, 152(6), 157.
-5.  **Antoja, T. et al.** (2018). *A dynamically young and perturbed Milky Way disk* (Resultados de la Misión Espacial Gaia). Nature, 561(7723), 360-362.
-6.  **Migkas, K., et al.** (2020). *Probing cosmic isotropy with a new X-ray galaxy cluster sample through the $L_X-T$ scaling relation* (Anisotropía de expansión). Astronomy & Astrophysics, 636, A15.
-7.  **Planck Collaboration.** (2020). *Planck 2018 results. VI. Cosmological parameters*. Astronomy & Astrophysics, 641, A6.
+
+1. **Fundación Urantia.** (1955). *El Libro de Urantia*. (Documento 15: Los Universos Locales y Documento 11: La Isla Eterna del Paraíso).
+2. **Milgrom, M.** (1983). *A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis*. The Astrophysical Journal, 270, 365-370.
+3. **Kashlinsky, A., et al.** (2008). *A measurement of large-scale peculiar velocities of clusters of galaxies: results and cosmological implications* (El Flujo Oscuro). The Astrophysical Journal Letters, 686(2), L49.
+4. **Lelli, F., McGaugh, S. S., & Schombert, J. M.** (2016). *SPARC: Mass Models for 175 Disk Galaxies with Spitzer Photometry and Accurate Rotation Curves*. The Astronomical Journal, 152(6), 157.
+5. **Antoja, T., et al.** (2018). *A dynamically young and perturbed Milky Way disk* (Resultados de la Misión Espacial Gaia). Nature, 561(7723), 360-362.
+6. **Migkas, K., et al.** (2020). *Probing cosmic isotropy with a new X-ray galaxy cluster sample through the $L_X-T$ scaling relation* (Anisotropía de expansión). Astronomy & Astrophysics, 636, A15.
+7. **Planck Collaboration.** (2020). *Planck 2018 results. VI. Cosmological parameters*. Astronomy & Astrophysics, 641, A6.
+8. **Tully, R. B., Courtois, H., Hoffman, Y., & Pomarède, D.** (2014). *The Laniakea supercluster of galaxies*. Nature, 513(7516), 71-73.
+9. **Tully, R. B., & Fisher, J. R.** (1977). *A New Method of Determining Distances to Galaxies*. Astronomy and Astrophysics, 54, 661-673.
+10. **Zwicky, F.** (1933). *Die Rotverschiebung von extragalaktischen Nebeln*. Helvetica Physica Acta, 6, 110-127.
+11. **Riess, A. G., et al.** (2019). *Large Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant and Stronger Evidence for Physics beyond $\Lambda$CDM*. The Astrophysical Journal, 876(1), 85.
+12. **Sunyaev, R. A., & Zeldovich, Y. B.** (1972). *The Observations of Relic Radiation as a Test of the Nature of X-Ray Radiation from the Clusters of Galaxies*. Comments on Astrophysics and Space Physics, 4, 173.
+13. **Forman, W., & Jones, C.** (1982). *X-ray-imaging observations of clusters of galaxies*. Annual Review of Astronomy and Astrophysics, 20, 547-585.
