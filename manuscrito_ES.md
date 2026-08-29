@@ -331,7 +331,10 @@ $$R(t) = R_0 + A \cdot \sin\left(\frac{2\pi \cdot t}{T}\right)$$
 
 Donde $T = 2 \times 10^9$ años (el eón cósmico) y $R_0$ es el radio de equilibrio. Al derivar esta función armónica respecto al tiempo para hallar la tasa de expansión aparente en nuestra era actual, obtenemos una velocidad radial de expansión que equivale exactamente al comportamiento cinemático descrito por la Constante de Hubble. La aceleración detectada en el espacio profundo no está causada por una energía repulsiva misteriosa, sino por el estiramiento radial de esta onda respiratoria natural en su fase expansiva, haciendo que la "Energía Oscura" sea un concepto física y matemáticamente obsoleto.
 
+### CAPÍTULO 5: RESOLUCIÓN FÍSICA Y PROTOCOLO DE FALSABILIDAD EXPERIMENTAL
 
+#### 5.1 El Modelo Pulsante: Oscilaciones de Expansión y Contracción
+El Big Bang deja de ser una singularidad matemática de densidad infinita surgida de la nada y se redefine como un evento de rebote cinético local dentro de un sistema macrocósmico autorregulado y pulsante. Los siete superuniversos experimentan ciclos periódicos y coordinados de expansión y contracción (pulsaciones cósmicas). Cuando el transporte de materia a gran escala acumula una densidad crítica en las proximidades del Núcleo de Masa Colosal, la presión de radiación y las fuerzas de torsión a escala ultrabaja revierten el colapso, iniciando una fase de expansión controlada que preserva la información y la estructura del sistema.
 
 #### 5.1.1 La Barrera Centrífuga y el Pozo de Potencial Efectivo
 El mecanismo intrínseco que previene el colapso gravitatorio hacia una singularidad de densidad infinita (el Big Bang clásico) se rige por la conservación del momento angular a escala macrocósmica. Al modelar el sistema cerrado de los siete superuniversos en rotación coplanar alrededor del Núcleo de Masa Colosal (NMC), la dinámica orbital queda determinada por un pozo de potencial estable o potencial efectivo:
