@@ -441,7 +441,45 @@ Dado que estamos imposibilitados de ver la estructura completa de forma estátic
 A medida que transitamos por esa órbita, nuestro vector de movimiento altera el ángulo de visión, "asomándonos" progresivamente por detrás del núcleo masivo central. Así, lo que la física óptica nos niega de un solo vistazo, el movimiento orbital nos lo entrega a través del tiempo. 
 
 Por lo tanto, la cartografía completa del Gran Universo exige un esfuerzo transgeneracional. Solo mediante el registro continuo de datos astronómicos y la preservación de la memoria a lo largo de las eras, las civilizaciones pueden acumular las vistas sucesivas de los distintos cuadrantes. El año cósmico se convierte en el escáner panorámico que, sumado a la exactitud matemática de nuestra ley base, nos permitirá eventualmente armar el mapa definitivo de los 7 superuniversos.
+
+## 6.6 Proyección Macroscópica: El Límite Observacional y la Arquitectura $N_1$ a $N_7$
+
+Para extrapolar la fórmula de baja aceleración y evaluar la posibilidad geométrica de una gran superestructura cósmica —por ejemplo, el modelo de los 7 superuniversos propuesto en la literatura de Urantia—, enfrentamos un inmenso desafío observacional debido a la escala del sistema. 
+
+Para superar este *impasse*, la metodología más rigurosa es escalar de forma progresiva. Asumimos que todo nuestro superuniverso (la suma de Laniakea y la red cósmica observable hasta nuestros horizontes) constituye la **Masa Residual ($M_r$)** de la primera macro-escala ($N_1$). Siguiendo el principio estructural validado en las escalas inferiores, esta inmensa cuenca debe estar orbitando o fluyendo hacia un anclaje masivo central ($M_c$), donde $M_c \approx 1\%$ de la Masa Total ($M_t$). 
+
+Así, establecemos que $M_t = M_c + M_r$. Con esta masa total proyectada, utilizamos la ley fundamental ($v = \sqrt[4]{M_t \cdot G \cdot a_0}$ y $r = v^2 / a_0$) para calcular a qué velocidad debería estar girando este sistema y cuál sería su radio. Posteriormente, escalamos este modelo multiplicando el sistema por 2 ($N_2$), por 3 ($N_3$), hasta llegar al sistema completo de los 7 superuniversos ($N_7$), cruzando en cada paso los cálculos matemáticos con las mediciones empíricas anómalas de la astrofísica moderna.
+
+### Tabla de Proyección Macroscópica ($N_1$ a $N_7$)
+*Hipótesis Base: Nuestro superuniverso observable equivale a la Masa Residual ($M_r$) inicial.*
+
+| Nivel / Escala | Velocidad Proyectada ($v$) | Radio Dinámico Proyectado ($r = v^2 / a_0$) | Masa Total ($M_t$) | Anclaje Central Estimado ($M_c \approx 1\%$) | Masa Residual ($M_r$) y Cuenca Dinámica |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **$N_1$ (1 Superuniverso)** | **$\approx 63.400$ km/s**<br>(Flujo perimetral) | **$\approx 3.54$ M a.l.** | $1.01 \times 10^{21} M_\odot$ | **$1.0 \times 10^{19} M_\odot$**<br>(Núcleo rotacional local) | $1.00 \times 10^{21} M_\odot$<br>(Nuestra red observable) |
+| **$N_2$ (2 Superuniversos)** | **$\approx 75.399$ km/s** | **$\approx 5.01$ M a.l.** | $2.02 \times 10^{21} M_\odot$ | **$2.0 \times 10^{19} M_\odot$** | $2.00 \times 10^{21} M_\odot$<br>(2 cuencas en interacción) |
+| **$N_3$ (3 Superuniversos)** | **$\approx 83.438$ km/s** | **$\approx 6.13$ M a.l.** | $3.03 \times 10^{21} M_\odot$ | **$3.0 \times 10^{19} M_\odot$** | $3.00 \times 10^{21} M_\odot$ |
+| **$N_4$ (4 Superuniversos)** | **$\approx 89.650$ km/s** | **$\approx 7.08$ M a.l.** | $4.04 \times 10^{21} M_\odot$ | **$4.0 \times 10^{19} M_\odot$** | $4.00 \times 10^{21} M_\odot$ |
+| **$N_5$ (5 Superuniversos)** | **$\approx 94.786$ km/s** | **$\approx 7.91$ M a.l.** | $5.05 \times 10^{21} M_\odot$ | **$5.0 \times 10^{19} M_\odot$** | $5.00 \times 10^{21} M_\odot$ |
+| **$N_6$ (6 Superuniversos)** | **$\approx 99.224$ km/s** | **$\approx 8.67$ M a.l.** | $6.06 \times 10^{21} M_\odot$ | **$6.0 \times 10^{19} M_\odot$** | $6.00 \times 10^{21} M_\odot$ |
+| **$N_7$ (El Gran Universo)** | **$\approx 103.093$ km/s**<br>(Límite cinemático supremo)| **$\approx 9.36$ M a.l.**<br>(Viable dentro de nuestro horizonte)| **$7.07 \times 10^{21} M_\odot$** | **$7.0 \times 10^{19} M_\odot$**<br>**(El Núcleo Absoluto)** | **$7.00 \times 10^{21} M_\odot$**<br>**(Los 7 sistemas en rotación)** |
+
+*(Nota: "M a.l." equivale a miles de millones de años luz).*
+
+### Correspondencia con Observaciones Experimentales "Anómalas"
+
+Al proyectar el modelo bajo esta premisa, hallamos que la ecuación geométrica no solo es consistente, sino que decodifica y explica matemáticamente las "anomalías" que el modelo estándar cosmológico ($\Lambda\text{CDM}$) no ha podido resolver:
+
+1. **Reinterpretación de la Expansión (El flujo de $N_1$):**
+   A una distancia de $\sim 3.500$ millones de años luz, los telescopios registran galaxias con velocidades de recesión de $60.000$ a $70.000 \text{ km/s}$. El modelo estándar interpreta esto como una "expansión del tejido espacial" impulsada por la teórica energía oscura. Sin embargo, nuestro modelo predictivo demuestra que, para un sistema con la masa $M_r$ de nuestro superuniverso, la constante $a_0$ exige exactamente una velocidad de borde dinámica de **$63.400 \text{ km/s}$**. La observación no refleja la ruptura del espacio, sino el flujo orbital intrínseco de nuestra propia cuenca estructurada.
+
+2. **El "Dark Flow" (Interacción con $N_2$ y $N_3$):**
+   Las sondas espaciales han detectado un flujo direccional masivo de cúmulos galácticos apuntando hacia el exterior del horizonte observable clásico. En el contexto de la tabla escalar, este movimiento se explica como la interacción gravitacional de nuestra masa residual ($M_r$) con las corrientes cinemáticas generadas por las cuencas superuniversales contiguas, cuyas velocidades arrastran la materia a promedios de $75.000 - 83.000 \text{ km/s}$ hacia el gran centro de gravedad común.
+
+3. **Viabilidad Relativista del Límite Estructural ($N_7$):**
+   Un hito fundamental de esta extrapolación es que, al llegar al séptimo nivel ($N_7$), la velocidad de flujo del Gran Universo en su conjunto no colapsa hacia la imposibilidad física. La fórmula dicta una velocidad límite de **$\approx 103.000 \text{ km/s}$**, lo que equivale aproximadamente al **34% de la velocidad de la luz**. Esta proporción garantiza que todo el sistema unificado pueda rotar y mantener su estabilidad estructural gravitacional sin incurrir en rupturas relativistas.
 ---
+
+
 
 ### CAPÍTULO 7: TOPOLOGÍA DEL GRAN UNIVERSO Y LOS LÍMITES DE LA CREACIÓN
 
