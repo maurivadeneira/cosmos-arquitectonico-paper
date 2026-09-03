@@ -404,6 +404,19 @@ Además, la ley no solo determina la masa operativa del sistema, sino que confin
 
 *(Nota: "M a.l." equivale a Millones de años luz).*
 
+### Nota Metodológica: La Reversibilidad de la Ley y la Doble Comprobación del Núcleo ($M_c$)
+
+La robustez de la ley de baja aceleración radica en su carácter reversible y en su capacidad de validación cruzada. Al basarse en un principio fundamental y no en parámetros ajustables, la ecuación funciona con precisión sin importar cuál sea el dato empírico de entrada, permitiendo calcular la masa a partir de la cinemática, o predecir la cinemática a partir de la masa visible.
+
+El caso del supercúmulo de Laniakea ilustra magistralmente esta consistencia. A esta macro-escala, la estimación del núcleo central masivo ($M_c$) se logró corroborar mediante dos vías analíticas independientes que convergieron en el mismo resultado físico:
+
+1. **Vía Cinemática (Por sustracción):** Al tomar la velocidad límite del flujo perimetral ($v \approx 6.324 \text{ km/s}$) y aplicar la ecuación $M_t = v^4 / G \cdot a_0$, obtuvimos la masa total operativa. Al restarle a este total la enorme masa residual empírica ($M_r$, calculada por la luminosidad de las $\sim 100.000$ galaxias de la cuenca), el remanente exigía un anclaje gravitacional de $\approx 10^{15} M_\odot$.
+2. **Vía de Proporción Escalar (Regla del 1%):** Al aplicar la constante de estructuración observada en los sistemas inferiores (donde el núcleo representa aproximadamente el 1% de la masa total de la cuenca), el cálculo directo ($1\% \text{ de } 10^{17} M_\odot$) arrojó exactamente $\approx 10^{15} M_\odot$.
+
+Ambos caminos matemáticos exigían la existencia de una concentración de masa de $10^{15} M_\odot$ en el fondo del pozo gravitacional. Al contrastar esta exigencia teórica con la observación astronómica, el resultado es exacto: ese valor corresponde a la masa medida del **Gran Atractor (Cúmulo de Norma)**, el conglomerado hipermasivo alrededor del cual fluye y se estructura toda la macro-cuenca de Laniakea. 
+
+Esta doble comprobación confirma que no estamos ante coincidencias estadísticas, sino ante una constante de diseño geométrico fractal que gobierna desde el agujero negro de una galaxia hasta el motor central de los supercúmulos.
+
 En cada peldaño observacional —desde los $220 \text{ km/s}$ anclados por Sagitario A* en la Vía Láctea, hasta los flujos masivos de $6.300 \text{ km/s}$ precipitándose hacia el Gran Atractor en Laniakea—, la dinámica obedece a la misma topología: un núcleo denso estructurador ($M_c$) y una inmensa masa residual extendida ($M_r$) que conforma la cuenca de atracción o rotación. No hay necesidad de masa faltante; los observatorios astronómicos ya han medido tanto las velocidades correctas como las masas exactas y los radios espaciales requeridos por la ecuación de baja aceleración.
 
 ---
