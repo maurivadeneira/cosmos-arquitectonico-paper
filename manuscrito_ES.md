@@ -419,6 +419,28 @@ Esta doble comprobación confirma que no estamos ante coincidencias estadística
 
 En cada peldaño observacional —desde los $220 \text{ km/s}$ anclados por Sagitario A* en la Vía Láctea, hasta los flujos masivos de $6.300 \text{ km/s}$ precipitándose hacia el Gran Atractor en Laniakea—, la dinámica obedece a la misma topología: un núcleo denso estructurador ($M_c$) y una inmensa masa residual extendida ($M_r$) que conforma la cuenca de atracción o rotación. No hay necesidad de masa faltante; los observatorios astronómicos ya han medido tanto las velocidades correctas como las masas exactas y los radios espaciales requeridos por la ecuación de baja aceleración.
 
+## 6.6 Gran Proyección: Desde Laniakea hasta la Arquitectura de los Siete Superuniversos
+
+Si la ley de baja aceleración ($M_t = v^4 / G \cdot a_0$) demuestra una precisión milimétrica para estructurar sistemas desde una galaxia de $10^{11} M_\odot$ hasta una macro-cuenca de $10^{17} M_\odot$ como Laniakea, el rigor matemático exige proyectar este principio hacia su límite natural. Al escalar la formulación hacia masas del orden de $10^{23} M_\odot$, el modelo revela la arquitectura de los sectores mayores (sistemas $N=1, 2...$) hasta culminar en la estructura máxima: un Gran Universo compuesto por siete superuniversos rotando en torno a un núcleo absoluto.
+
+Esta proyección no es una especulación arbitraria; es la consecuencia geométrica de aplicar la misma métrica comprobada a la totalidad del cosmos. Sin embargo, al enfrentar escalas tan colosales, la física impone restricciones observacionales estrictas que explican por qué nuestro mapa actual parece fragmentado.
+
+### 1. La Resolución Analítica de las "Anomalías" Cosmológicas
+La astronomía moderna, atrapada en el modelo estándar ($\Lambda\text{CDM}$), asume que el universo a gran escala debe ser homogéneo e isótropo (el Principio Cosmológico). Bajo este dogma, el descubrimiento de estructuras como el *Giant Arc* (un arco de galaxias de 3.300 millones de años luz) o corrientes de flujo masivo direccional como el *Dark Flow*, son catalogadas como "anomalías" inexplicables o ruido estadístico, pues rompen el límite de tamaño permitido por la teoría.
+
+Bajo la ley de baja aceleración, estas megaestructuras dejan de ser anomalías. Se revelan como la firma cinemática y geométrica natural de los sub-sectores vecinos o de las corrientes fronterizas entre superuniversos contiguos. Son los bordes de cuencas de atracción aún mayores, operando bajo la misma constante $a_0$.
+
+### 2. El Límite del Observador Periférico y la Pantalla Central
+¿Por qué, si existen 7 superuniversos, no los vemos en nuestros telescopios? La imposibilidad de observar la arquitectura completa radica en dos limitantes físicas ineludibles:
+* **El horizonte del cono causal:** La luz viaja a una velocidad finita. En un sistema cuyas dimensiones abarcan cientos de miles de millones de años luz, la luz de los sectores opuestos del Gran Universo simplemente no ha tenido tiempo de llegar hasta nosotros.
+* **El eclipse de la masa central:** Al ocupar una posición interna y periférica (en los bordes del sistema), nuestra línea de visión hacia el núcleo absoluto está atravesada por concentraciones de masa de una densidad inconmensurable. Este núcleo supremo actúa como un filtro infranqueable que curva la luz y oscurece visualmente a los superuniversos situados al otro lado, de la misma manera que el polvo del centro de la Vía Láctea nos impide ver qué hay detrás de ella.
+
+### 3. El Reloj de Paralaje y la Memoria Astronómica
+Dado que estamos imposibilitados de ver la estructura completa de forma estática, la solución del modelo depende de la dinámica orbital. Nuestro sistema completo viaja a lo largo de una inmensa órbita macroscópica. El tiempo que toma completar una vuelta —el llamado "año cósmico", estimado localmente en unos 230 millones de años terrestres— funciona como un reloj de paralaje gigantesco.
+
+A medida que transitamos por esa órbita, nuestro vector de movimiento altera el ángulo de visión, "asomándonos" progresivamente por detrás del núcleo masivo central. Así, lo que la física óptica nos niega de un solo vistazo, el movimiento orbital nos lo entrega a través del tiempo. 
+
+Por lo tanto, la cartografía completa del Gran Universo exige un esfuerzo transgeneracional. Solo mediante el registro continuo de datos astronómicos y la preservación de la memoria a lo largo de las eras, las civilizaciones pueden acumular las vistas sucesivas de los distintos cuadrantes. El año cósmico se convierte en el escáner panorámico que, sumado a la exactitud matemática de nuestra ley base, nos permitirá eventualmente armar el mapa definitivo de los 7 superuniversos.
 ---
 
 ### CAPÍTULO 7: TOPOLOGÍA DEL GRAN UNIVERSO Y LOS LÍMITES DE LA CREACIÓN
