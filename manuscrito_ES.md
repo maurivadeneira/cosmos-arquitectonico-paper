@@ -396,66 +396,56 @@ Además, la ley no solo determina la masa operativa del sistema, sino que confin
 
 | Sistema | Velocidad Empírica ($v$) | Radio Dinámico ($r = v^2 / a_0$) vs Observado | Masa Total ($M_t$) | Anclaje Central ($M_c$) | Masa Residual ($M_r$) y Cuenca Dinámica |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1. Vía Láctea** | **220 km/s**<br>(Rotación de disco) | **Calc:** $\approx 42.600$ a.l.<br>**Empírico:** $\approx 50.000$ a.l. | $0.65 \times 10^{11} M_\odot$ | **$4.3 \times 10^6 M_\odot$**<br>(Sagitario A*) | $0.649 \times 10^{11} M_\odot$<br>(Disco estelar, gas y halo) |
-| **2. Andrómeda (M31)** | **250 km/s**<br>(Rotación de disco) | **Calc:** $\approx 55.000$ a.l.<br>**Empírico:** $\approx 75.000$ a.l. | $1.50 \times 10^{11} M_\odot$ | **$1.4 \times 10^8 M_\odot$**<br>(Agujero negro M31*) | $1.48 \times 10^{11} M_\odot$<br>(Disco extendido y satélites) |
-| **3. Cúmulo de Virgo** | **$\approx 1.100$ km/s**<br>(Dispersión) | **Calc:** $\approx 1.06$ M a.l.<br>**Empírico:** $\approx 1.5 - 2$ M a.l. | $12.00 \times 10^{12} M_\odot$ | **$6.5 \times 10^{10} M_\odot$**<br>(Galaxia elíptica M87) | $11.93 \times 10^{12} M_\odot$<br>($\approx 1.300$ galaxias en cuenca) |
-| **4. Cúmulo de Coma** | **$\approx 2.000$ km/s**<br>(Flujo extremo) | **Calc:** $\approx 3.5$ M a.l.<br>**Empírico:** $\approx 4$ M a.l. | $10.00 \times 10^{14} M_\odot$ | **$5.0 \times 10^{11} M_\odot$**<br>(NGC 4874 / 4889) | $9.95 \times 10^{14} M_\odot$<br>(Miles de galaxias en pozo) |
-| **5. Laniakea** | **$\approx 6.324$ km/s**<br>(Límite del flujo) | **Calc:** $\approx 35.2$ M a.l.<br>**Empírico:** Pozo profundo | $1.00 \times 10^{17} M_\odot$ | **$1.0 \times 10^{15} M_\odot$**<br>(El Gran Atractor) | $0.99 \times 10^{17} M_\odot$<br>($\approx 100.000$ galaxias) |
+| **1. Vía Láctea** | **220 km/s**<br>(Rotación de disco) | **Calc:** $\approx 42.600$ a.l.<br>**Empírico:** $\approx 50.000$ a.l. | $0.65 \times 10^{11} M_\odot$ | **$4.3 \times 10^6 M_\odot$**<br>(Sagitario A*) | $0.649 \times 10^{11} M_\odot$<br>(Disco, gas y halo) |
+| **2. Andrómeda (M31)** | **250 km/s**<br>(Rotación de disco) | **Calc:** $\approx 55.000$ a.l.<br>**Empírico:** $\approx 75.000$ a.l. | $1.50 \times 10^{11} M_\odot$ | **$1.4 \times 10^8 M_\odot$**<br>(Agujero negro) | $1.48 \times 10^{11} M_\odot$<br>(Disco y satélites) |
+| **3. Cúmulo de Virgo** | **$\approx 1.100$ km/s**<br>(Dispersión) | **Calc:** $\approx 1.06$ Millones a.l.<br>**Empírico:** $\approx 1.5 - 2$ Millones a.l. | $12.00 \times 10^{12} M_\odot$ | **$6.5 \times 10^{10} M_\odot$**<br>(Galaxia elíptica M87) | $11.93 \times 10^{12} M_\odot$<br>($\approx 1.300$ galaxias) |
+| **4. Cúmulo de Coma** | **$\approx 2.000$ km/s**<br>(Flujo extremo) | **Calc:** $\approx 3.5$ Millones a.l.<br>**Empírico:** $\approx 4$ Millones a.l. | $10.00 \times 10^{14} M_\odot$ | **$5.0 \times 10^{11} M_\odot$**<br>(NGC 4874 / 4889) | $9.95 \times 10^{14} M_\odot$<br>(Miles de galaxias) |
+| **5. Laniakea** | **$\approx 6.324$ km/s**<br>(Límite del flujo) | **Calc:** $\approx 35.2$ Millones a.l.<br>**Empírico:** Pozo profundo | $1.00 \times 10^{17} M_\odot$ | **$1.0 \times 10^{15} M_\odot$**<br>(El Gran Atractor) | $0.99 \times 10^{17} M_\odot$<br>($\approx 100.000$ galaxias) |
 
-*(Nota: "M a.l." equivale a Millones de años luz).*
+*(Nota: "a.l." equivale a años luz).*
 
 ### Nota Metodológica: La Reversibilidad de la Ley y la Doble Comprobación del Núcleo ($M_c$)
 
-La robustez de la ley de baja aceleración radica en su carácter reversible y en su capacidad de validación cruzada. Al basarse en un principio fundamental y no en parámetros ajustables, la ecuación funciona con precisión sin importar cuál sea el dato empírico de entrada, permitiendo calcular la masa a partir de la cinemática, o predecir la cinemática a partir de la masa visible.
+La robustez de la ley de baja aceleración radica en su carácter reversible y en su capacidad de validación cruzada. Al basarse en un principio fundamental, la ecuación funciona con precisión permitiendo calcular la masa a partir de la cinemática, o predecir la cinemática a partir de la masa visible.
 
-El caso del supercúmulo de Laniakea ilustra magistralmente esta consistencia. A esta macro-escala, la estimación del núcleo central masivo ($M_c$) se logró corroborar mediante dos vías analíticas independientes que convergieron en el mismo resultado físico:
+El caso de Laniakea ilustra esta consistencia. La estimación del núcleo central masivo ($M_c$) se corroboró mediante dos vías independientes:
+1. **Vía Cinemática:** Al aplicar $M_t = v^4 / G \cdot a_0$ usando la velocidad límite ($6.324 \text{ km/s}$) y restarle la enorme masa residual empírica ($M_r$), el remanente exigió un anclaje gravitacional de $\approx 10^{15} M_\odot$.
+2. **Vía de Proporción Escalar (Regla del 1%):** Al aplicar la constante de estructuración ($1\% \text{ de } 10^{17} M_\odot$), el cálculo directo arrojó exactamente $\approx 10^{15} M_\odot$.
 
-1. **Vía Cinemática (Por sustracción):** Al tomar la velocidad límite del flujo perimetral ($v \approx 6.324 \text{ km/s}$) y aplicar la ecuación $M_t = v^4 / G \cdot a_0$, obtuvimos la masa total operativa. Al restarle a este total la enorme masa residual empírica ($M_r$, calculada por la luminosidad de las $\sim 100.000$ galaxias de la cuenca), el remanente exigía un anclaje gravitacional de $\approx 10^{15} M_\odot$.
-2. **Vía de Proporción Escalar (Regla del 1%):** Al aplicar la constante de estructuración observada en los sistemas inferiores (donde el núcleo representa aproximadamente el 1% de la masa total de la cuenca), el cálculo directo ($1\% \text{ de } 10^{17} M_\odot$) arrojó exactamente $\approx 10^{15} M_\odot$.
-
-Ambos caminos matemáticos exigían la existencia de una concentración de masa de $10^{15} M_\odot$ en el fondo del pozo gravitacional. Al contrastar esta exigencia teórica con la observación astronómica, el resultado es exacto: ese valor corresponde a la masa medida del **Gran Atractor (Cúmulo de Norma)**, el conglomerado hipermasivo alrededor del cual fluye y se estructura toda la macro-cuenca de Laniakea. 
-
-Esta doble comprobación confirma que no estamos ante coincidencias estadísticas, sino ante una constante de diseño geométrico fractal que gobierna desde el agujero negro de una galaxia hasta el motor central de los supercúmulos.
-
-En cada peldaño observacional —desde los $220 \text{ km/s}$ anclados por Sagitario A* en la Vía Láctea, hasta los flujos masivos de $6.300 \text{ km/s}$ precipitándose hacia el Gran Atractor en Laniakea—, la dinámica obedece a la misma topología: un núcleo denso estructurador ($M_c$) y una inmensa masa residual extendida ($M_r$) que conforma la cuenca de atracción o rotación. No hay necesidad de masa faltante; los observatorios astronómicos ya han medido tanto las velocidades correctas como las masas exactas y los radios espaciales requeridos por la ecuación de baja aceleración.
+Al contrastar esta exigencia matemática con la observación, el resultado es exacto: ese valor corresponde a la masa medida del **Gran Atractor**, confirmando una constante de diseño geométrico fractal desde el agujero negro de una galaxia hasta el motor central de los supercúmulos.
 
 
 ## 6.6 Proyección Macroscópica: El Límite Observacional y la Arquitectura $N_1$ a $N_7$
 
-Para extrapolar la fórmula de baja aceleración y evaluar la posibilidad geométrica de una gran superestructura cósmica —por ejemplo, el modelo de los 7 superuniversos propuesto en la literatura de Urantia—, enfrentamos un inmenso desafío observacional debido a la escala del sistema. 
+Para extrapolar la fórmula y evaluar la posibilidad geométrica de una gran superestructura cósmica —como el modelo de los 7 superuniversos propuesto en la literatura de Urantia—, la metodología más rigurosa es escalar progresivamente anclándose en la observación empírica. 
 
-Para superar este *impasse*, la metodología más rigurosa es escalar de forma progresiva. Asumimos que todo nuestro superuniverso (la suma de Laniakea y la red cósmica observable hasta nuestros horizontes) constituye la **Masa Residual ($M_r$)** de la primera macro-escala ($N_1$). Siguiendo el principio estructural validado en las escalas inferiores, esta inmensa cuenca debe estar orbitando o fluyendo hacia un anclaje masivo central ($M_c$), donde $M_c \approx 1\%$ de la Masa Total ($M_t$). 
-
-Así, establecemos que $M_t = M_c + M_r$. Con esta masa total proyectada, utilizamos la ley fundamental ($v = \sqrt[4]{M_t \cdot G \cdot a_0}$ y $r = v^2 / a_0$) para calcular a qué velocidad debería estar girando este sistema y cuál sería su radio. Posteriormente, escalamos este modelo multiplicando el sistema por 2 ($N_2$), por 3 ($N_3$), hasta llegar al sistema completo de los 7 superuniversos ($N_7$), cruzando en cada paso los cálculos matemáticos con las mediciones empíricas anómalas de la astrofísica moderna.
+Asumimos que todo nuestro superuniverso observable constituye la **Masa Residual ($M_r$)** de la primera macro-escala ($N_1$). Siguiendo el principio estructural validado en Laniakea, esta inmensa cuenca debe estar orbitando hacia un anclaje masivo central ($M_c \approx 1\% \text{ de } M_t$). Así, con $M_t = M_c + M_r$, utilizamos la ley fundamental para calcular la velocidad y el radio espacial del sistema. Posteriormente, escalamos este modelo multiplicando el sistema desde $N_1$ hasta $N_7$.
 
 ### Tabla de Proyección Macroscópica ($N_1$ a $N_7$)
 *Hipótesis Base: Nuestro superuniverso observable equivale a la Masa Residual ($M_r$) inicial.*
 
 | Nivel / Escala | Velocidad Proyectada ($v$) | Radio Dinámico Proyectado ($r = v^2 / a_0$) | Masa Total ($M_t$) | Anclaje Central Estimado ($M_c \approx 1\%$) | Masa Residual ($M_r$) y Cuenca Dinámica |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **$N_1$ (1 Superuniverso)** | **$\approx 63.400$ km/s**<br>(Flujo perimetral) | **$\approx 3.54$ M a.l.** | $1.01 \times 10^{21} M_\odot$ | **$1.0 \times 10^{19} M_\odot$**<br>(Núcleo rotacional local) | $1.00 \times 10^{21} M_\odot$<br>(Nuestra red observable) |
-| **$N_2$ (2 Superuniversos)** | **$\approx 75.399$ km/s** | **$\approx 5.01$ M a.l.** | $2.02 \times 10^{21} M_\odot$ | **$2.0 \times 10^{19} M_\odot$** | $2.00 \times 10^{21} M_\odot$<br>(2 cuencas en interacción) |
-| **$N_3$ (3 Superuniversos)** | **$\approx 83.438$ km/s** | **$\approx 6.13$ M a.l.** | $3.03 \times 10^{21} M_\odot$ | **$3.0 \times 10^{19} M_\odot$** | $3.00 \times 10^{21} M_\odot$ |
-| **$N_4$ (4 Superuniversos)** | **$\approx 89.650$ km/s** | **$\approx 7.08$ M a.l.** | $4.04 \times 10^{21} M_\odot$ | **$4.0 \times 10^{19} M_\odot$** | $4.00 \times 10^{21} M_\odot$ |
-| **$N_5$ (5 Superuniversos)** | **$\approx 94.786$ km/s** | **$\approx 7.91$ M a.l.** | $5.05 \times 10^{21} M_\odot$ | **$5.0 \times 10^{19} M_\odot$** | $5.00 \times 10^{21} M_\odot$ |
-| **$N_6$ (6 Superuniversos)** | **$\approx 99.224$ km/s** | **$\approx 8.67$ M a.l.** | $6.06 \times 10^{21} M_\odot$ | **$6.0 \times 10^{19} M_\odot$** | $6.00 \times 10^{21} M_\odot$ |
-| **$N_7$ (El Gran Universo)** | **$\approx 103.093$ km/s**<br>(Límite cinemático supremo)| **$\approx 9.36$ M a.l.**<br>(Viable dentro de nuestro horizonte)| **$7.07 \times 10^{21} M_\odot$** | **$7.0 \times 10^{19} M_\odot$**<br>**(El Núcleo Absoluto)** | **$7.00 \times 10^{21} M_\odot$**<br>**(Los 7 sistemas en rotación)** |
+| **$N_1$ (1 Superuniverso)** | **$\approx 63.400$ km/s** | **$\approx 3.540$ Millones a.l.**<br>*(3.54 Miles de Millones)* | $1.01 \times 10^{21} M_\odot$ | **$1.0 \times 10^{19} M_\odot$** | $1.00 \times 10^{21} M_\odot$<br>(Nuestra red observable) |
+| **$N_2$ (2 Superuniversos)** | **$\approx 75.399$ km/s** | **$\approx 5.010$ Millones a.l.**<br>*(5.01 Miles de Millones)* | $2.02 \times 10^{21} M_\odot$ | **$2.0 \times 10^{19} M_\odot$** | $2.00 \times 10^{21} M_\odot$ |
+| **$N_3$ (3 Superuniversos)** | **$\approx 83.438$ km/s** | **$\approx 6.130$ Millones a.l.**<br>*(6.13 Miles de Millones)* | $3.03 \times 10^{21} M_\odot$ | **$3.0 \times 10^{19} M_\odot$** | $3.00 \times 10^{21} M_\odot$ |
+| **$N_4$ (4 Superuniversos)** | **$\approx 89.650$ km/s** | **$\approx 7.080$ Millones a.l.**<br>*(7.08 Miles de Millones)* | $4.04 \times 10^{21} M_\odot$ | **$4.0 \times 10^{19} M_\odot$** | $4.00 \times 10^{21} M_\odot$ |
+| **$N_5$ (5 Superuniversos)** | **$\approx 94.786$ km/s** | **$\approx 7.910$ Millones a.l.**<br>*(7.91 Miles de Millones)* | $5.05 \times 10^{21} M_\odot$ | **$5.0 \times 10^{19} M_\odot$** | $5.00 \times 10^{21} M_\odot$ |
+| **$N_6$ (6 Superuniversos)** | **$\approx 99.224$ km/s** | **$\approx 8.670$ Millones a.l.**<br>*(8.67 Miles de Millones)* | $6.06 \times 10^{21} M_\odot$ | **$6.0 \times 10^{19} M_\odot$** | $6.00 \times 10^{21} M_\odot$ |
+| **$N_7$ (El Gran Universo)** | **$\approx 103.093$ km/s** | **$\approx 9.360$ Millones a.l.**<br>*(9.36 Miles de Millones)* | **$7.07 \times 10^{21} M_\odot$** | **$7.0 \times 10^{19} M_\odot$<br>(El Núcleo Absoluto)** | **$7.00 \times 10^{21} M_\odot$<br>(Los 7 sistemas en giro)** |
 
-*(Nota: "M a.l." equivale a miles de millones de años luz).*
+### Nota Metodológica: De la especulación espacial a la calibración empírica
+En las fases preliminares y especulativas de esta investigación, antes de contar con los datos empíricos de las macroestructuras modernas, se llegó a estimar teóricamente el radio de los 7 superuniversos en unos astronómicos e inobservables 495.000 millones de años luz. 
+
+Sin embargo, el rigor de la ley de baja aceleración exige anclarse a la observación empírica actual. Al introducir en la ecuación la masa real observada por los mapeos cósmicos para nuestra red local ($M_r \approx 10^{21} M_\odot$), el modelo se auto-corrige, revelando que el radio dinámico de los 7 superuniversos es de $\approx 9.360$ millones de años luz. Este es un triunfo analítico mayor: demuestra que la arquitectura completa del Gran Universo cabe perfectamente dentro de nuestro horizonte observable actual ($\sim 46.000$ millones de años luz).
 
 ### Correspondencia con Observaciones Experimentales "Anómalas"
 
-Al proyectar el modelo bajo esta premisa, hallamos que la ecuación geométrica no solo es consistente, sino que decodifica y explica matemáticamente las "anomalías" que el modelo estándar cosmológico ($\Lambda\text{CDM}$) no ha podido resolver:
+Esta proyección geométrica decodifica matemáticamente las "anomalías" del modelo estándar ($\Lambda\text{CDM}$):
 
-1. **Reinterpretación de la Expansión (El flujo de $N_1$):**
-   A una distancia de $\sim 3.500$ millones de años luz, los telescopios registran galaxias con velocidades de recesión de $60.000$ a $70.000 \text{ km/s}$. El modelo estándar interpreta esto como una "expansión del tejido espacial" impulsada por la teórica energía oscura. Sin embargo, nuestro modelo predictivo demuestra que, para un sistema con la masa $M_r$ de nuestro superuniverso, la constante $a_0$ exige exactamente una velocidad de borde dinámica de **$63.400 \text{ km/s}$**. La observación no refleja la ruptura del espacio, sino el flujo orbital intrínseco de nuestra propia cuenca estructurada.
-
-2. **El "Dark Flow" (Interacción con $N_2$ y $N_3$):**
-   Las sondas espaciales han detectado un flujo direccional masivo de cúmulos galácticos apuntando hacia el exterior del horizonte observable clásico. En el contexto de la tabla escalar, este movimiento se explica como la interacción gravitacional de nuestra masa residual ($M_r$) con las corrientes cinemáticas generadas por las cuencas superuniversales contiguas, cuyas velocidades arrastran la materia a promedios de $75.000 - 83.000 \text{ km/s}$ hacia el gran centro de gravedad común.
-
-3. **Viabilidad Relativista del Límite Estructural ($N_7$):**
-   Un hito fundamental de esta extrapolación es que, al llegar al séptimo nivel ($N_7$), la velocidad de flujo del Gran Universo en su conjunto no colapsa hacia la imposibilidad física. La fórmula dicta una velocidad límite de **$\approx 103.000 \text{ km/s}$**, lo que equivale aproximadamente al **34% de la velocidad de la luz**. Esta proporción garantiza que todo el sistema unificado pueda rotar y mantener su estabilidad estructural gravitacional sin incurrir en rupturas relativistas.
----
+1. **Reinterpretación de la Expansión (El flujo de $N_1$):** A una distancia de $\sim 3.500$ millones de años luz, los telescopios registran galaxias con velocidades de recesión de $60.000$ a $70.000 \text{ km/s}$. El modelo estándar lo interpreta como "expansión" por energía oscura. Nuestro modelo demuestra que la constante $a_0$ exige exactamente una velocidad de borde de **$63.400 \text{ km/s}$** para nuestra masa $M_r$. La observación refleja el flujo orbital intrínseco de nuestra propia cuenca estructurada.
+2. **El "Dark Flow" (Interacción con $N_2$ y $N_3$):** Las sondas espaciales han detectado un flujo direccional masivo apuntando hacia el exterior del horizonte clásico. Esto se explica como la interacción de nuestra masa residual ($M_r$) con las cuencas superuniversales contiguas, cuyas velocidades arrastran la materia a promedios de $75.000 - 83.000 \text{ km/s}$ hacia el núcleo absoluto.
+3. **Viabilidad Relativista del Gran Universo ($N_7$):** Al llegar al séptimo nivel ($N_7$), la velocidad de flujo del Gran Universo en su conjunto no colapsa. La fórmula dicta una velocidad límite de **$\approx 103.000 \text{ km/s}$**, lo que equivale a un seguro **34% de la velocidad de la luz**, garantizando que el sistema unificado pueda rotar y mantener su estabilidad sin rupturas relativistas.
 
 
 
