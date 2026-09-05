@@ -455,6 +455,44 @@ Esta proyección geométrica decodifica matemáticamente las "anomalías" del mo
 2. **El "Dark Flow" (Interacción con $N_2$ y $N_3$):** Las sondas espaciales han detectado un flujo direccional masivo apuntando hacia el exterior del horizonte clásico. Esto se explica como la interacción de nuestra masa residual ($M_r$) con las cuencas superuniversales contiguas, cuyas velocidades arrastran la materia a promedios de $75.000 - 83.000 \text{ km/s}$ hacia el núcleo absoluto.
 3. **Viabilidad Relativista del Gran Universo ($N_7$):** Al llegar al séptimo nivel ($N_7$), la velocidad de flujo del Gran Universo en su conjunto no colapsa. La fórmula dicta una velocidad límite de **$\approx 103.000 \text{ km/s}$**, lo que equivale a un seguro **34% de la velocidad de la luz**, garantizando que el sistema unificado pueda rotar y mantener su estabilidad sin rupturas relativistas.
 
+### 6.6. Topología Dinámica N7 y la Red Cósmica Observable
+
+#### 6.6.1. Fundamentos de la Macroestructura N7
+La consistencia empírica demostrada en las escalas galácticas y regionales sugiere que el universo no opera bajo un caos expansivo, sino bajo una estricta autosemejanza fractal gobernada por el límite de aceleración $a_0 \approx 1.22 \times 10^{-10} \text{ m/s}^2$. Si la relación fundamental $M_t = M_c + M_r$ es invariablemente precisa desde el centro de la Vía Láctea hasta el corazón de Laniakea, el paso lógico es proyectar esta misma mecánica hacia la macroestructura de nuestro universo observable. 
+
+Bajo la premisa del equilibrio energético ($K = |U|$), el modelo N7 propone que nuestro sector cosmológico completo es una macro-cuenca rotacional estabilizada. A estas escalas, es imperativo recordar que el régimen de Newton y la constante $a_0$ coexisten: la física newtoniana domina el caos violento de los núcleos densos y masivos (donde la aceleración es altísima), mientras que la topología de límite de aceleración ($a_0$) gobierna el perímetro y dicta la velocidad tangencial de soporte que mantiene cohesionada a toda la macroestructura.
+
+#### 6.6.2. Modelo Cartográfico Tridimensional
+Para visualizar la verdadera magnitud de esta arquitectura, hemos desarrollado una cartografía tridimensional interactiva que mapea las principales concentraciones de masa locales —desde el Grupo Local hasta el Supercúmulo de Shapley— obedeciendo a las proporciones dictadas por la ley fundamental.
+
+*(Insertar aquí la imagen estática del modelo 3D)*
+> **Enlace a Simulación Interactiva:** La representación interactiva de este modelo topológico está disponible para su exploración en línea a través del archivo adjunto `Modelo_Topologico_N7.html`.
+
+Esta cartografía constituye una aproximación matemática al orden estructural del universo y no un censo astronómico absoluto. Las magnitudes extrapoladas asumen la completitud del modelo, proyectando la ley escalar hacia zonas donde la densidad estelar está representada mediante un cálculo de volumen paramétrico. El objetivo es evidenciar que, al aplicar $a_0$ a escala universal, la topología resultante es un sistema armónico y jerárquico.
+
+#### 6.6.3. Extrapolaciones Topológicas en la Macro-escala
+Al someter a prueba las estructuras más masivas conocidas, la ley fundamental demuestra su capacidad para predecir la mecánica de cuencas gravitacionales enteras, diferenciando los movimientos internos de la dinámica de rotación del conjunto.
+
+##### 6.6.3.1. La Cuenca Local: Dinámica del Flujo Oscuro hacia Shapley
+Para validar la mecánica de nuestra cuenca, consolidamos los datos observacionales de las macroestructuras que conforman nuestro sector. Sumando las masas empíricas de Laniakea ($\approx 1.0 \times 10^{17} M_\odot$), la Gran Muralla Sloan ($\approx 2.5 \times 10^{16} M_\odot$), el Supercúmulo de Perseo-Piscis ($\approx 1.0 \times 10^{16} M_\odot$) y el Gran Atractor ($\approx 5.0 \times 10^{15} M_\odot$), obtenemos una Masa Residual ($M_r$) combinada de $\approx 1.4 \times 10^{17} M_\odot$.
+
+Aplicando la regla estructural ($M_c = 1\% M_r$), el núcleo teórico resultante exige una masa de $\approx 1.4 \times 10^{15} M_\odot$. Este valor coincide con precisión con la masa empírica del núcleo consolidado del Supercúmulo de Shapley (Abell 3558), estipulada entre $1.0 \times 10^{15}$ y $5.0 \times 10^{15} M_\odot$. 
+
+Al calcular la velocidad dinámica teórica para esta masa total ($M_t = 1.41 \times 10^{17} M_\odot$) mediante la ecuación $v = \sqrt[4]{M_t \cdot G \cdot a_0}$, el sistema proyecta una velocidad de soporte tangencial de $\approx 6.917 \text{ km/s}$. Es fundamental aclarar que esta velocidad no corresponde al denominado "Flujo Oscuro" de $\approx 600 \text{ km/s}$ medido localmente. El Flujo Oscuro es un vector radial interno; es una "corriente marina" de masa residual derivando hacia el anclaje central. En contraste, los $\approx 6.917 \text{ km/s}$ representan la rotación tangencial del sistema en bloque. Actualmente, la astronomía observacional no registra esta rotación transversal porque nuestros instrumentos miden predominantemente ejes radiales (Efecto Doppler) y carecen de la resolución astrométrica necesaria para detectar el movimiento lateral propio de todo un supercúmulo a esas distancias cosmológicas.
+
+##### 6.6.3.2. El Supercúmulo de Shapley como Sistema Aislado
+Si la topología es universal, la relación debe mantener su precisión al aislar el atractor principal. Tomando la masa total observacional del sistema Shapley de forma independiente ($M_t \approx 1.0 \times 10^{16} M_\odot$), la regla proyecta un núcleo equivalente al 1% de dicha masa ($1.0 \times 10^{14} M_\odot$). Este resultado empata con el umbral inferior de las mediciones empíricas de su cúmulo central.
+
+Adicionalmente, al introducir esta masa total en la ecuación de límite de aceleración, la velocidad teórica requerida para el equilibrio interno de Shapley es de $\approx 3.567 \text{ km/s}$. Al despejar el radio correspondiente ($r = v^2 / a_0$), la fórmula arroja una extensión estructural de $11 \text{ millones de años luz}$, la cual encaja exactamente con el radio de $10$ a $12 \text{ millones de años luz}$ medido por los mapeos de rayos X del núcleo colapsado de Shapley. Las dispersiones de velocidad caóticas medidas en el interior de este núcleo (superiores a $3.000 \text{ km/s}$) confirman que allí impera la física de colapso newtoniana, mientras la constante $a_0$ define el límite exterior del sistema.
+
+##### 6.6.3.3. Recuento General
+Los resultados derivados del modelo N7 evidencian que la cinemática del universo observable opera bajo tres vectores de movimiento simultáneos y complementarios, eliminando las aparentes paradojas observacionales:
+1. **La Expansión Radial Lenta:** El movimiento de respiración cíclica macroscópica (equivalente a la constante de Hubble).
+2. **La Rotación Estructural Tangencial:** La inercia dinámica que mantiene cohesionada a toda la macro-cuenca contra el límite $a_0$.
+3. **Las Corrientes Internas (Flujo Oscuro):** Movimientos radiales de acomodación de masa dentro del sistema rotacional, imperceptibles para las leyes que rigen los bordes.
+
+Al integrar estas dinámicas y prescindir de la materia oscura como parche gravitacional, el modelo ofrece un marco topológico coherente que respeta las observaciones actuales y traza el camino para la astrometría tridimensional del futuro.
+
 
 
 ### CAPÍTULO 7: TOPOLOGÍA DEL GRAN UNIVERSO Y LOS LÍMITES DE LA CREACIÓN
