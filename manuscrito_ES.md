@@ -61,7 +61,8 @@ La implicación física de este despeje es monumental: la fuerza que sujeta a la
 
 #### El Avance Macro-Arquitectónico: El Origen de $a_0$. De la Coincidencia Numérica a la Ley Exacta
 
-Históricamente, cuando la astrofísica empírica (liderada por Milgrom en la década de 1980) determinó el valor constante de $a_0$, la comunidad científica notó de inmediato una asombrosa coincidencia numérica. Los físicos tradicionales se percataron de que el valor de esta pequeñísima aceleración galáctica era aproximadamente igual al producto de la velocidad de la luz ($c$) por la constante de Hubble ($H_0$), ajustado por la geometría de un círculo ($2\pi$). 
+Históricamente, cuando la astrofísica empírica (liderada por Milgrom en la década de 1980) determinó el valor constante de $a_0$, la comunidad científica notó de inmediato una asombrosa coincidencia numérica. Los físicos tradicionales se percataron de que el valor de esta pequeñísima aceleración galáctica era aproximadamente igual al producto de la velocidad de la luz ($c$) por la constante de Hubble ($H_0$), ajustado por la geometría de un círculo ($2\pi$).
+$$a_0 \approx \frac{c \cdot H_0}{2\pi}$$
 
 Sin embargo, atrapada en el paradigma del Big Bang —donde la expansión del universo se asume como un fenómeno de dispersión repulsiva totalmente desconectado de la dinámica rotacional de una galaxia—, la ciencia ortodoxa no tuvo más remedio que relegar esta asombrosa relación a la categoría de una "curiosidad empírica" o accidente numérico inexplicable.
 
