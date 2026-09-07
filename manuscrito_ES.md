@@ -335,16 +335,17 @@ Apoyándonos en la autosemejanza de la geometría fractal y en el concepto del U
 
 Al proyectar este multiplicador topológico sobre nuestra cuenca local ($1.41 \times 10^{17} M_\odot \cdot 10^6$), la masa escala naturalmente al orden de $10^{23} M_\odot$. Al ajustar matemáticamente este valor para compensar el sesgo de oclusión observacional (el porcentaje del cosmos oscurecido por el polvo de nuestro propio disco galáctico), el modelo calibra la masa bariónica total de nuestro Superuniverso Observable ($N_1$) en la cifra exacta de **$1.25 \times 10^{23} M_\odot$**.
 
-#### 4.3.1 La Calibración Fractal del Núcleo: El Atractor de Shapley
-La exigencia de una constante estructural metabólica del $\sim 1\%$ para el núcleo de la cuenca no es una asignación arbitraria, sino el resultado analítico de someter el sistema a la Ecuación de Escala Fractal (o Ecuación de Calibración de Anclaje). Esta ecuación demuestra que las leyes de construcción macroscópica son autosemejantes y derivan directamente de la topología galáctica base.
+#### 4.3.1 La Autosemejanza Fractal: El Núcleo Interno de Shapley
+Para demostrar la robustez absoluta de la ley escalar en cualquier nivel de la jerarquía cósmica, sometemos el modelo a una prueba de geometría fractal (autosemejanza). Si la constante metabólica estructural gobierna la macroarquitectura, debe cumplirse independientemente de la escala en la que aislemos el sistema.
 
-Para modelar la masa exacta requerida por el centro del supercúmulo, el algoritmo escala la masa del agujero negro central de nuestra Vía Láctea (Sagitario A*, con $\approx 4 \times 10^6 M_\odot$) en proporción a la masa total de la cuenca ($M_t$), ajustada por la masa bariónica de una galaxia estándar ($10^{11} M_\odot$), un índice de crecimiento estructural ($\zeta$), y el acople geométrico rotacional ($\pi$):
+Procedemos a aislar al Supercúmulo de Shapley, extrayéndolo de la red local para tratarlo como una cuenca dinámica independiente. En este escenario, Shapley asume el valor de la masa total del sistema ($M_t \approx 1.4 \times 10^{15} M_\odot$).
 
-$$M_c = (4 \times 10^6) \cdot \left(\frac{M_t}{10^{11}}\right)^\zeta \cdot \pi$$
+Aplicando estrictamente nuestra ley de acople de masa (donde el núcleo exige el $\sim 1\%$ de la masa de la cuenca), el sub-núcleo central que ancla a Shapley debe tener un valor de:
+$$M_c = 0.01 \cdot (1.4 \times 10^{15} M_\odot) = 1.4 \times 10^{13} M_\odot$$
 
-Al introducir la masa total de nuestra cuenca local ($M_t = 1.41 \times 10^{17} M_\odot$) en esta métrica fractal, la ecuación proyecta una estabilización de masa central que gravita en torno al $1\%$ de la masa residual del sistema. 
+La validación empírica de este resultado es contundente. La astrofísica observacional confirma que el centro geométrico y gravitacional de Shapley (el núcleo del cúmulo Abell 3558) está dominado por una galaxia elíptica supermasiva (clase cD) cuya masa total empírica gravita exactamente en el orden de los $10^{13} M_\odot$. 
 
-El resultado teórico arroja una masa de calibración de **$1.4 \times 10^{15} M_\odot$**. Astronómicamente, este valor es idéntico a la masa virial de **Abell 3558**, el núcleo colapsado del Supercúmulo de Shapley. Esta precisión confirma que Shapley no es una acumulación azarosa de galaxias, sino el Ancla Central ($M_c$) matemáticamente predeterminada que sostiene la dinámica rotacional y el flujo inercial de toda nuestra macroestructura local.
+Este "zoom" analítico confirma que la estructura del universo opera como un fractal perfecto regido por $a_0$: una macro-cuenca de $10^{17} M_\odot$ es anclada por un supercúmulo de $10^{15} M_\odot$ (Shapley), el cual a su vez es anclado por una galaxia supermasiva de $10^{13} M_\odot$. La proporcionalidad matemática de nuestro modelo no se fractura, demostrando que las leyes de construcción macroscópica son idénticas en todas las escalas.
 
 #### 4.4 Proyección Macroscópica y el Descarte Paramétrico de $N_1$ a $N_6$
 Para determinar si nuestro superuniverso ($N_1$) constituye la totalidad de la creación, sometemos la progresión escalar a la geometría de frontera, despejando el radio dinámico máximo de la ley fundamental ($r = v^2/a_0$). Modelamos algebraicamente configuraciones desde $N_1$ hasta $N_7$:
