@@ -59,13 +59,16 @@ $$F = m \frac{\sqrt{G \cdot M \cdot a_0}}{r}$$
 
 La implicación física de este despeje es monumental: la fuerza que sujeta a la galaxia ya no decae agresivamente al cuadrado de la distancia ($1/r^2$), sino que se suaviza para decaer simplemente en proporción a $1/r$. Esto es lo que permite que el disco galáctico se mantenga cohesionado sin necesidad de materia exótica.
 
-#### El Avance Macro-Arquitectónico: El Origen de $a_0$
-El verdadero avance de nuestra investigación no radica únicamente en aplicar esta ley escalar, sino en revelar su origen topológico. La constante $a_0$ no es un número arbitrario o aislado; es la huella dactilar geométrica que conecta la rotación de una simple galaxia con la vibración macroscópica de todo el Gran Universo. 
+#### El Avance Macro-Arquitectónico: El Origen de $a_0$. De la Coincidencia Numérica a la Ley Exacta
 
-Matemáticamente, comprobamos que el valor empírico de $a_0$ equivale a la interacción exacta entre la velocidad de la luz ($c$) y el ritmo de expansión o "respiración" de nuestro horizonte cósmico (la constante de Hubble, $H_0$), ajustado por un factor de acople adimensional ($\chi$) y la geometría de un disco rotacional ($2\pi$):
+Históricamente, cuando la astrofísica empírica (liderada por Milgrom en la década de 1980) determinó el valor constante de $a_0$, la comunidad científica notó de inmediato una asombrosa coincidencia numérica. Los físicos tradicionales se percataron de que el valor de esta pequeñísima aceleración galáctica era aproximadamente igual al producto de la velocidad de la luz ($c$) por la constante de Hubble ($H_0$), ajustado por la geometría de un círculo ($2\pi$). 
+
+Sin embargo, atrapada en el paradigma del Big Bang —donde la expansión del universo se asume como un fenómeno de dispersión repulsiva totalmente desconectado de la dinámica rotacional de una galaxia—, la ciencia ortodoxa no tuvo más remedio que relegar esta asombrosa relación a la categoría de una "curiosidad empírica" o accidente numérico inexplicable.
+
+El avance crítico de nuestra investigación consiste en rescatar esta aproximación histórica y, al liberarla de las restricciones de un universo en expansión explosiva, elevarla a la categoría de Ley Fundamental de Estado. Nuestro modelo ajusta esta expresión empírica mediante la introducción de un factor de acople topológico adimensional ($\chi$), transformando la antigua casualidad numérica en una igualdad matemática estricta:
 $$a_0 = \chi \frac{c \cdot H_0}{2\pi}$$
 
-Esta coincidencia matemática aniquila la noción del Big Bang como una expansión aleatoria y desconectada de formaciones insulares. La ecuación demuestra que la aceleración límite que sujeta el borde de nuestra Vía Láctea ($a_0$) está directamente dictada por el pulso vibratorio de todo el ecosistema cósmico ($H_0$). El universo ajusta sus leyes de rotación local en función de su escala macroestructural absoluta.
+Al establecer esta igualdad, la ecuación deja de ser un accidente para convertirse en la prueba matemática de la unificación macro-arquitectónica. Aniquila la noción de un cosmos fragmentado: demuestra que la aceleración límite que sujeta el borde de nuestra Vía Láctea ($a_0$) no es un parámetro arbitrario, sino un mecanismo de relojería directamente acoplado al pulso vibratorio y al tamaño absoluto de todo el Gran Universo ($H_0$). El ecosistema cósmico es plenamente orgánico; ajusta la tensión de sus leyes gravitacionales locales en perfecta sincronía con su escala estructural máxima.
 
 #### 1.3.1 La Formulación Matemática de la Ley de Escala
 Para formalizar este comportamiento sin recurrir a masas invisibles, definimos la Ley de Escala Dinámica mediante la introducción de la función de transición $\mu$:
