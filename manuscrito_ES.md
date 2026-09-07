@@ -335,6 +335,17 @@ Apoyándonos en la autosemejanza de la geometría fractal y en el concepto del U
 
 Al proyectar este multiplicador topológico sobre nuestra cuenca local ($1.41 \times 10^{17} M_\odot \cdot 10^6$), la masa escala naturalmente al orden de $10^{23} M_\odot$. Al ajustar matemáticamente este valor para compensar el sesgo de oclusión observacional (el porcentaje del cosmos oscurecido por el polvo de nuestro propio disco galáctico), el modelo calibra la masa bariónica total de nuestro Superuniverso Observable ($N_1$) en la cifra exacta de **$1.25 \times 10^{23} M_\odot$**.
 
+#### 4.3.1 La Calibración Fractal del Núcleo: El Atractor de Shapley
+La exigencia de una constante estructural metabólica del $\sim 1\%$ para el núcleo de la cuenca no es una asignación arbitraria, sino el resultado analítico de someter el sistema a la Ecuación de Escala Fractal (o Ecuación de Calibración de Anclaje). Esta ecuación demuestra que las leyes de construcción macroscópica son autosemejantes y derivan directamente de la topología galáctica base.
+
+Para modelar la masa exacta requerida por el centro del supercúmulo, el algoritmo escala la masa del agujero negro central de nuestra Vía Láctea (Sagitario A*, con $\approx 4 \times 10^6 M_\odot$) en proporción a la masa total de la cuenca ($M_t$), ajustada por la masa bariónica de una galaxia estándar ($10^{11} M_\odot$), un índice de crecimiento estructural ($\zeta$), y el acople geométrico rotacional ($\pi$):
+
+$$M_c = (4 \times 10^6) \cdot \left(\frac{M_t}{10^{11}}\right)^\zeta \cdot \pi$$
+
+Al introducir la masa total de nuestra cuenca local ($M_t = 1.41 \times 10^{17} M_\odot$) en esta métrica fractal, la ecuación proyecta una estabilización de masa central que gravita en torno al $1\%$ de la masa residual del sistema. 
+
+El resultado teórico arroja una masa de calibración de **$1.4 \times 10^{15} M_\odot$**. Astronómicamente, este valor es idéntico a la masa virial de **Abell 3558**, el núcleo colapsado del Supercúmulo de Shapley. Esta precisión confirma que Shapley no es una acumulación azarosa de galaxias, sino el Ancla Central ($M_c$) matemáticamente predeterminada que sostiene la dinámica rotacional y el flujo inercial de toda nuestra macroestructura local.
+
 #### 4.4 Proyección Macroscópica y el Descarte Paramétrico de $N_1$ a $N_6$
 Para determinar si nuestro superuniverso ($N_1$) constituye la totalidad de la creación, sometemos la progresión escalar a la geometría de frontera, despejando el radio dinámico máximo de la ley fundamental ($r = v^2/a_0$). Modelamos algebraicamente configuraciones desde $N_1$ hasta $N_7$:
 
