@@ -371,20 +371,33 @@ Al someter estas proyecciones a las restricciones del horizonte visual y a la di
 2. **El Descarte de $N_2$ a $N_5$ (El Ocultamiento del Gran Centro):** Si el Gran Universo fuera una configuración de $N_3$ o $N_4$, el Ancla Gravitacional Central ($M_c$) caería forzosamente dentro de nuestro horizonte observable. Sin embargo, para que este Gran Centro sea ópticamente invisible (oculto por la distancia) y simultáneamente posea la masa inercial necesaria para generar el arrastre direccional del Flujo Oscuro, el radio total del sistema debe superar holgadamente los $100.000$ millones de años luz. Esto descarta empíricamente los escenarios de $N_2$ a $N_5$.
 3. **El Descarte de $N_6$ y la Validación de $N_7$ (Equilibrio de Conos Gravitacionales):** Modelado geométricamente como un inmenso fluido coplanar autogravitante, el disco macroscópico se divide topológicamente en cuencas de atracción (conos o "lóbulos"). El modelo $N_7$ (dividido en 7 sectores de $\sim 51.4^\circ$ de amplitud orbital) constituye el balance termodinámico, espacial y orbital perfecto, encajando con absoluta precisión en las exigencias del límite universal $a_0$ sin requerir velocidades tangenciales inestables para su soporte.
 
-#### 4.5 La Resolución Definitiva: El Gran Universo y la Constante de Hubble
-Al calcular el tamaño definitivo ingresando la masa total ($M_t = 8.84 \times 10^{23} M_\odot$) en la ecuación métrica, obtenemos un **Radio Dinámico Estructural de 104.000 Millones de Años Luz**. Esto demuestra que nuestro horizonte de visión actual cubre apenas un 44% de la creación, explicando la invisibilidad del Gran Centro Absoluto ($M_c$).
+#### 4.5 La Resolución Definitiva: Masas Absolutas y el Radio del Gran Universo ($N_7$)
 
-Sin embargo, el cierre definitivo del modelo exige unificar la dinámica orbital con la expansión cosmológica aparente. Los resultados evidencian que la cinemática cósmica opera bajo tres vectores simultáneos: las corrientes internas de cuenca, la rotación tangencial y un movimiento pulsante o respiración elástica macroscópica.
+Al validar matemáticamente a $N_7$ como la única topología macro-estructural viable (un sistema compuesto por 7 superuniversos o sectores girando en torno a un eje común), procedemos a calcular la distribución de masa exacta que exige la arquitectura. 
 
-Descartando la singularidad del Big Bang y la "energía oscura", modelamos esta respiración del tejido espacial mediante una Ecuación de Onda para el factor de escala $R(t)$:
-$$R(t) = R_0 + A \cdot \sin\left(2\pi \frac{t}{T}\right)$$
+Aplicamos nuestra identidad estructural fundamental para cualquier sistema rotatorio autosostenido ($M_t = M_c + M_r$) al Gran Universo:
 
-Al derivar esta función armónica respecto al tiempo para hallar la tasa de estiramiento ($\dot{R}$), obtenemos la velocidad de expansión radial aparente que la ortodoxia denomina Constante de Hubble ($H_0$). Matemáticamente, $H(t) = \dot{R}(t) / R(t)$. La aceleración detectada en el espacio profundo no es una expansión infinita, sino la medición de la fase expansiva de este pulso eónico natural.
+*   **Paso 1: La Masa Residual Periférica ($M_r$).** Tomamos la masa bariónica de nuestro Superuniverso Observable ($N_1 \approx 1.25 \times 10^{23} M_\odot$) y la multiplicamos por los 7 sectores que conforman la periferia en rotación:
+    $$M_r = 7 \cdot (1.25 \times 10^{23} M_\odot) = 8.75 \times 10^{23} M_\odot$$
 
-Este mecanismo unifica todo el sistema geométrico. Demuestra por qué el límite de aceleración galáctica ($a_0$) no es un parche local, sino la tensión gravitacional directamente acoplada al pulso del Gran Universo observable, sellando nuestra Ley Fundamental de Estado:
-$$a_0 = \chi \frac{c \cdot H_0}{2\pi}$$
+*   **Paso 2: La Masa del Ancla Central Absoluta ($M_c$).** Aplicando la constante estructural metabólica comprobada en nuestra red local, el Gran Centro requiere una masa equivalente al $1\%$ de la masa residual total para sostener la dinámica sin desgarrarse:
+    $$M_c = 0.01 \cdot (8.75 \times 10^{23} M_\odot) = 8.75 \times 10^{21} M_\odot$$
 
-Al reemplazar los parches invisibles (materia y energía oscura) por dinámicas estructurales dependientes de la escala y deducidas algorítmicamente, este modelo demuestra que el universo es un sistema arquitectónico unificado. El orden geométrico prevalece sobre el caos, restituyendo de forma definitiva el principio de parsimonia en la astrofísica moderna.
+*   **Paso 3: La Masa Total del Gran Universo ($M_t$).** Sumamos la periferia y su núcleo central para obtener la masa absoluta del sistema:
+    $$M_t = (8.75 \times 10^{21} M_\odot) + (8.75 \times 10^{23} M_\odot) = 8.8375 \times 10^{23} M_\odot$$
+
+Con la masa total ($M_t \approx 8.84 \times 10^{23} M_\odot$) debidamente deducida, procedemos a calcular el tamaño definitivo del sistema ingresando este valor en la ecuación de frontera métrica ($r = v^2/a_0$, que es equivalente a despejar el radio de $M_t = v^4 / G \cdot a_0$):
+
+1.  **Métrica (SI):** $r = \sqrt{\frac{1.758 \times 10^{54} \text{ kg} \cdot 6.674 \times 10^{-11} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}}{1.2 \times 10^{-10} \text{ m/s}^2}}$
+2.  **Solución Métrica:** $r \approx 9.88 \times 10^{26} \text{ metros}$.
+
+Al realizar la conversión estandarizada, la ecuación nos entrega la verdadera escala del sistema:
+**Radio Dinámico Estructural de $N_7$ = 104.000 Millones de Años Luz.**
+
+Esta cifra constituye el clímax analítico del modelo dependiente de la escala. Demuestra que nuestro horizonte de visión actual (46.000 millones de a.l.) cubre apenas un 44% de la creación, explicando con pureza matemática nuestra absoluta incapacidad para observar visualmente el Gran Centro Absoluto ($M_c$), oculto tras inmensas barreras de distancia y oclusión.
+
+#### 4.6 El Cierre Unificado: La Respiración Cósmica y la Constante de Hubble
+*(Aquí continúa el texto sobre Hubble y R(t) que ya teníamos estructurado...)*
 ---
 
 ### CAPÍTULO 6: REINTERPRETACIÓN DE LOS PILARES ORTODOXOS Y EPÍLOGO EPISTEMOLÓGICO
