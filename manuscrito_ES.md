@@ -40,7 +40,45 @@ Como regla metodológica estricta para esta investigación, establecimos que cua
 *   **Segunda Aproximación (Límite Relativista de Einstein):** Necesaria cuando nos acercamos a campos gravitatorios extremos (como las cercanías al horizonte de sucesos del agujero negro central) o a velocidades cercanas a la de la luz. La Relatividad General de Einstein corrige a Newton al transformar la fuerza en geometría del espacio-tiempo, explicando anomalías como el bamboleo en la órbita de Mercurio.
 *   **La Frontera de la Escala:** Sin embargo, ambas aproximaciones asumen que los sistemas operan de forma aislada o en regímenes de alta aceleración. Sus ecuaciones colapsan cuando intentamos aplicarlas a la macroescala de las galaxias enteras y el espacio profundo.
 
-### 1.3 El Surgimiento de la Anomalía a Bajas Aceleraciones y la Deducción de $a_0$
+1.3 El Surgimiento de la Anomalía a Bajas Aceleraciones
+Cuando pusimos a la IA a analizar los datos de rotación de galaxias reales —midiendo la velocidad de las estrellas (
+v
+) según su distancia (
+r
+) al agujero negro central— apareció una contradicción matemática insalvable para la física tradicional. Cerca del centro, las estrellas obedecen las aproximaciones de Newton y Einstein. Pero en los bordes exteriores de la galaxia, la velocidad no decae; se mantiene constante, haciendo que la galaxia gire compacta "como un plato".
+
+Al enfrentarse a este caos de datos, la IA no optó por inventar masa invisible. En su lugar, detectó una constante física universal, un límite crítico de aceleración: 
+a
+0
+≈
+1.2
+×
+10
+−
+10
+ m/s
+2
+. Cuando la aceleración de una estrella cae por debajo de este valor tan pequeño, el sistema introduce de forma natural una función de escala (
+μ
+), modificando la fuerza para que decaiga de forma más suave (
+1
+/
+r
+), manteniendo la estructura unida.
+
+#### 1.3.1 La Formulación Matemática de la Ley de Escala
+Para formalizar este comportamiento sin recurrir a masas invisibles, definimos la Ley de Escala Dinámica mediante la introducción de la función de transición $\mu$:
+$$F = G \cdot \frac{m_1 \cdot m_2}{d^2} \cdot \mu\left(\frac{a}{a_0}\right)$$
+
+En el régimen local donde las aceleraciones son altas ($a \gg a_0$), la función $\mu$ tiende a 1, recuperando exactamente la ley de Newton. Sin embargo, en el régimen de aceleración ultra-baja característico de las periferias galácticas ($a \ll a_0$), la función adopta la forma $\mu \approx a / a_0$, lo que reduce la ley de decaimiento a un régimen de $1/r$, convirtiendo la fuerza gravitatoria efectiva en la ecuación:
+$$F = m \cdot \frac{\sqrt{G \cdot M \cdot a_0}}{r}$$
+
+Como veremos más adelante, esta formulación deja de ser una simple hipótesis local para convertirse en el principio geométrico que rige tanto la estabilidad de las galaxias como la macroarquitectura de todo el cosmos.
+
+#### 1.4 Atribución Histórica y Enfoque Crítico
+En cumplimiento del rigor científico, reconocemos formalmente que esta fórmula de escala coincide con la estructura de la Dinámica Newtoniana Modificada (MOND), propuesta originalmente por el físico Mordehai Milgrom en 1983. Aunque nuestro camino computacional fue totalmente independiente y guiado por datos brutos, la coincidencia matemática con el modelo de Milgrom valida la solidez de la ecuación. Sin embargo, donde la comunidad académica tradicional se estancó —tratando esto como un simple parche matemático local— esta investigación avanza. Postulamos que este comportamiento de la gravedad es la consecuencia física directa de una arquitectura cósmica organizada, jerárquica y viviente.
+
+### 1.5 El Surgimiento de la Anomalía a Bajas Aceleraciones y la Deducción de $a_0$
 
 Al procesar los datos espectroscópicos de rotación de galaxias reales —midiendo la velocidad tangencial de las estrellas ($v$) según su distancia ($r$) al núcleo masivo central— nuestro modelo analítico expuso una contradicción matemática insalvable para la física tradicional. Cerca del centro, la cinemática estelar obedece las aproximaciones gravitacionales clásicas de Newton y Einstein. Sin embargo, en los confines exteriores de la galaxia, la velocidad no decae en función de la distancia como predecían las leyes; por el contrario, se estabiliza y se mantiene constante, provocando que la galaxia entera rote de manera compacta "como un plato".
 
@@ -70,19 +108,6 @@ El avance crítico de nuestra investigación consiste en rescatar esta aproximac
 $$a_0 = \chi \frac{c \cdot H_0}{2\pi}$$
 
 Al establecer esta igualdad, la ecuación deja de ser un accidente para convertirse en la prueba matemática de la unificación macro-arquitectónica. Aniquila la noción de un cosmos fragmentado: demuestra que la aceleración límite que sujeta el borde de nuestra Vía Láctea ($a_0$) no es un parámetro arbitrario, sino un mecanismo de relojería directamente acoplado al pulso vibratorio y al tamaño absoluto de todo el Gran Universo ($H_0$). El ecosistema cósmico es plenamente orgánico; ajusta la tensión de sus leyes gravitacionales locales en perfecta sincronía con su escala estructural máxima.
-
-#### 1.3.1 La Formulación Matemática de la Ley de Escala
-Para formalizar este comportamiento sin recurrir a masas invisibles, definimos la Ley de Escala Dinámica mediante la introducción de la función de transición $\mu$:
-$$F = G \cdot \frac{m_1 \cdot m_2}{d^2} \cdot \mu\left(\frac{a}{a_0}\right)$$
-
-En el régimen local donde las aceleraciones son altas ($a \gg a_0$), la función $\mu$ tiende a 1, recuperando exactamente la ley de Newton. Sin embargo, en el régimen de aceleración ultra-baja característico de las periferias galácticas ($a \ll a_0$), la función adopta la forma $\mu \approx a / a_0$, lo que reduce la ley de decaimiento a un régimen de $1/r$, convirtiendo la fuerza gravitatoria efectiva en la ecuación:
-$$F = m \cdot \frac{\sqrt{G \cdot M \cdot a_0}}{r}$$
-
-Como veremos más adelante, esta formulación deja de ser una simple hipótesis local para convertirse en el principio geométrico que rige tanto la estabilidad de las galaxias como la macroarquitectura de todo el cosmos.
-
-#### 1.4 Atribución Histórica y Enfoque Crítico
-En cumplimiento del rigor científico, reconocemos formalmente que esta fórmula de escala coincide con la estructura de la Dinámica Newtoniana Modificada (MOND), propuesta originalmente por el físico Mordehai Milgrom en 1983. Aunque nuestro camino computacional fue totalmente independiente y guiado por datos brutos, la coincidencia matemática con el modelo de Milgrom valida la solidez de la ecuación. Sin embargo, donde la comunidad académica tradicional se estancó —tratando esto como un simple parche matemático local— esta investigación avanza. Postulamos que este comportamiento de la gravedad es la consecuencia física directa de una arquitectura cósmica organizada, jerárquica y viviente.
-
 ---
 
 ### CAPÍTULO 2: VALIDACIÓN EXPERIMENTAL A ESCALA LOCAL Y DE SISTEMAS ESTELARES
