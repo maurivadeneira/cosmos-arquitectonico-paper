@@ -348,7 +348,12 @@ La validación empírica de este resultado es contundente. La astrofísica obser
 Este "zoom" analítico confirma que la estructura del universo opera como un fractal perfecto regido por $a_0$: una macro-cuenca de $10^{17} M_\odot$ es anclada por un supercúmulo de $10^{15} M_\odot$ (Shapley), el cual a su vez es anclado por una galaxia supermasiva de $10^{13} M_\odot$. La proporcionalidad matemática de nuestro modelo no se fractura, demostrando que las leyes de construcción macroscópica son idénticas en todas las escalas.
 
 #### 4.4 Proyección Macroscópica y el Descarte Paramétrico de $N_1$ a $N_6$
-Para determinar si nuestro superuniverso ($N_1$) constituye la totalidad de la creación, sometemos la progresión escalar a la geometría de frontera, despejando el radio dinámico máximo de la ley fundamental ($r = v^2/a_0$). Modelamos algebraicamente configuraciones desde $N_1$ hasta $N_7$:
+
+Una vez estructurado y calibrado matemáticamente nuestro Superuniverso Observable ($N_1$), el análisis empírico nos obliga a plantear una interrogante mayor. Dado que detectamos fuerzas inerciales masivas (como el Flujo Oscuro) que tiran de nuestra red local hacia un atractor ubicado mucho más allá de nuestros mapas visibles, es evidente que nuestro $N_1$ no está aislado ni constituye la totalidad de la creación. Por el contrario, la mecánica escalar dicta que nuestro Superuniverso debe ser tan solo un componente, un "sector" o cuenca periférica, perteneciente a una arquitectura cósmica mucho más vasta que lo contiene en su totalidad.
+
+Para descubrir la verdadera escala geométrica y másica de este Gran Universo, aplicamos nuevamente el método inductivo. Asumiendo a nuestro $N_1$ como la unidad estructural base, modelamos algebraicamente cómo se comportaría el sistema macroscópico si este Gran Universo estuviera compuesto por la suma de 2, 3, o hasta 7 sectores homólogos ($N_2$ a $N_7$), todos orbitando un único Gran Centro Absoluto ($M_c$).
+
+Sometemos esta progresión hipotética a la geometría de frontera, despejando el radio dinámico estructural máximo dictado por la ley fundamental ($r = v^2/a_0$). El objetivo de este barrido paramétrico es contrastar las exigencias matemáticas de cada configuración con las observaciones astronómicas reales:
 
 | Escala Topológica | Velocidad Límite Proyectada ($v$) | Radio Dinámico Proyectado ($r = v^2 / a_0$) | Masa Total del Sistema ($M_t$) |
 | :--- | :--- | :--- | :--- |
@@ -360,10 +365,11 @@ Para determinar si nuestro superuniverso ($N_1$) constituye la totalidad de la c
 | **$N_6$ (6 Sectores)** | $\approx 99.200$ km/s | $\approx 96.000$ Millones a.l. | $7.56 \times 10^{23} M_\odot$ |
 | **$N_7$ (7 Sectores)** | **$\approx 103.000$ km/s** | **$\approx 104.000$ Millones a.l.** | **$8.84 \times 10^{23} M_\odot$** |
 
-La astrofísica observacional nos exige descartar las primeras seis arquitecturas:
-1. **El Descarte de $N_1$ (Ruptura del Horizonte):** Su radio dinámico máximo ($\sim 39.200$ M a.l.) es inferior a nuestro horizonte observable actual ($46.000$ M a.l.). Matemáticamente inviable.
-2. **El Descarte de $N_2$ a $N_5$ (El Flujo Oscuro):** La inercia inmensa del Flujo Oscuro arrastra nuestra red galáctica hacia un atractor fuera de nuestros mapas visibles. Para ocultar este Gran Centro y englobar la masa necesaria, el radio total debe superar holgadamente los $100.000$ millones de años luz.
-3. **El Descarte de $N_6$ y la Validación de $N_7$:** Modelado como un fluido coplanar autogravitante que se divide topológicamente en cuencas de atracción (conos de $\sim 51.4^\circ$), el modelo $N_7$ constituye el balance termodinámico, espacial y orbital perfecto, evitando velocidades tangenciales de soporte inestables.
+Al someter estas proyecciones a las restricciones del horizonte visual y a la dinámica de fluidos autogravitantes, la astrofísica observacional nos exige descartar las primeras seis arquitecturas:
+
+1. **El Descarte de $N_1$ (Ruptura del Horizonte):** Si el cosmos se limitara únicamente a nuestro sector ($N_1$), su radio dinámico de cohesión máxima sería de $\sim 39.200$ millones de años luz. Dado que nuestros radiotelescopios ya han mapeado un horizonte observable de $46.000$ millones de años luz, $N_1$ es matemáticamente inviable como sistema aislado; vemos galaxias que están físicamente por fuera de las fronteras gravitacionales que un universo de ese tamaño podría sostener.
+2. **El Descarte de $N_2$ a $N_5$ (El Ocultamiento del Gran Centro):** Si el Gran Universo fuera una configuración de $N_3$ o $N_4$, el Ancla Gravitacional Central ($M_c$) caería forzosamente dentro de nuestro horizonte observable. Sin embargo, para que este Gran Centro sea ópticamente invisible (oculto por la distancia) y simultáneamente posea la masa inercial necesaria para generar el arrastre direccional del Flujo Oscuro, el radio total del sistema debe superar holgadamente los $100.000$ millones de años luz. Esto descarta empíricamente los escenarios de $N_2$ a $N_5$.
+3. **El Descarte de $N_6$ y la Validación de $N_7$ (Equilibrio de Conos Gravitacionales):** Modelado geométricamente como un inmenso fluido coplanar autogravitante, el disco macroscópico se divide topológicamente en cuencas de atracción (conos o "lóbulos"). El modelo $N_7$ (dividido en 7 sectores de $\sim 51.4^\circ$ de amplitud orbital) constituye el balance termodinámico, espacial y orbital perfecto, encajando con absoluta precisión en las exigencias del límite universal $a_0$ sin requerir velocidades tangenciales inestables para su soporte.
 
 #### 4.5 La Resolución Definitiva: El Gran Universo y la Constante de Hubble
 Al calcular el tamaño definitivo ingresando la masa total ($M_t = 8.84 \times 10^{23} M_\odot$) en la ecuación métrica, obtenemos un **Radio Dinámico Estructural de 104.000 Millones de Años Luz**. Esto demuestra que nuestro horizonte de visión actual cubre apenas un 44% de la creación, explicando la invisibilidad del Gran Centro Absoluto ($M_c$).
