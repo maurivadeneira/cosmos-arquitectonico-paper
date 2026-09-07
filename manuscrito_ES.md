@@ -399,7 +399,24 @@ Al realizar la conversión estandarizada, la ecuación nos entrega la verdadera 
 Esta cifra constituye el clímax analítico del modelo dependiente de la escala. Demuestra que nuestro horizonte de visión actual (46.000 millones de a.l.) cubre apenas un 44% de la creación, explicando con pureza matemática nuestra absoluta incapacidad para observar visualmente el Gran Centro Absoluto ($M_c$), oculto tras inmensas barreras de distancia y oclusión.
 
 #### 4.6 El Cierre Unificado: La Respiración Cósmica y la Constante de Hubble
-*(Aquí continúa el texto sobre Hubble y R(t) que ya teníamos estructurado...)*
+
+El cálculo del radio dinámico de 104.000 millones de años luz resuelve la distribución espacial y másica del sistema, pero el cierre definitivo del modelo exige unificar la dinámica orbital estática con la expansión cosmológica aparente observada por los telescopios. Los resultados del modelo evidencian que la cinemática macroscópica del universo opera simultáneamente bajo tres vectores de movimiento:
+1. **Corrientes Internas de Cuenca (Flujo Oscuro):** El movimiento de acomodación tridimensional donde la masa residual fluye localmente hacia centros de atracción (como Shapley).
+2. **Rotación Estructural Tangencial:** La inercia dinámica coplanar que mantiene cohesionado a todo el bloque de superuniversos contra el límite geométrico de aceleración.
+3. **Respiración Radial Elástica:** Un movimiento pulsante cíclico a escala macroscópica, erróneamente interpretado por la ortodoxia como una expansión métrica acelerada y repulsiva.
+
+Para modelar este tercer vector (la respiración del tejido espacial) prescindiendo totalmente de la "energía oscura" y de la singularidad inicial del Big Bang, estructuramos una Ecuación de Onda Cósmica para el factor de escala $R(t)$:
+$$R(t) = R_0 + A \cdot \sin\left(2\pi \frac{t}{T}\right)$$
+
+Donde $R_0$ es el radio base de equilibrio, $A$ es la amplitud máxima de la elasticidad espacial, y $T$ representa el eón cósmico (estimado en $2.000$ millones de años terrestres). Al aplicar la derivada temporal para hallar la tasa de estiramiento ($\dot{R}$), obtenemos la velocidad de expansión radial aparente. Matemáticamente, el parámetro que la astrofísica tradicional denomina Constante de Hubble ($H_0$) es simplemente la relación entre esta velocidad de cambio y el radio en un instante dado:
+$$H(t) = \frac{\dot{R}(t)}{R(t)} = \frac{A \cdot \left(\frac{2\pi}{T}\right) \cdot \cos\left(2\pi \frac{t}{T}\right)}{R_0 + A \cdot \sin\left(2\pi \frac{t}{T}\right)}$$
+
+Bajo esta óptica algorítmica, la aceleración detectada en el espacio profundo no es el rastro de una expansión infinita y descontrolada, sino la simple fotografía actual de la fase expansiva (el vector coseno positivo) de este pulso eónico natural. La "Energía Oscura" resulta ser un concepto física y matemáticamente obsoleto.
+
+Este mecanismo termodinámico unifica todo el sistema geométrico. Demuestra finalmente por qué el límite de aceleración galáctica ($a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$) no es un parámetro arbitrario o un parche local. Al igualar las escalas, descubrimos que $a_0$ es la tensión gravitacional límite dictada directamente por el pulso del Gran Universo, sellando la Ley Fundamental de Estado que rige toda la macroarquitectura:
+$$a_0 = \chi \frac{c \cdot H_0}{2\pi}$$
+
+Al reemplazar los parches invisibles (materia y energía oscura) por dinámicas estructurales puras dependientes de la escala y deducidas algorítmicamente, este modelo demuestra que el universo es un sistema arquitectónico unificado y orgánico. El orden geométrico prevalece sobre el caos expansivo, restituyendo de forma definitiva el principio de parsimonia en la astrofísica moderna.
 ---
 
 
