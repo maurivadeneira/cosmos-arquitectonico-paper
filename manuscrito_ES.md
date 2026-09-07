@@ -351,19 +351,21 @@ Este "zoom" analítico confirma que la estructura del universo opera como un fra
 
 Una vez estructurado y calibrado matemáticamente nuestro Superuniverso Observable ($N_1$), el análisis empírico nos obliga a plantear una interrogante mayor. Dado que detectamos fuerzas inerciales masivas (como el Flujo Oscuro) que tiran de nuestra red local hacia un atractor ubicado mucho más allá de nuestros mapas visibles, es evidente que nuestro $N_1$ no está aislado ni constituye la totalidad de la creación. Por el contrario, la mecánica escalar dicta que nuestro Superuniverso debe ser tan solo un componente, un "sector" o cuenca periférica, perteneciente a una arquitectura cósmica mucho más vasta que lo contiene en su totalidad.
 
-Para descubrir la verdadera escala geométrica y másica de este Gran Universo, aplicamos nuevamente el método inductivo. Asumiendo a nuestro $N_1$ como la unidad estructural base, modelamos algebraicamente cómo se comportaría el sistema macroscópico si este Gran Universo estuviera compuesto por la suma de 2, 3, o hasta 7 sectores homólogos ($N_2$ a $N_7$), todos orbitando un único Gran Centro Absoluto ($M_c$).
+Para descubrir la verdadera escala geométrica y másica de este Gran Universo, aplicamos nuevamente el método inductivo. Asumiendo a nuestro $N_1$ como la unidad estructural base (cuya masa residual es de $1.25 \times 10^{23} M_\odot$), modelamos algebraicamente cómo se comportaría el sistema macroscópico si este Gran Universo estuviera compuesto por la suma de 2, 3, o hasta 7 sectores homólogos ($N_2$ a $N_7$), todos orbitando un único Gran Centro Absoluto ($M_c$).
 
-Sometemos esta progresión hipotética a la geometría de frontera, despejando el radio dinámico estructural máximo dictado por la ley fundamental ($r = v^2/a_0$). El objetivo de este barrido paramétrico es contrastar las exigencias matemáticas de cada configuración con las observaciones astronómicas reales:
+Sometemos esta progresión a la identidad estructural del sistema ($M_t = M_c + M_r$, donde $M_c = 1\% M_r$) y a la geometría de frontera, despejando el radio dinámico estructural máximo dictado por la ley fundamental ($r = v^2/a_0$). El objetivo de este barrido paramétrico es contrastar las exigencias matemáticas de cada configuración con las observaciones astronómicas reales:
 
-| Escala Topológica | Velocidad Límite Proyectada ($v$) | Radio Dinámico Proyectado ($r = v^2 / a_0$) | Masa Total del Sistema ($M_t$) |
-| :--- | :--- | :--- | :--- |
-| **$N_1$ (1 Sector)** | $\approx 63.400$ km/s | $\approx 39.200$ Millones a.l. | $1.26 \times 10^{23} M_\odot$ |
-| **$N_2$ (2 Sectores)** | $\approx 75.400$ km/s | $\approx 55.400$ Millones a.l. | $2.52 \times 10^{23} M_\odot$ |
-| **$N_3$ (3 Sectores)** | $\approx 83.400$ km/s | $\approx 67.900$ Millones a.l. | $3.78 \times 10^{23} M_\odot$ |
-| **$N_4$ (4 Sectores)** | $\approx 89.600$ km/s | $\approx 78.400$ Millones a.l. | $5.04 \times 10^{23} M_\odot$ |
-| **$N_5$ (5 Sectores)** | $\approx 94.700$ km/s | $\approx 87.700$ Millones a.l. | $6.30 \times 10^{23} M_\odot$ |
-| **$N_6$ (6 Sectores)** | $\approx 99.200$ km/s | $\approx 96.000$ Millones a.l. | $7.56 \times 10^{23} M_\odot$ |
-| **$N_7$ (7 Sectores)** | **$\approx 103.000$ km/s** | **$\approx 104.000$ Millones a.l.** | **$8.84 \times 10^{23} M_\odot$** |
+| Escala Topológica | Velocidad Límite Proyectada ($v$) | Radio Dinámico Proyectado ($r = v^2 / a_0$) | Masa Residual Periférica ($M_r$) | Masa del Ancla Central ($M_c$) | Masa Total del Sistema ($M_t$) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **$N_1$ (1 Sector)** | $\approx 63.400$ km/s | $\approx 39.200$ M a.l. | $1.25 \times 10^{23} M_\odot$ | $1.25 \times 10^{21} M_\odot$ | **$1.26 \times 10^{23} M_\odot$** |
+| **$N_2$ (2 Sectores)** | $\approx 75.400$ km/s | $\approx 55.400$ M a.l. | $2.50 \times 10^{23} M_\odot$ | $2.50 \times 10^{21} M_\odot$ | **$2.52 \times 10^{23} M_\odot$** |
+| **$N_3$ (3 Sectores)** | $\approx 83.400$ km/s | $\approx 67.900$ M a.l. | $3.75 \times 10^{23} M_\odot$ | $3.75 \times 10^{21} M_\odot$ | **$3.79 \times 10^{23} M_\odot$** |
+| **$N_4$ (4 Sectores)** | $\approx 89.600$ km/s | $\approx 78.400$ M a.l. | $5.00 \times 10^{23} M_\odot$ | $5.00 \times 10^{21} M_\odot$ | **$5.05 \times 10^{23} M_\odot$** |
+| **$N_5$ (5 Sectores)** | $\approx 94.700$ km/s | $\approx 87.700$ M a.l. | $6.25 \times 10^{23} M_\odot$ | $6.25 \times 10^{21} M_\odot$ | **$6.31 \times 10^{23} M_\odot$** |
+| **$N_6$ (6 Sectores)** | $\approx 99.200$ km/s | $\approx 96.000$ M a.l. | $7.50 \times 10^{23} M_\odot$ | $7.50 \times 10^{21} M_\odot$ | **$7.57 \times 10^{23} M_\odot$** |
+| **$N_7$ (7 Sectores)** | **$\approx 103.000$ km/s** | **$\approx 104.000$ M a.l.** | **$8.75 \times 10^{23} M_\odot$** | **$8.75 \times 10^{21} M_\odot$** | **$8.84 \times 10^{23} M_\odot$** |
+
+*(Nota: "M a.l." equivale a Millones de años luz).*
 
 Al someter estas proyecciones a las restricciones del horizonte visual y a la dinámica de fluidos autogravitantes, la astrofísica observacional nos exige descartar las primeras seis arquitecturas:
 
