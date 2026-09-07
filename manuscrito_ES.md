@@ -431,15 +431,27 @@ Aplicando la constante estructural metabólica del sistema ($M_c = 1\% M_r$), el
 
 Al comprobar empíricamente que la ley de baja aceleración rige la topología tridimensional de esta cuenca de $1.41 \times 10^{17} M_\odot$, utilizamos el método inductivo: postulamos que este "bloque de construcción" se repite aproximadamente un millón de veces a lo largo del espacio profundo para conformar la enorme red bariónica de $1.25 \times 10^{23} M_\odot$ que detectan los sondeos del fondo cósmico de microondas y que define la masa total de nuestro Superuniverso Observable ($N_1$).
 
-### 6.6.2 Proyección Macroscópica y el Descarte Estocástico de $N_1$ a $N_6$
-Para extrapolar la fórmula y determinar si nuestro superuniverso ($N_1$) constituye la totalidad de la creación o forma parte de un Gran Universo mayor ($N_7$), debemos someter la progresión escalar a la geometría de frontera. Despejamos el radio dinámico máximo de cohesión de la ley fundamental:
-$$r = \sqrt{\frac{G \cdot M_t}{a_0}}$$
+### 6.6.2 Proyección Macroscópica y el Descarte Paramétrico de $N_1$ a $N_6$
 
-Al incrementar las masas en las simulaciones ($N_1, N_2, \dots$), la astrofísica observacional y la geometría del empaquetamiento exigen descartar las primeras seis arquitecturas:
+Para extrapolar la fórmula y determinar si nuestro superuniverso ($N_1$) constituye la totalidad de la creación o forma parte de un Gran Universo mayor, sometemos la progresión escalar a la geometría de frontera. Despejamos el radio dinámico máximo de cohesión de la ley fundamental ($r = v^2/a_0$).
 
-1. **El Descarte de $N_1$ (Ruptura del Horizonte):** Si el cosmos se limitara a nuestra cuenca ($N_1$, con masa $1.25 \times 10^{23} M_\odot$), su radio dinámico estructural máximo sería de $\sim 39.200$ millones de años luz. Dado que nuestros radiotelescopios ya han mapeado un horizonte observable de $46.000$ millones de años luz, $N_1$ es matemáticamente inviable; vemos galaxias que están físicamente por fuera de las fronteras gravitacionales de un sistema $N_1$.
-2. **El Descarte de $N_2$ a $N_5$ (La Topología del Flujo Oscuro):** Si fuéramos un universo $N_3$ o $N_4$, el Ancla Gravitacional Central ($M_c$) caería forzosamente dentro de nuestro horizonte observable. Sin embargo, mediciones cinemáticas masivas ("Flujo Oscuro" o *Dark Flow*) documentan que toda nuestra red galáctica local es arrastrada hacia un atractor que se encuentra *fuera* de nuestros mapas visibles. Para que el Gran Centro ($10^{22} M_\odot$) posea la influencia para arrastrar a $N_1$ pero permanezca invisible más allá de nuestro muro óptico, el radio total del sistema debe superar los $100.000$ millones de años luz. Esto descarta los escenarios de $N_2$ a $N_5$.
-3. **El Descarte de $N_6$ y la Consagración de $N_7$ (El Empaquetamiento Coplanar):** ¿Por qué la arquitectura se detiene en 7 y no en 8 o 15? La respuesta reposa en el Teorema de Osculación Geométrica (*Kissing Number*) para sistemas bidimensionales. En la geometría de un disco rotacional euclidiano, el límite absoluto de cuencas de igual tamaño que pueden agruparse de forma perfectamente tangente alrededor de un núcleo central sin superponerse ni generar vacíos caóticos es exactamente **SEIS**. Para garantizar un metabolismo armónico y una mínima fricción de marea, el macrouniverso alcanza su máxima estabilidad cuando 6 cuencas periféricas orbitan 1 ancla absoluta ($6+1 = 7$).
+Asumiendo nuestro $N_1$ como la unidad estructural base, modelamos algebraicamente cómo se comportaría el sistema si el universo total estuviera compuesto por $2N_1$, $3N_1$, hasta un escenario $N_7$. El propósito de este barrido paramétrico es generar predicciones teóricas para contrastarlas con los datos empíricos:
+
+| Escala Topológica | Velocidad Límite Proyectada ($v$) | Radio Dinámico Proyectado ($r = v^2 / a_0$) | Masa Total del Sistema ($M_t$) |
+| :--- | :--- | :--- | :--- |
+| **$N_1$ (1 Sector)** | $\approx 63.400$ km/s | $\approx 39.200$ Millones a.l. | $1.26 \times 10^{23} M_\odot$ |
+| **$N_2$ (2 Sectores)** | $\approx 75.400$ km/s | $\approx 55.400$ Millones a.l. | $2.52 \times 10^{23} M_\odot$ |
+| **$N_3$ (3 Sectores)** | $\approx 83.400$ km/s | $\approx 67.900$ Millones a.l. | $3.78 \times 10^{23} M_\odot$ |
+| **$N_4$ (4 Sectores)** | $\approx 89.600$ km/s | $\approx 78.400$ Millones a.l. | $5.04 \times 10^{23} M_\odot$ |
+| **$N_5$ (5 Sectores)** | $\approx 94.700$ km/s | $\approx 87.700$ Millones a.l. | $6.30 \times 10^{23} M_\odot$ |
+| **$N_6$ (6 Sectores)** | $\approx 99.200$ km/s | $\approx 96.000$ Millones a.l. | $7.56 \times 10^{23} M_\odot$ |
+| **$N_7$ (7 Sectores)** | **$\approx 103.000$ km/s** | **$\approx 104.000$ Millones a.l.** | **$8.84 \times 10^{23} M_\odot$** |
+
+Al someter estas proyecciones a la astrofísica observacional y a la dinámica de fluidos autogravitantes, el modelo nos exige descartar las primeras seis arquitecturas:
+
+1. **El Descarte de $N_1$ (Ruptura del Horizonte):** Si el cosmos se limitara a nuestra cuenca ($N_1$), su radio dinámico estructural máximo sería de $\sim 39.200$ millones de años luz. Dado que nuestros radiotelescopios ya han mapeado un horizonte observable de $46.000$ millones de años luz, $N_1$ es matemáticamente inviable; vemos galaxias que están físicamente por fuera de las fronteras gravitacionales de un sistema $N_1$.
+2. **El Descarte de $N_2$ a $N_5$ (La Topología del Flujo Oscuro):** Si fuéramos un universo $N_3$ o $N_4$, el Ancla Gravitacional Central ($M_c$) caería forzosamente dentro de nuestro horizonte observable. Sin embargo, mediciones cinemáticas masivas ("Flujo Oscuro" o *Dark Flow*) documentan que toda nuestra red galáctica local es arrastrada hacia un atractor que se encuentra *fuera* de nuestros mapas visibles. Para ocultar este Gran Centro y englobar la masa inercial necesaria para este arrastre, el radio total debe superar holgadamente los $100.000$ millones de años luz. Esto descarta los escenarios de $N_2$ a $N_5$.
+3. **El Descarte de $N_6$ y la Validación de $N_7$ (Partición por Conos Gravitacionales):** A diferencia de objetos rígidos, las estructuras macrocósmicas en rotación operan como discos fluidos que se dividen topológicamente en cuencas de atracción. Partiendo de nuestro marco axiomático que divide el sistema en 7 grandes sectores (conos u "hojas" de $\sim 51.4^\circ$ de amplitud orbital delimitadas por crestas gravitacionales invisibles), el modelo $N_7$ encaja con absoluta precisión en las exigencias de $a_0$. Las configuraciones menores colapsan al dejar la masa de origen del Flujo Oscuro fuera de sus fronteras gravitacionales, mientras que un número de sectores significativamente mayor generaría velocidades tangenciales de soporte altamente relativistas e inestables. $N_7$ constituye el balance termodinámico, espacial y orbital perfecto.
 
 ### 6.6.3 La Resolución Definitiva: El Radio del Gran Universo ($N_7$)
 Al validar $N_7$ como la única configuración macro-estructural viable, calculamos el tamaño definitivo del Gran Universo ingresando la masa total combinada de la arquitectura de siete sectores ($M_t = 8.84 \times 10^{23} M_\odot$) en la ecuación de frontera:
@@ -523,7 +535,6 @@ Fue esa cifra descomunal la que nos sirvió de puente para comprender, por prime
 11. **Tully, R. B., Courtois, H., Hoffman, Y., & Pomarède, D.** (2014). *The Laniakea supercluster of galaxies*. Nature, 513(7516), 71-73.
 12. **Proust, D., et al.** (2006). *The Shapley Supercluster: the largest matter concentration in the local Universe*. Astronomy & Astrophysics, 447(1), 133-144.
 13. **Zwicky, F.** (1933). *Die Rotverschiebung von extragalaktischen Nebeln* (Cúmulo de Coma y primera mención empírica de anomalía de masa). Helvetica Physica Acta, 6, 110-127.
-14. **Conway, J. H., & Sloane, N. J. A.** (1999). *Sphere Packings, Lattices and Groups* (Geometría de empaquetamiento y Teorema del Kissing Number). Springer-Verlag.
-15. **Riess, A. G., et al.** (2019). *Large Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant and Stronger Evidence for Physics beyond $\Lambda$CDM*. The Astrophysical Journal, 876(1), 85.
-16. **Sunyaev, R. A., & Zeldovich, Y. B.** (1972). *The Observations of Relic Radiation as a Test of the Nature of X-Ray Radiation from the Clusters of Galaxies*. Comments on Astrophysics and Space Physics, 4, 173.
-17. **Forman, W., & Jones, C.** (1982). *X-ray-imaging observations of clusters of galaxies*. Annual Review of Astronomy and Astrophysics, 20, 547-585.
+14. **Riess, A. G., et al.** (2019). *Large Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant and Stronger Evidence for Physics beyond $\Lambda$CDM*. The Astrophysical Journal, 876(1), 85.
+15. **Sunyaev, R. A., & Zeldovich, Y. B.** (1972). *The Observations of Relic Radiation as a Test of the Nature of X-Ray Radiation from the Clusters of Galaxies*. Comments on Astrophysics and Space Physics, 4, 173.
+16. **Forman, W., & Jones, C.** (1982). *X-ray-imaging observations of clusters of galaxies*. Annual Review of Astronomy and Astrophysics, 20, 547-585.
