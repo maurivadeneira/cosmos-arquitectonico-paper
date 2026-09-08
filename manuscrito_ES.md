@@ -502,7 +502,7 @@ El Cosmos Arquitectónico demuestra que, cuando el universo se modela bajo diná
 
 Toda gran revolución cosmovisional requiere no solo ecuaciones, sino un mapa. Para consolidar la comprensión del Cosmos Arquitectónico, presentamos la cartografía sintética de la macro-estructura $N_7$, estructurada bajo los principios geométricos que hemos demostrado a lo largo de este trabajo:
 
-1. **El Eje Central Absoluto ($M_c$):** Oculto a más de $50.000$ millones de años luz de nuestra posición, un inmenso pozo gravitacional central de $8.75 \times 21^{21} M_\odot$ actúa como el corazón y ancla del sistema. Este núcleo no emite luz visible directa que podamos aislar, pero su inercia define el vector de rotación de todo el tejido.
+1. **El Eje Central Absoluto ($M_c$):** Oculto a más de $50.000$ millones de años luz de nuestra posición, un inmenso pozo gravitacional central de $8.75 \times 10^{21} M_\odot$ actúa como el corazón y ancla del sistema. Este núcleo no emite luz visible directa que podamos aislar, pero su inercia define el vector de rotación de todo el tejido.
 2. **Los Siete Sectores Periféricos ($N_1$ a $N_7$):** El Gran Universo no es una esfera caótica en expansión infinita, sino un inmenso disco coplanar fraccionado topológicamente en siete cuencas de atracción o super-sectores simétricos (conos angulares de $\sim 51.4^\circ$). 
 3. **Nuestra Posición Local ($N_1$):** Nuestro Superuniverso Observable —el vasto territorio que abarca Laniakea, el Cúmulo de Virgo, el Atractor Shapley y los confines mapeados por el telescopio James Webb— ocupa exactamente una de esas siete porciones periféricas. Es una cuenca dinámica de $1.25 \times 10^{23} M_\odot$ que orbita rítmicamente en torno al Gran Centro.
 4. **El Límite del Muro de Niebla:** Al borde de nuestro sector $N_1$, a los $\sim 35.000$ millones de años luz, las señales lumínicas se termalizan con el fondo de $2.7 \text{ K}$, marcando la frontera óptica de nuestro territorio, más allá de la cual se extienden los demás sectores hermanos que componen la totalidad de la creación.
@@ -593,7 +593,7 @@ La aparente aceleración cósmica y la necesidad de invocar energía oscura desa
 
 ### CAPÍTULO 7: REINTERPRETACIÓN DE LOS PILARES ORTODOXOS Y EPÍLOGO EPISTEMOLÓGICO
 
-#### 8.1 El Eje Absoluto y el Marco Inercial
+####  7.1 El Eje Absoluto y el Marco Inercial
 
 "Cuando era joven, en épocas lejanas, siendo estudiante de física, sabíamos que la creencia en el Éter era absoluta. Y la humanidad buscaba con esmero los ejes $(0,0,0)$ que se negaron a todo intento práctico. Entonces Einstein dijo, no necesitamos esos ejes, todo es relativo, y postuló como un absoluto la relatividad y $c$ como la velocidad límite, y la equivalencia $E = mc^2$ entre la energía y la masa. Pero en honor a la claridad, decir que estos ejes no eran necesarios para explicar las leyes del universo nos condenó a un universo sin orden y al big bang, y valga decir, tampoco invalidaba la existencia del éter. Digamos, fue un bai-pass. 
 
@@ -605,7 +605,7 @@ Nuestro planteamiento da la vuelta a ese axioma bajo una óptica de arquitectura
 
 Si el universo posee una arquitectura rotacional coherente a macroescala, los puntos de referencia de las coordenadas dejan de ser una fantasía cartesiana para convertirse en una realidad física medible y mapeable. La renuncia de Einstein al éter fue una solución pragmática para un universo que parecía plano y desorganizado a nuestras primeras luces, pero que a medida que abrimos los ojos a la inmensidad de las macroestructuras, nos vuelve a exigir un centro, un orden y un origen.
 
-#### 8.2 La Conciencia Sigue a la Ley: El Orden Orgánico del Cosmos
+#### 7.2 La Conciencia Sigue a la Ley: El Orden Orgánico del Cosmos
 
 La restitución de este origen nos invita a una reflexión final sobre la naturaleza misma de las fuerzas que cohesionan la realidad. Hemos demostrado que la gravedad, al operar bajo el umbral geométrico de $a_0$, no requiere de parches invisibles ni de entidades repulsivas; obedece a un límite estructural estricto. Esta precisión matemática infalible que rige desde la rotación de un disco galáctico hasta la dispersión virial de un superuniverso, sugiere que el cosmos no es un ensamble ciego e inerte de materia, sino un sistema integrado y autorregulado.
 
@@ -613,7 +613,7 @@ Bajo este marco arquitectónico, la posibilidad de una interconexión profunda o
 
 Las leyes dependientes de la escala y las constantes universales no son cadenas impuestas a un universo muerto, sino los protocolos inquebrantables de un orden orgánico. La gravedad y el límite $a_0$ constituyen la partitura; la materia bariónica y la conciencia universal ejecutan la sinfonía. Reconocer esta dualidad no es abandonar el rigor de la ciencia analítica, sino comprender que las ecuaciones de masa y cinemática que hemos desentrañado son el lenguaje funcional con el que este cosmos sostiene, de manera autónoma, su propia arquitectura.
 
-#### 8.3 El Valor Heurístico del Error: La Ruptura con el Big Bang y el Universo Eterno
+#### 7.3 El Valor Heurístico del Error: La Ruptura con el Big Bang y el Universo Eterno
 
 En la ciencia, ciertas aproximaciones especulativas —incluso cuando son posteriormente afinadas por el rigor empírico— actúan como andamios indispensables para alcanzar una nueva verdad. Durante las fases preliminares de esta investigación, antes de anclar la ecuación a la masa bariónica estrictamente observada ($10^{23} M_\odot$), una primera aproximación métrica sugirió que la arquitectura de los siete superuniversos abarcaba un radio colosal de 495.000 millones de años luz. 
 
