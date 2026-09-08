@@ -373,30 +373,17 @@ Al someter estas proyecciones a las restricciones del horizonte visual y a la di
 2. **El Descarte de $N_2$ a $N_5$ (El Ocultamiento del Gran Centro):** Si el Gran Universo fuera una configuración de $N_3$ o $N_4$, el Ancla Gravitacional Central ($M_c$) caería forzosamente dentro de nuestro horizonte observable. Sin embargo, para que este Gran Centro sea ópticamente invisible (oculto por la distancia) y simultáneamente posea la masa inercial necesaria para generar el arrastre direccional del Flujo Oscuro, el radio total del sistema debe superar holgadamente los $100.000$ millones de años luz. Esto descarta empíricamente los escenarios de $N_2$ a $N_5$.
 3. **El Descarte de $N_6$ y la Validación de $N_7$ (Equilibrio de Conos Gravitacionales):** Modelado geométricamente como un inmenso fluido coplanar autogravitante, el disco macroscópico se divide topológicamente en cuencas de atracción (conos o "lóbulos"). El modelo $N_7$ (dividido en 7 sectores de $\sim 51.4^\circ$ de amplitud orbital) constituye el balance termodinámico, espacial y orbital perfecto, encajando con absoluta precisión en las exigencias del límite universal $a_0$ sin requerir velocidades tangenciales inestables para su soporte.
 
-#### 4.5 La Resolución Definitiva: Masas Absolutas y el Radio del Gran Universo ($N_7$)
+#### 4.5 La Resolución Definitiva: Masas Absolutas y la Barrera Centrífuga ($N_7$)
 
-Al validar matemáticamente a $N_7$ como la única topología macro-estructural viable (un sistema compuesto por 7 superuniversos o sectores girando en torno a un eje común), procedemos a calcular la distribución de masa exacta que exige la arquitectura. 
-
-Aplicamos nuestra identidad estructural fundamental para cualquier sistema rotatorio autosostenido ($M_t = M_c + M_r$) al Gran Universo:
-
-*   **Paso 1: La Masa Residual Periférica ($M_r$).** Tomamos la masa bariónica de nuestro Superuniverso Observable ($N_1 \approx 1.25 \times 10^{23} M_\odot$) y la multiplicamos por los 7 sectores que conforman la periferia en rotación:
-    $$M_r = 7 \cdot (1.25 \times 10^{23} M_\odot) = 8.75 \times 10^{23} M_\odot$$
-
-*   **Paso 2: La Masa del Ancla Central Absoluta ($M_c$).** Aplicando la constante estructural metabólica comprobada en nuestra red local, el Gran Centro requiere una masa equivalente al $1\%$ de la masa residual total para sostener la dinámica sin desgarrarse:
-    $$M_c = 0.01 \cdot (8.75 \times 10^{23} M_\odot) = 8.75 \times 10^{21} M_\odot$$
-
-*   **Paso 3: La Masa Total del Gran Universo ($M_t$).** Sumamos la periferia y su núcleo central para obtener la masa absoluta del sistema:
-    $$M_t = (8.75 \times 10^{21} M_\odot) + (8.75 \times 10^{23} M_\odot) = 8.8375 \times 10^{23} M_\odot$$
-
-Con la masa total ($M_t \approx 8.84 \times 10^{23} M_\odot$) debidamente deducida, procedemos a calcular el tamaño definitivo del sistema ingresando este valor en la ecuación de frontera métrica ($r = v^2/a_0$, que es equivalente a despejar el radio de $M_t = v^4 / G \cdot a_0$):
-
-1.  **Métrica (SI):** $r = \sqrt{\frac{1.758 \times 10^{54} \text{ kg} \cdot 6.674 \times 10^{-11} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}}{1.2 \times 10^{-10} \text{ m/s}^2}}$
-2.  **Solución Métrica:** $r \approx 9.88 \times 10^{26} \text{ metros}$.
-
-Al realizar la conversión estandarizada, la ecuación nos entrega la verdadera escala del sistema:
-**Radio Dinámico Estructural de $N_7$ = 104.000 Millones de Años Luz.**
+*(...Aquí va la deducción de las masas $M_r$, $M_c$ y $M_t$ que ya tenemos, junto con el cálculo del radio dinámico de 104.000 Millones de años luz...)*
 
 Esta cifra constituye el clímax analítico del modelo dependiente de la escala. Demuestra que nuestro horizonte de visión actual (46.000 millones de a.l.) cubre apenas un 44% de la creación, explicando con pureza matemática nuestra absoluta incapacidad para observar visualmente el Gran Centro Absoluto ($M_c$), oculto tras inmensas barreras de distancia y oclusión.
+
+**La Prevención del Colapso: El Pozo de Potencial Efectivo**
+El modelo $N_7$ descarta formalmente el Big Bang como una singularidad inicial. El mecanismo físico intrínseco que previene el colapso gravitatorio de esta inmensa masa de $8.84 \times 10^{23} M_\odot$ se rige por la conservación del momento angular a escala macrocósmica. Al modelar el Gran Universo como un sistema en rotación coplanar, la dinámica queda determinada por un pozo de potencial estable:
+$$V_{eff}(r) = V(r) + \frac{L^2}{2mr^2}$$
+
+Dado que en el régimen macrocósmico la fuerza gravitacional decae de forma suavizada ($1/r$), el potencial asociado $V(r)$ es logarítmico. A medida que el macrouniverso se contrae, el término centrífugo repulsivo dependiente del momento angular ($L$) crece a una tasa agresiva de $1/r^2$. Este "muro centrífugo" supera invariablemente a la atracción a distancias cortas, creando una barrera impenetrable. Durante el colapso, el sistema se comprime y acelera su rotación, actuando como un gigantesco resorte. El presunto "Big Bang" se redefine así como un rebote elástico termodinámico: la energía de contracción se invierte al chocar contra la barrera centrífuga, perpetuando un cosmos cíclico y matemáticamente estable.
 
 #### 4.6 El Cierre Unificado: La Respiración Cósmica y la Constante de Hubble
 
@@ -408,16 +395,20 @@ El cálculo del radio dinámico de 104.000 millones de años luz resuelve la dis
 Para modelar este tercer vector (la respiración del tejido espacial) prescindiendo totalmente de la "energía oscura" y de la singularidad inicial del Big Bang, estructuramos una Ecuación de Onda Cósmica para el factor de escala $R(t)$:
 $$R(t) = R_0 + A \cdot \sin\left(2\pi \frac{t}{T}\right)$$
 
-Donde $R_0$ es el radio base de equilibrio, $A$ es la amplitud máxima de la elasticidad espacial, y $T$ representa el eón cósmico (estimado en $2.000$ millones de años terrestres). Al aplicar la derivada temporal para hallar la tasa de estiramiento ($\dot{R}$), obtenemos la velocidad de expansión radial aparente. Matemáticamente, el parámetro que la astrofísica tradicional denomina Constante de Hubble ($H_0$) es simplemente la relación entre esta velocidad de cambio y el radio en un instante dado:
+Donde $R_0$ es el radio base de equilibrio y $A$ es la amplitud máxima de la elasticidad espacial. En un marco físico riguroso, el periodo de oscilación macroscópica ($T$) no es arbitrario; está estrictamente dictado por la frecuencia de resonancia del pozo de potencial efectivo ($V_{eff}$) y la inmensa masa inercial del sistema ($M_t = 8.84 \times 10^{23} M_\odot$). 
+
+Al aplicar la derivada temporal para hallar la tasa de estiramiento ($\dot{R}$), obtenemos la velocidad de expansión radial aparente del sistema. En lugar de especular sobre tiempos cosmogónicos, el modelo se ancla a la evidencia empírica: tomamos el valor de la Constante de Hubble ($H_0 \approx 70 \text{ km/s/Mpc}$), rigurosamente medido por la astrofísica observacional, y lo ingresamos a nuestra métrica no como un rastro de una explosión primigenia, sino como el registro cinemático de la onda en el tiempo actual ($t$):
 $$H(t) = \frac{\dot{R}(t)}{R(t)} = \frac{A \cdot \left(\frac{2\pi}{T}\right) \cdot \cos\left(2\pi \frac{t}{T}\right)}{R_0 + A \cdot \sin\left(2\pi \frac{t}{T}\right)}$$
 
-Bajo esta óptica algorítmica, la aceleración detectada en el espacio profundo no es el rastro de una expansión infinita y descontrolada, sino la simple fotografía actual de la fase expansiva (el vector coseno positivo) de este pulso eónico natural. La "Energía Oscura" resulta ser un concepto física y matemáticamente obsoleto.
+Bajo esta óptica algorítmica, la aceleración detectada en el espacio profundo no requiere la invención de una "Energía Oscura" repulsiva. Es, pura y simplemente, la medición mecánica de la fase expansiva (el vector coseno positivo) de un oscilador armónico macroscópico.
 
-Este mecanismo termodinámico unifica todo el sistema geométrico. Demuestra finalmente por qué el límite de aceleración galáctica ($a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$) no es un parámetro arbitrario o un parche local. Al igualar las escalas, descubrimos que $a_0$ es la tensión gravitacional límite dictada directamente por el pulso del Gran Universo, sellando la Ley Fundamental de Estado que rige toda la macroarquitectura:
-$$a_0 = \chi \frac{c \cdot H_0}{2\pi}$$
+**La Resolución de la "Tensión de Hubble"**
+La mayor crisis de la cosmología contemporánea radica en la divergencia de las mediciones empíricas: la tasa de expansión difiere significativamente (entre 67 y 73 km/s/Mpc) dependiendo de si se mide el universo local o el fondo cósmico temprano. El modelo estándar $\Lambda\text{CDM}$ es incapaz de conciliar esta brecha. 
 
-Al reemplazar los parches invisibles (materia y energía oscura) por dinámicas estructurales puras dependientes de la escala y deducidas algorítmicamente, este modelo demuestra que el universo es un sistema arquitectónico unificado y orgánico. El orden geométrico prevalece sobre el caos expansivo, restituyendo de forma definitiva el principio de parsimonia en la astrofísica moderna.
----
+Nuestro modelo escalar predice y exige matemáticamente esta divergencia. Al definir la expansión como la derivada de una función de onda senoidal, la tasa de estiramiento es intrínsecamente temporal y espacialmente variable. Un estiramiento elástico volumétrico marginal en el tejido espacial reproduce la velocidad aparente actual. La "Tensión de Hubble" no es un error de medición de los telescopios, sino la prueba observacional directa —la huella dactilar geométrica— de que estamos midiendo diferentes fases de la curvatura de esta onda de respiración cósmica.
+
+Este mecanismo termodinámico unifica todo el sistema. Demuestra por qué el límite de aceleración galáctica ($a_0$) no es un parche local, sino la tensión gravitacional directamente acoplada al pulso dinámico del Gran Universo, sellando la Ley Fundamental de Estado:
+$$a_0 = \chi \frac{c \cdot H_0}{
 
 
 
