@@ -397,8 +397,11 @@ $$R(t) = R_0 + A \cdot \sin\left(2\pi \frac{t}{T}\right)$$
 
 Donde $R_0$ es el radio base de equilibrio y $A$ es la amplitud máxima de la elasticidad espacial. En un marco físico riguroso, el periodo de oscilación macroscópica ($T$) no es arbitrario; está estrictamente dictado por la frecuencia de resonancia del pozo de potencial efectivo ($V_{eff}$) y la inmensa masa inercial del sistema ($M_t = 8.84 \times 10^{23} M_\odot$). 
 
-Al aplicar la derivada temporal para hallar la tasa de estiramiento ($\dot{R}$), obtenemos la velocidad de expansión radial aparente del sistema. En lugar de especular sobre tiempos cosmogónicos, el modelo se ancla a la evidencia empírica: tomamos el valor de la Constante de Hubble ($H_0 \approx 70 \text{ km/s/Mpc}$), rigurosamente medido por la astrofísica observacional, y lo ingresamos a nuestra métrica no como un rastro de una explosión primigenia, sino como el registro cinemático de la onda en el tiempo actual ($t$):
-$$H(t) = \frac{\dot{R}(t)}{R(t)} = \frac{A \cdot \left(\frac{2\pi}{T}\right) \cdot \cos\left(2\pi \frac{t}{T}\right)}{R_0 + A \cdot \sin\left(2\pi \frac{t}{T}\right)}$$
+Al derivar esta función respecto al tiempo para hallar la velocidad de estiramiento ($\frac{dR}{dt}$), obtenemos la velocidad de expansión radial aparente del sistema. En lugar de especular sobre tiempos cosmogónicos, el modelo se ancla a la evidencia empírica: tomamos el valor de la Constante de Hubble ($H_0$), rigurosamente medido por la astrofísica observacional, y lo ingresamos a nuestra métrica no como el rastro de una explosión primigenia, sino como el registro cinemático de la onda en el tiempo actual.
+
+Matemáticamente, el parámetro de Hubble ($H$) se define como la velocidad de expansión dividida por el tamaño del universo. Aplicado a nuestra función de onda, esto equivale a dividir explícitamente la derivada temporal ($\frac{dR}{dt}$) entre la función original ($R(t)$):
+
+$$H(t) = \frac{\frac{dR(t)}{dt}}{R(t)} = \frac{A \cdot \left(\frac{2\pi}{T}\right) \cdot \cos\left(2\pi \frac{t}{T}\right)}{R_0 + A \cdot \sin\left(2\pi \frac{t}{T}\right)}$$
 
 Bajo esta óptica algorítmica, la aceleración detectada en el espacio profundo no requiere la invención de una "Energía Oscura" repulsiva. Es, pura y simplemente, la medición mecánica de la fase expansiva (el vector coseno positivo) de un oscilador armónico macroscópico.
 
