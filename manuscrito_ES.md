@@ -450,6 +450,26 @@ El modelo estándar asume que el corrimiento al rojo cosmológico es la prueba i
 
 La suma de la respiración elástica natural del universo (el pulso de Hubble) con la resistencia gravitacional y plasmática del medio, reproduce la curva exacta del corrimiento al rojo observado, haciendo innecesaria la hipótesis de una expansión métrica desbocada.
 
+#### 5.1.1 La Ley de Atenuación Exponencial y el Horizonte de Termalización
+
+Para sostener matemáticamente la pérdida de energía del fotón sin recurrir a la expansión métrica, modelamos el viaje de la luz a través de la macroarquitectura $N_7$ como un proceso de decaimiento continuo. Si un fotón pierde una fracción constante de su energía ($dE$) por cada unidad de distancia recorrida ($dx$) al atravesar los inmensos pozos gravitacionales y el plasma intergaláctico, la ecuación diferencial de su energía es:
+$$dE = -k \cdot E \cdot dx$$
+
+Al integrar esta función desde el punto de emisión hasta el observador, obtenemos una ley de atenuación exponencial:
+$$E(d) = E_0 \cdot e^{-k \cdot d}$$
+
+En este modelo, el coeficiente de atenuación geométrica ($k$) está directamente dictado por el pulso elástico del sistema ($H_0$) y el límite de transmisión de la luz ($c$). Por lo tanto, $k = H_0/c$. La ecuación del corrimiento al rojo ($z$) deducida a partir de esta pérdida de energía es:
+$$z(d) = e^{\frac{H_0}{c} \cdot d} - 1$$
+
+Esta ecuación pura demuestra dos realidades observacionales incontestables:
+1. **Para distancias cortas (universo local):** La función exponencial se aproxima a una línea recta ($z \approx \frac{H_0}{c}d$), reproduciendo con exactitud la Ley de Hubble clásica sin requerir expansión espacial.
+2. **Para distancias extremas (el Horizonte Visual):** A medida que el fotón recorre decenas de miles de millones de años luz, su energía ($E = hc/\lambda$) decae drásticamente y su longitud de onda ($\lambda$) se estira hacia el espectro de microondas y radio. 
+
+**El Muro de Niebla (Límite de Información)**
+La pérdida de visibilidad más allá de los $\sim 46.000$ millones de años luz no se debe a que el universo "termine" allí, ni a que las galaxias estén huyendo a mayor velocidad que la luz. Se debe a un **límite de termalización de la información**. 
+
+Cuando el fotón ha viajado la distancia suficiente para que la atenuación gravitacional reduzca su energía al nivel de temperatura ambiente del universo ($\sim 2.7 \text{ K}$), la onda lumínica se funde por completo con el Fondo Cósmico de Microondas (CMB). En este punto crítico, la onda pierde cualquier capacidad de portar información visual contrastable; se convierte en "ruido blanco" termodinámico. El universo más allá de este horizonte sigue existiendo estructuralmente hasta los $104.000$ millones de años luz (como demuestra el modelo $N_7$), pero es ópticamente impenetrable porque el medio ha disipado y termalizado por completo las señales lumínicas que provienen de allí.
+
 #### 5.2 El Termostato Macroscópico: La Radiación de Fondo de Microondas (CMB)
 
 Bajo el paradigma del Big Bang clásico, el CMB de 2.7 K se interpreta como las cenizas enfriadas de la explosión primordial original. En el Cosmos Arquitectónico, libre de la singularidad inicial, esta radiación de fondo de microondas obedece a las leyes más elementales de la termodinámica clásica. 
