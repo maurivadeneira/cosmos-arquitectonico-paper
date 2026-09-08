@@ -498,6 +498,17 @@ El modelo dedujo la necesidad exacta de una masa de anclaje que resuelve la "mat
 
 El Cosmos Arquitectónico demuestra que, cuando el universo se modela bajo dinámicas puras dependientes de la escala, la autosemejanza fractal y el orden geométrico prevalecen invariablemente sobre el caos, restituyendo de forma definitiva el principio de parsimonia en la astrofísica.
 
+#### 5.5 La Cartografía del Cosmos: El Atlas Estructural del Modelo $N_7$
+
+Toda gran revolución cosmovisional requiere no solo ecuaciones, sino un mapa. Para consolidar la comprensión del Cosmos Arquitectónico, presentamos la cartografía sintética de la macro-estructura $N_7$, estructurada bajo los principios geométricos que hemos demostrado a lo largo de este trabajo:
+
+1. **El Eje Central Absoluto ($M_c$):** Oculto a más de $50.000$ millones de años luz de nuestra posición, un inmenso pozo gravitacional central de $8.75 \times 21^{21} M_\odot$ actúa como el corazón y ancla del sistema. Este núcleo no emite luz visible directa que podamos aislar, pero su inercia define el vector de rotación de todo el tejido.
+2. **Los Siete Sectores Periféricos ($N_1$ a $N_7$):** El Gran Universo no es una esfera caótica en expansión infinita, sino un inmenso disco coplanar fraccionado topológicamente en siete cuencas de atracción o super-sectores simétricos (conos angulares de $\sim 51.4^\circ$). 
+3. **Nuestra Posición Local ($N_1$):** Nuestro Superuniverso Observable —el vasto territorio que abarca Laniakea, el Cúmulo de Virgo, el Atractor Shapley y los confines mapeados por el telescopio James Webb— ocupa exactamente una de esas siete porciones periféricas. Es una cuenca dinámica de $1.25 \times 10^{23} M_\odot$ que orbita rítmicamente en torno al Gran Centro.
+4. **El Límite del Muro de Niebla:** Al borde de nuestro sector $N_1$, a los $\sim 35.000$ millones de años luz, las señales lumínicas se termalizan con el fondo de $2.7 \text{ K}$, marcando la frontera óptica de nuestro territorio, más allá de la cual se extienden los demás sectores hermanos que componen la totalidad de la creación.
+
+Este mapa elimina el azar, la materia oscura invisible y la energía fantasma. Reemplaza el caos de una explosión ciega por una geometría orgánica, finita, calculable y bellamente ordenada.
+
 ### CAPÍTULO 8: REINTERPRETACIÓN DE LOS PILARES ORTODOXOS Y EPÍLOGO EPISTEMOLÓGICO
 
 #### 8.1 El Eje Absoluto y el Marco Inercial
