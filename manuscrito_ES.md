@@ -418,6 +418,8 @@ $$a_0 = \chi \frac{c \cdot H_0}{2\pi}$$
 
 La constante $a_0$ no es un parche impuesto a las galaxias; es la aceleración de arrastre intrínseca que el estiramiento del Gran Universo ($H_0$) transmite a través del espacio ($c$) hacia los bordes de cada espiral ($2\pi$).
 
+En términos termodinámicos, $H_0$ y $a_0$ constituyen las dos caras de una misma moneda dinámica; son la manifestación de la misma fuerza operando a escalas opuestas. Mientras $H_0$ representa la macro-tensión expansiva del tejido espacial (el Gran Universo respirando hacia afuera), $a_0$ representa la tensión de retención local (el anclaje gravitacional que resiste ese estiramiento en los bordes de la galaxia). Forman una unidad indisoluble: la rotación galáctica anómala existe precisamente porque las galaxias están "flotando" sobre un tejido espacial que las tensa rítmicamente. Sin la respiración macroscópica de Hubble, no existiría el límite inercial de Milgrom.
+
 #### 4.6.2 Derivación Analítica del Eón Cósmico (El Ciclo de 2.000 Millones de Años)
 
 En lugar de postular arbitrariamente el periodo de oscilación del Gran Universo, podemos derivar la duración exacta del eón cósmico ($T$) aplicando ingeniería inversa sobre los datos empíricos convalidados por la astrofísica. 
