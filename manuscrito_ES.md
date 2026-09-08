@@ -411,7 +411,7 @@ La mayor crisis de la cosmología contemporánea radica en la divergencia de las
 Nuestro modelo escalar predice y exige matemáticamente esta divergencia. Al definir la expansión como la derivada de una función de onda senoidal, la tasa de estiramiento es intrínsecamente temporal y espacialmente variable. Un estiramiento elástico volumétrico marginal en el tejido espacial reproduce la velocidad aparente actual. La "Tensión de Hubble" no es un error de medición de los telescopios, sino la prueba observacional directa —la huella dactilar geométrica— de que estamos midiendo diferentes fases de la curvatura de esta onda de respiración cósmica.
 
 Este mecanismo termodinámico unifica todo el sistema. Demuestra por qué el límite de aceleración galáctica ($a_0$) no es un parche local, sino la tensión gravitacional directamente acoplada al pulso dinámico del Gran Universo, sellando la Ley Fundamental de Estado:
-$$a_0 = \chi \frac{c \cdot H_0}{
+$$a_0 = \chi \frac{c \cdot H_0}{2\pi}$$
 
 
 
