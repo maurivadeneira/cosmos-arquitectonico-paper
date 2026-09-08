@@ -670,3 +670,6 @@ Bajo el prisma del modelo $N_7$, estas no son anomalías estadísticas ni fallos
 14. **Riess, A. G., et al.** (2019). *Large Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant and Stronger Evidence for Physics beyond $\Lambda$CDM*. The Astrophysical Journal, 876(1), 85.
 15. **Sunyaev, R. A., & Zeldovich, Y. B.** (1972). *The Observations of Relic Radiation as a Test of the Nature of X-Ray Radiation from the Clusters of Galaxies*. Comments on Astrophysics and Space Physics, 4, 173.
 16. **Forman, W., & Jones, C.** (1982). *X-ray-imaging observations of clusters of galaxies*. Annual Review of Astronomy and Astrophysics, 20, 547-585.
+17. **Kirshner, R. P., Oemler, A. Jr., Schechter, P. L., & Shectman, S. A.** (1981). *A million cubic megaparsec void in Bootes* (Descubrimiento empírico del Vacío de Boötes). The Astrophysical Journal, 248, L57-L60.
+18. **Land, K., & Magueijo, J.** (2005). *The Axis of Evil* (Identificación del alineamiento anómalo en el eje Z del CMB). Physical Review Letters, 95(7), 071301.
+19. **Cruz, M., Martínez-González, E., Vielva, P., & Diego, J. M.** (2005). *Detection of a non-Gaussian spot in WMAP* (Identificación observacional de la Mancha Fría). Monthly Notices of the Royal Astronomical Society, 356(1), 29-40.
