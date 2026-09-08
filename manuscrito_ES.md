@@ -591,11 +591,11 @@ La aparente aceleración cósmica y la necesidad de invocar energía oscura desa
 
 
 
-### CAPÍTULO 8: REINTERPRETACIÓN DE LOS PILARES ORTODOXOS Y EPÍLOGO EPISTEMOLÓGICO
+### CAPÍTULO 7: REINTERPRETACIÓN DE LOS PILARES ORTODOXOS Y EPÍLOGO EPISTEMOLÓGICO
 
 #### 8.1 El Eje Absoluto y el Marco Inercial
 
-"En épocas lejanas, la creencia en el Éter era absoluta. Y la humanidad buscaba con esmero los ejes $(0,0,0)$ que se negaron a todo intento. Entonces llegó Einstein y dijo, no necesitamos esos ejes, postulando como un absoluto la relatividad y $c$ como la velocidad límite, y la equivalencia $E = mc^2$ entre la energía y la masa. Pero en honor a la claridad, decir que estos ejes no eran necesarios para explicar las leyes del universo, no implicaba negar el Éter. 
+"Cuando era joven, en épocas lejanas, siendo estudiante de física, sabíamos que la creencia en el Éter era absoluta. Y la humanidad buscaba con esmero los ejes $(0,0,0)$ que se negaron a todo intento práctico. Entonces Einstein dijo, no necesitamos esos ejes, todo es relativo, y postuló como un absoluto la relatividad y $c$ como la velocidad límite, y la equivalencia $E = mc^2$ entre la energía y la masa. Pero en honor a la claridad, decir que estos ejes no eran necesarios para explicar las leyes del universo nos condenó a un universo sin orden y al big bang, y valga decir, tampoco invalidaba la existencia del éter. Digamos, fue un bai-pass. 
 
 Si vamos a ser justos, y damos un nombre diferente con menos contexto histórico, podemos reivindicar a La Fuente, y a los ejes $(0,0,0)$ como absolutamente necesarios para explicar el universo y todo su contenido que al día de hoy hemos podido observar, sin necesidad de inventar energías y materia oscuras, y hasta encontramos en las mediciones la posibilidad de encontrar la ubicación real de los ejes. La imposibilidad de encontrar estos ejes en el pasado era simplemente que nos faltaba más información y perspectiva."
 
