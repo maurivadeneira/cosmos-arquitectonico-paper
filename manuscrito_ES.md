@@ -8,7 +8,9 @@
 **Contacto:** * maurivadeneira@gmail.com
 **Fecha:** 28 de agosto de 2026
 
-<img width="902" height="772" alt="mapa_n7" src="https://github.com/user-attachments/assets/c850c159-eb61-4541-a6b8-4309161421ac" />
+> *"Entregamos este manuscrito del Cosmos Arquitectónico como un andamio en construcción que nos permita aumentar la comprensión de nuestro universo majestuoso e inconmensurable; un cosmos infinito, estructurado y eterno."*
+
+<img width="902" height="772" alt="mapa_n7" src="https://github.com/..." />
 
 
 
@@ -656,8 +658,10 @@ Sin embargo, ¿qué ocurre cuando nuestros telescopios apuntan perpendicularment
 
 La astrofísica observacional ya ha detectado esta asimetría, aunque la ortodoxia cosmológica, aferrada al dogma de una expansión esférica perfecta, la ha catalogado como anomalías inexplicables. Las mediciones del Fondo Cósmico de Microondas (CMB) realizadas por los satélites WMAP y Planck revelaron un alineamiento preferencial a gran escala en las fluctuaciones térmicas, un fenómeno que la academia denominó el "Eje del Mal" (Axis of Evil). Asimismo, se detectó la colosal "Mancha Fría" (Cold Spot), una vasta región donde la radiación térmica cae abruptamente, asociada a vacíos intergalácticos de proporciones anómalas, siendo el más célebre el **Vacío de Boötes** (con sus formidables 330 millones de años luz de diámetro).
 
-Bajo el prisma del modelo $N_7$, estas no son anomalías estadísticas ni fallos instrumentales. Son la firma estructural directa de la arquitectura coplanar del universo. El "Eje del Mal", la Mancha Fría y vacíos colosales como Boötes son, literalmente, la ventana translúcida en el espesor de nuestro eje $Z$. Es la evidencia empírica directa de que habitamos un ecosistema finito, estructurado y plano, que flota sobre el lienzo eterno del espacio absoluto.
----
+Bajo el prisma del modelo $N_7$, estas no son anomalías estadísticas ni fallos instrumentales. Son la firma estructural directa de la arquitectura coplanar del universo. El "Eje del Mal", la Mancha Fría y vacíos colosales como Boötes son, literalmente, la ventana translúcida en el espesor de nuestro eje $Z$. Es la evidencia empírica directa de que habitamos un ecosistema finito, estructurado y plano, que flota sobre el lienzo eterno del espacio absoluto. 
+
+**Entregamos este manuscrito del Cosmos Arquitectónico como un andamio en construcción que nos permita aumentar la comprensión de nuestro universo majestuoso e inconmensurable; un cosmos infinito, estructurado y eterno.**
+
 
 ### REFERENCIAS BIBLIOGRÁFICAS
 
