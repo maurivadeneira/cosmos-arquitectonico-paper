@@ -1,3 +1,4 @@
+<img width="902" height="772" alt="mapa_n7" src="https://github.com/user-attachments/assets/601b4f93-5e2d-4552-b957-22211b2fc17a" />
 
 # MANUSCRITO CIENTÍFICO / SCIENTIFIC MANUSCRIPT
 **PARTE 1: VERSIÓN EN ESPAÑOL (SPANISH VERSION)**
