@@ -8,6 +8,11 @@
 **Contacto:** * maurivadeneira@gmail.com
 **Fecha:** 28 de agosto de 2026
 
+<img width="902" height="772" alt="mapa_n7" src="https://github.com/user-attachments/assets/c850c159-eb61-4541-a6b8-4309161421ac" />
+
+
+
+
 **RESUMEN**
 Proponemos un modelo cosmológico mecanicista y dependiente de la escala que desafía el paradigma estándar ($\Lambda\text{CDM}$) y su dependencia de entidades inobservables (materia y energía oscura). Partiendo de un marco axiomático topológico basado en una organización macrocósmica jerárquica y coplanar (siete superuniversos orbitando un Gran Centro Absoluto), aplicamos una ley de escala dinámica ($1/r$) para regímenes de aceleración ultrabaja ($a \ll a_0$). A escala galáctica y de cúmulos, demostramos matemáticamente que la masa bariónica empírica es suficiente para mantener la cohesión geométrica ($M = v^4 / G \cdot a_0$), eliminando de raíz la necesidad de halos de materia oscura. A escala macrocósmica, el modelo deduce una masa de anclaje gravitacional central y delimita una arquitectura finita con un radio estructural de $104.000$ millones de años luz. 
 
