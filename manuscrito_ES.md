@@ -10,7 +10,7 @@
 
 > *"Entregamos este manuscrito del Cosmos Arquitectónico como un andamio en construcción que nos permita aumentar la comprensión de nuestro universo majestuoso e inconmensurable; un cosmos infinito, estructurado y eterno."*
 
-<img width="902" height="772" alt="mapa_n7" src="https://github.com/..." />
+<img width="902" height="772" alt="mapa_n7" src="[https://github.com/user-attachments/assets/c850c159-eb61-4541-a6b8-4309161421ac](https://github.com/user-attachments/assets/c850c159-eb61-4541-a6b8-4309161421ac)" />
 
 
 
