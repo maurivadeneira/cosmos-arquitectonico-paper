@@ -56,6 +56,25 @@ Frente a este caos de datos, la ortodoxia optó por inventar halos invisibles de
 
 En cumplimiento del rigor científico, reconocemos formalmente que este límite y su fórmula de escala coinciden con la Dinámica Newtoniana Modificada (MOND), postulada empíricamente por Mordehai Milgrom en 1983. Aunque nuestro camino computacional fue guiado de manera independiente por datos brutos, esta convergencia histórica valida la solidez de la métrica. 
 
+#### 1.4 Formulación Matemática y la Expresión Completa de la Ley de Escala
+
+Para formalizar este comportamiento sin recurrir a masas invisibles, la deducción algebraica parte de redefinir la ley de la fuerza gravitacional introduciendo explícitamente la función de escala adimensional ($\mu$):
+
+$$F = G \cdot \frac{m_1 \cdot m_2}{d^2} \cdot \mu\left(\frac{a}{a_0}\right)$$
+
+En el régimen de alta aceleración local ($a \gg a_0$), la función de transición tiende a la unidad ($\mu \to 1$), recuperando con absoluta precisión la ley de gravitación universal de Newton. Sin embargo, al descender la aceleración inercial de una estrella por debajo del umbral infinitesimal ($a_0$), el sistema introduce de forma natural la función de transición. Partiendo de la igualación dinámica de fuerzas:
+
+$$m \cdot a \cdot \mu\left(\frac{a}{a_0}\right) = G \frac{M \cdot m}{r^2}$$
+
+En el régimen de gravedad profunda de los bordes galácticos ($a \ll a_0$), la función se simplifica a la proporción exacta $\mu = a/a_0$. Al introducir esta condición geométrica en la ecuación, las masas de prueba ($m$) se cancelan, y el despeje algebraico de la aceleración ($a$) resulta en:
+
+$$a = \frac{\sqrt{G \cdot M \cdot a_0}}{r}$$
+
+Al aplicar $F = m \cdot a$, esto transforma la fuerza gravitacional efectiva del sistema en:
+
+$$F = m \frac{\sqrt{G \cdot M \cdot a_0}}{r}$$
+
+Esta formulación deja plenamente transparente que la modificación altera de forma directa la interacción macroscópica. La implicación física es monumental: la fuerza que sujeta a la galaxia ya no decae agresivamente al cuadrado de la distancia ($1/r^2$), sino que se suaviza para decaer en proporción al inverso de la distancia ($1/r$). Esto permite que el disco se mantenga cohesionado sin requerir materia oscura. Como veremos a continuación, donde la academia tradicional se estancó —tratando esto como un simple parche local— nuestro modelo demuestra que esta fuerza es el principio rector macro-arquitectónico.
 #### 1.4 La Formulación Matemática de la Ley de Escala
 Cuando la aceleración inercial de una estrella cae por debajo de este umbral infinitesimal ($a_0$), el sistema introduce de forma natural una función de transición ($\mu$). Para formalizar este comportamiento sin recurrir a masas invisibles, la deducción algebraica parte de la igualación de fuerzas:
 $$m \cdot a \cdot \mu\left(\frac{a}{a_0}\right) = G \frac{M \cdot m}{r^2}$$
