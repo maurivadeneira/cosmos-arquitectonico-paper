@@ -75,17 +75,6 @@ Al aplicar $F = m \cdot a$, esto transforma la fuerza gravitacional efectiva del
 $$F = m \frac{\sqrt{G \cdot M \cdot a_0}}{r}$$
 
 Esta formulación deja plenamente transparente que la modificación altera de forma directa la interacción macroscópica. La implicación física es monumental: la fuerza que sujeta a la galaxia ya no decae agresivamente al cuadrado de la distancia ($1/r^2$), sino que se suaviza para decaer en proporción al inverso de la distancia ($1/r$). Esto permite que el disco se mantenga cohesionado sin requerir materia oscura. Como veremos a continuación, donde la academia tradicional se estancó —tratando esto como un simple parche local— nuestro modelo demuestra que esta fuerza es el principio rector macro-arquitectónico.
-#### 1.4 La Formulación Matemática de la Ley de Escala
-Cuando la aceleración inercial de una estrella cae por debajo de este umbral infinitesimal ($a_0$), el sistema introduce de forma natural una función de transición ($\mu$). Para formalizar este comportamiento sin recurrir a masas invisibles, la deducción algebraica parte de la igualación de fuerzas:
-$$m \cdot a \cdot \mu\left(\frac{a}{a_0}\right) = G \frac{M \cdot m}{r^2}$$
-
-En el régimen de gravedad profunda de los bordes galácticos ($a \ll a_0$), la función se simplifica a la proporción exacta $\mu = a/a_0$. Al introducir esta condición geométrica en la ecuación, las masas de prueba ($m$) se cancelan, y el despeje algebraico de la aceleración ($a$) resulta en:
-$$a = \frac{\sqrt{G \cdot M \cdot a_0}}{r}$$
-
-Al aplicar $F = m \cdot a$, esto transforma la fuerza gravitacional efectiva del sistema en:
-$$F = m \frac{\sqrt{G \cdot M \cdot a_0}}{r}$$
-
-La implicación física es monumental: la fuerza que sujeta a la galaxia ya no decae agresivamente al cuadrado de la distancia ($1/r^2$), sino que se suaviza para decaer en proporción a $1/r$. Esto permite que el disco se mantenga cohesionado. Como veremos a continuación, donde la academia tradicional se estancó —tratando esto como un simple parche local— nuestro modelo demuestra que esta fuerza es el principio rector macro-arquitectónico.
 
 #### 1.5 El Avance Macro-Arquitectónico: De la Coincidencia Numérica a la Ley Exacta
 Históricamente, cuando la astrofísica empírica determinó el valor constante de $a_0$, la comunidad científica notó de inmediato una asombrosa coincidencia numérica. Se percataron de que esta pequeñísima aceleración galáctica era aproximadamente igual al producto de la velocidad de la luz ($c$) por la constante de Hubble ($H_0$), ajustado por la geometría de un círculo ($2\pi$):
