@@ -7,6 +7,8 @@
 
 > *"We deliver this manuscript of the Architectural Cosmos as a scaffold under construction to increase our understanding of our majestic, immeasurable, infinite, structured, and eternal universe."*
 
+> *"We deliver this manuscript of the Architectural Cosmos as a scaffold under construction to increase our understanding of our majestic, immeasurable, infinite, structured, and eternal universe."*
+
 ## ABSTRACT
 We propose a mechanistic, scale-dependent cosmological model that challenges the standard paradigm ($\Lambda\text{CDM}$) and its reliance on unobservable entities (dark matter and dark energy). Grounded in a topological axiomatic framework based on a hierarchical, coplanar macrocosmic organization (seven superuniverses orbiting a Great Central Absolute), we apply a dynamic scaling law ($1/r$) for ultra-low acceleration regimes ($a \ll a_0$). At the galactic and cluster scales, we demonstrate mathematically that empirical baryonic mass is sufficient to maintain geometric cohesion ($M = v^4 / G \cdot a_0$), radically eliminating the need for dark matter halos. At the macrocosmic scale, the model deduces a central gravitational anchoring mass and delineates a finite architecture with a structural radius of $104,000$ million light-years.
 
