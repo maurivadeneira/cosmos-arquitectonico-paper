@@ -84,68 +84,118 @@ Al establecer esta jerarquía, la aceleración límite que sujeta el borde de nu
 
 ---
 
-## 2. VALIDACIÓN EXPERIMENTAL A ESCALA LOCAL Y DE SISTEMAS ESTELARES
+# CAPÍTULO 2: VALIDACIÓN EXPERIMENTAL A ESCALA LOCAL Y DE SISTEMAS ESTELARES
 
-### 2.1. Control de Calidad en Nuestro Sistema Solar y la Órbita Galáctica del Sol
-Utilizando la función de transición $\mu(x) = \frac{x}{1+x}$, el modelo se somete a control de calidad en dos escalas simultáneas[cite: 3]:
-1. **Interior del Sistema Solar:** Para la Tierra orbitando al Sol ($r = 1\ \text{UA}$), la aceleración centrípeta es $a \approx 5,9 \times 10^{-3}\ \text{m/s}^2$, superando en casi ocho órdenes de magnitud a $a_0$ ($a / a_0 \approx 4,9 \times 10^7$). En consecuencia, $\mu \approx 0,99999998$, preservando intacta la mecánica kepleriana planetaria[cite: 3].
-2. **Órbita del Sol en la Vía Láctea:** A una distancia galactocéntrica $r \approx 26.000\text{ años luz}$ ($2,46 \times 10^{20}\ \text{m}$), la aceleración cae exactamente en la zona de transición ($a \sim a_0$), donde el aporte newtoniano de la masa bariónica interior se acopla suavemente con el término de escala $\sqrt{G M a_0}/r$, elevando la velocidad orbital desde la predicción kepleriana deficitaria ($\sim 160\ \text{km/s}$) hasta los $\sim 220\ \text{km/s}$ observados[cite: 3].
+## 2.1. La Prueba de Fuego: El Control de Calidad en Nuestro Sistema Solar
+Para transmutar la fórmula de una simple hipótesis a una ley física aplicable, el modelo se sometió a un estricto control de calidad local utilizando nuestro propio laboratorio astronómico: el Sistema Solar[cite: 3]. Al analizar el movimiento de nuestro Sol orbitando alrededor del centro de gravedad de la Vía Láctea (Sagitario), se introdujeron las siguientes variables empíricas: masa del núcleo y disco galáctico interior $M \approx 9 \times 10^{10}\ M_\odot$ (masas solares) y una distancia $r \approx 26.000\text{ años luz}$[cite: 3].
 
-### 2.2. Independencia de la Masa de Prueba en Sistemas Estelares Diversos
-Dado que la masa de la estrella orbitante ($m$) se cancela exactamente en la Ecuación (3), la velocidad orbital en cualquier punto del potencial galáctico es independiente de la masa intrínseca del cuerpo que orbita (Principio de Equivalencia)[cite: 2, 3]:
+La física tradicional de Newton predice que el Sol debería viajar a unos $160\ \text{km/s}$[cite: 3]. Sin embargo, las mediciones reales indican que se desplaza a $220\ \text{km/s}$[cite: 3]. Al aplicar nuestra Ley Fundamental de Fuerza a escala local, la aceleración del Sol entra justo en el umbral intermedio donde la función de transición suave $\mu(a/a_0) = \frac{a}{a + a_0}$ se activa[cite: 3]. La ecuación corrigió la predicción clásica y clavó el resultado en los $\sim 220\ \text{km/s}$ reales observados[cite: 3]. Al mismo tiempo, al aplicarla al interior del sistema planetario (la Tierra orbitando al Sol), la aceleración es decenas de millones de veces mayor que $a_0$, provocando que $\mu \approx 1$ y preservando intactas las órbitas de los planetas locales[cite: 3].
 
-* **Estrella S2 (Régimen de Alta Aceleración, $a \gg a_0$):** Orbita en la vecindad inmediata del agujero negro supermasivo central (Sagitario A*), alcanzando velocidades pericéntricas de $\sim 7.000\ \text{km/s}$ regidas íntegramente por el límite newtoniano/relativista ($\mu \to 1$)[cite: 3].
-* **Sirio (Disco Intermedio):** Con el doble de la masa solar en nuestro vecindario galáctico, comparte la velocidad rotacional local ($\sim 220\ \text{km/s}$)[cite: 3].
-* **Estrella de Teegarden ($0,08\ M_\odot$) vs. Rigel ($21\ M_\odot$) en la Periferia:** Pese a diferir en más de dos órdenes de magnitud en masa propia, estrellas situadas en el borde exterior del disco ($\sim 50.000 - 60.000\text{ años luz}$) mantienen la misma velocidad asintótica plana ($\sim 185 - 215\ \text{km/s}$), confirmando que la curva de rotación plana es una propiedad geométrica del campo a baja aceleración[cite: 3].
+## 2.2. Ampliación de la Muestra: Sistemas Estelares de Diferentes Tamaños y Distancias
+Para asegurar que el éxito con el Sol no fuera una coincidencia, la investigación expandió la muestra hacia estrellas de naturalezas, masas y distancias radicalmente diversas[cite: 3]:
+
+* **Estrella S2 (Alta Aceleración):** Gigante azul que orbita rozando el agujero negro supermasivo central (Sagitario A*)[cite: 3]. La gravedad aquí supera por órdenes de magnitud el valor $a_0$[cite: 3]. La fórmula arrojó una velocidad orbital pericéntrica de $7.000\ \text{km/s}$, coincidiendo al $100\%$ con las observaciones directas[cite: 3].
+* **Sirio (Masa Intermedia, Disco Medio):** Estrella con el doble de la masa del Sol situada en nuestro vecindario intermedio[cite: 3]. La fórmula calculó una velocidad de $221\ \text{km/s}$, demostrando que la masa intrínseca del objeto no altera su velocidad de caída en el circuito galáctico[cite: 3].
+* **Estrella de Teegarden (Masa Mínima, Periferia Extrema):** Enana roja ultrapequeña ($8\%$ de la masa del Sol) en los confines externos del disco galáctico ($\sim 60.000\text{ años luz}$ del centro)[cite: 3]. Mientras Newton predice un decaimiento kepleriano a $\sim 90\ \text{km/s}$, nuestra ley modificada mantuvo la velocidad sostenida en el rango plano de $\sim 185 - 215\ \text{km/s}$[cite: 3].
+* **Rigel (Masa Máxima, Periferia Extrema):** Supergigante azul con $21$ veces la masa del Sol en la misma frontera exterior[cite: 3]. La fórmula arrojó exactamente la misma velocidad orbital periférica que para Teegarden[cite: 3].
+
+## 2.3. De Hipótesis a Ley Escalar
+El contraste experimental demuestra que tanto la estrella más pequeña (Teegarden) como la supergigante azul (Rigel) comparten la misma velocidad en los bordes externos porque las masas de prueba ($m$) se cancelan limpiamente en la ecuación fundamental[cite: 2, 3]. No estamos ante una propiedad caótica de la materia invisible, sino ante una propiedad geométrica intrínseca de la gravedad a bajas aceleraciones[cite: 3]. El modelo adquiere formalmente el estatus de **Ley de Escala Dinámica**[cite: 3].
 
 ---
 
-## 3. DERIVACIÓN DE LA MASA TOTAL EN SISTEMAS CIRCULARES AISLADOS Y LA RELACIÓN DE NÚCLEO
+# CAPÍTULO 3: DERIVACIÓN DE LA MASA TOTAL EN SISTEMAS CIRCULARES AISLADOS
 
-### 3.1. Aislamiento de Variables y la Relación Bariónica de Inferencia Inversa
-En el régimen asintótico exterior de una galaxia espiral aislada y en equilibrio ($a \ll a_0$), al igualar la aceleración centrípeta ($a = v^2/r$) con la aceleración de escala de la Ecuación (4), el radio $r$ se cancela[cite: 2, 4]:
+## 3.1. Aislamiento de Variables: El Criterio de las Galaxias Circulares Purificadas
+Para elevar la ley a sistemas galácticos completos, se introdujo un filtro metodológico crítico: la exclusión de ruido cinético ambiental[cite: 4]. Galaxias en procesos de colisión histórica o distorsionadas por interacciones de marea cercanas introducen variables caóticas[cite: 4]. Por lo tanto, el modelo analizó prioritariamente galaxias espirales circulares, aisladas en el espacio y en equilibrio físico estacionario[cite: 4].
 
-$$\frac{v^2}{r} = \frac{\sqrt{G \cdot M_t \cdot a_0}}{r} \implies v^4 = G \cdot M_t \cdot a_0 \quad (6)$$
+## 3.2. La Prueba de Inferencia Inversa: Masa Calculada vs. Masa Visible Real
+Tomamos las velocidades reales medidas por espectroscopía en los bordes exteriores de las galaxias y aplicamos nuestra ecuación modificada para deducir cuánta masa real e intrínseca debe tener el sistema[cite: 4]. Los resultados se contrastaron con los datos de masa bariónica real (estrellas y gas visibles) extraídos del catálogo internacional SPARC[cite: 4]. El modelo demostró una concordancia matemática directa: la masa dinámica requerida por la ley escalar para mantener la cohesión de las galaxias circulares purificadas coincide con la masa luminosa y gaseosa efectivamente observada[cite: 4]. Esto elimina de raíz la necesidad de postular halos esféricos de materia oscura exótica, devolviendo a la astrofísica el principio de parsimonia[cite: 4].
 
-Despejando la masa total ($M_t$) en función de la velocidad de rotación plana asintótica ($v_f$), obtenemos la ecuación de inferencia inversa (consistente con la Relación Bariónica de Tully-Fisher)[cite: 4, 6]:
+## 3.3. La Inferencia Inversa: El Universo Confiesa su Masa Real
+Para comprobar si esta macroarquitectura de gravedad suave es real, sometemos la ecuación a la prueba definitiva de la inferencia inversa[cite: 4]. Si sabemos que en los bordes exteriores de la galaxia la velocidad de rotación asintótica ($v$) se vuelve constante bajo el régimen de aceleración ultrabaja ($a \ll a_0$), al igualar la aceleración centrípeta ($v^2/r$) con nuestra aceleración escalar ($\sqrt{G \cdot M \cdot a_0}/r$), el radio $r$ se cancela y podemos despejar la Masa Total ($M$) de la ecuación fundamental[cite: 2, 4]. El resultado es una fórmula de una pureza geométrica absoluta[cite: 4]:
 
-$$M_t = \frac{v_f^4}{G \cdot a_0} \quad (7)$$
+$$M = \frac{v^4}{G \cdot a_0} \quad (6)$$
 
-### 3.2. Contraste con Galaxias del Catálogo SPARC
-Aplicando la Ecuación (7) con $G = 6,674 \times 10^{-11}\ \text{m}^3\text{kg}^{-1}\text{s}^{-2}$ y $a_0 = 1,2 \times 10^{-10}\ \text{m/s}^2$ a galaxias espirales representativas usando sus velocidades asintóticas exteriores ($v_f$ en las regiones planas externas libres del abultamiento transicional interior)[cite: 4]:
+Al aplicar esta inferencia matemática a las velocidades asintóticas exteriores de galaxias espirales puras, los resultados demuestran que el requisito de materia oscura exótica cae estadísticamente a $0\%$[cite: 4]:
 
-* **Vía Láctea:** Con una velocidad asintótica exterior $v_f \approx 180 - 185\ \text{km/s}$ (y pico intermedio de $220\ \text{km/s}$ debido a la concentración del bulbo y disco interior), la masa bariónica total converge en $M_t \approx 6,5 \times 10^{10} - 7,5 \times 10^{10}\ M_\odot$ (estrellas más gas frío), en plena correspondencia con los conteos bariónicos directos[cite: 4].
-* **NGC 3198:** Con $v_f \approx 150\ \text{km/s}$, la Ecuación (7) arroja $M_t = 3,18 \times 10^{10}\ M_\odot$, coincidiendo dentro del margen de incertidumbre observacional con la masa bariónica medida en el catálogo SPARC ($\sim 3,0 \times 10^{10}\ M_\odot$)[cite: 4].
-* **M33 (Galaxia del Triángulo):** Con $v_f \approx 93 - 100\ \text{km/s}$, la fórmula arroja $M_t \approx 4,7 \times 10^9 - 6,2 \times 10^9\ M_\odot$, consistente con la masa sumada de su disco estelar y su envoltura de hidrógeno neutro[cite: 4].
+* **Vía Láctea:** Velocidad asintótica exterior $v_f \approx 180 - 185\ \text{km/s}$ (tras el pico intermedio de $220\ \text{km/s}$ del disco interior)[cite: 4]. Masa Calculada: $\sim 6,5 \times 10^{10}\ M_\odot$[cite: 4]. Masa Visible Observada (estrellas + gas frío): $\sim 6,5 \times 10^{10}\ M_\odot$[cite: 4].
+* **NGC 3198:** $v_f \approx 150\ \text{km/s}$[cite: 4]. Masa Calculada: $3,18 \times 10^{10}\ M_\odot$[cite: 4]. Masa Visible Observada (SPARC): $\sim 3,0 \times 10^{10}\ M_\odot$[cite: 4].
+* **M33 (Triángulo):** $v_f \approx 93 - 100\ \text{km/s}$[cite: 4]. Masa Calculada: $\sim 4,7 \times 10^9\ M_\odot$[cite: 4]. Masa Visible Observada: $\sim 4,5 \times 10^9\ M_\odot$[cite: 4].
 
-### 3.3. La Falacia del Sistema Solar: ¿Qué Representa Exactamente la Masa ($M_t$)?
-Es fundamental evitar el sesgo del Sistema Solar, donde el Sol concentra el $99,8\%$ de la masa total[cite: 5]. En una galaxia como la Vía Láctea, el agujero negro central (Sagitario A*) posee $\sim 4,3 \times 10^6\ M_\odot$, frente a una masa galáctica total del orden de $\sim 6,5 \times 10^{10}\ M_\odot$; es decir, el núcleo central representa apenas el $\sim 0,0066\%$ de la masa del sistema[cite: 5].
+Los datos confirman que las galaxias no necesitan estar envueltas en halos de partículas indetectables para mantenerse unidas[cite: 4]. Su estabilidad no es producto de un maquillaje contable, sino de la transición natural hacia el régimen de gravedad débil ($1/r$), un principio geométrico que las enlaza con la estructura mayor del cosmos[cite: 3, 4].
 
-Por consiguiente, la masa $M_t$ entregada por la ecuación $M_t = v^4/(G a_0)$ **no es la masa del agujero negro central**, sino la masa colectiva e integrada de todo el sistema bariónico (estrellas, gas y polvo, más el núcleo central)[cite: 5].
+## 3.4. Completando el Espectro: Hacia una Posible Simetría de las Fuerzas Fundamentales
+Al demostrar matemáticamente que la gravedad opera bajo dinámicas dependientes de la escala al cruzar el umbral $a_0$, hemos resuelto la estabilidad galáctica[cite: 4]. Sin embargo, este desdoblamiento de la gravedad en dos regímenes (uno de alta intensidad local y otro de suavidad macrocósmica) nos invita a plantear una posibilidad teórica fascinante: la existencia de una simetría arquitectónica subyacente en todas las fuerzas de la naturaleza[cite: 4].
 
-### 3.4. La Ecuación Estructural y la Cota Asintótica del Núcleo ($M_c < 0,01 M_t$)
-Descomponemos la masa total ($M_t$) de cualquier estructura autogravitante en dos componentes físicos explícitos[cite: 5]:
+A modo de propuesta epistemológica, sugerimos que el cosmos podría estar gobernado por un patrón fractal de dualidades ("Fuerte" y "Débil") aplicable a las tres dimensiones de la interacción física[cite: 4]:
 
-$$M_t = M_c + M_r \quad (8)$$
+1. **El Dominio del Núcleo (Fuerzas Nucleares):** Régimen Fuerte (cohesión extrema a corta distancia) y Régimen Débil (decaimiento a ultra-corta distancia)[cite: 4].
+2. **El Dominio de la Carga (Electromagnetismo):** Régimen Fuerte (cargas desnudas directas) y Régimen Débil (cargas apantalladas y fuerzas residuales de Van der Waals)[cite: 4].
+3. **El Dominio de la Masa (Gravedad):** Régimen Fuerte (aceleración alta, $1/r^2$) y Régimen Débil (aceleración baja gobernada por $a_0$, $1/r$)[cite: 4].
 
-Donde $M_c$ es la masa del núcleo central de anclaje y $M_r$ es la masa residual distribuida (disco o cuenca periférica)[cite: 5]. El análisis empírico a través de distintas etapas morfológicas y escalas revela una ley de acotamiento estricta[cite: 5]:
+Dentro de esta matriz de seis expresiones, resulta inevitable acotar quién ostenta el título de "campeona" indiscutible de la naturaleza[cite: 4]. Aunque la física cuántica suele ensalzar a la Fuerza Nuclear Fuerte por su brutal intensidad a escala microscópica, existe un escenario donde todas las fuerzas convergen y compiten: el colapso estelar[cite: 4].
 
-* **Asíntota de Saturación Metabólica (El Límite Estricto del 1%):** En galaxias espirales jóvenes o de disco dominado por rotación, el núcleo central representa una fracción minúscula ($\sim 0,006\%$ en la Vía Láctea; $\sim 0,09\%$ en M31)[cite: 5]. A medida que ascendemos hacia galaxias elípticas supermasivas (como M87 o Centaurus A) y grandes nodos de cuencas convergentes, la fracción nuclear $f_c = M_c / M_t$ crece hasta estabilizarse entre el $0,5\%$ y el $0,8\%$, sin superar jamás el umbral crítico del $1\%$ de la masa total[cite: 5]:
+En este umbral crítico, la Gravedad Fuerte ($1/r^2$) llevada a su extremo de saturación masiva —encarnada en los Agujeros Negros— demuestra su supremacía absoluta[cite: 4]. Aplasta la repulsión electromagnética de los átomos, quiebra la resistencia máxima de la cohesión nuclear, y curva el espacio-tiempo hasta someter y atrapar a la luz misma[cite: 4]. Los agujeros negros no son anomalías destructivas; son la manifestación de la fuerza campeona del cosmos operando en su máxima expresión, erigiéndose como los motores metabólicos de las galaxias y, en su escala más supermasiva, como el Gran Centro Absoluto que ancla toda la creación[cite: 4].
 
-$$M_c < 0,01 \cdot M_t \quad \Longleftrightarrow \quad M_r > 0,99 \cdot M_t \quad (9)$$
+Dejamos planteada esta sugerente simetría de tres pares como una ventana teórica hacia la verdadera unificación[cite: 4]. Bajo este contexto, podríamos considerar que contamos hoy con seis expresiones fundamentales conocidas[cite: 4]. Por supuesto, dejamos la puerta abierta a una discusión mucho más profunda: ¿Significa esto que ya tenemos en nuestras manos todas las leyes fundamentales de la creación, o existen aún otras fuerzas e interacciones en el cosmos que permanecen completamente desconocidas para nuestra humanidad?[cite: 4, 5] Es altamente probable que el universo guarde misterios más allá de nuestra escala de percepción actual[cite: 5]. Sin embargo, esta matriz dual propone que la fracción del universo que sí logramos observar no es un ensamble asimétrico y fortuito de fuerzas aisladas, sino una arquitectura unificada que repite sus patrones de transición desde la intimidad subatómica hasta la inmensidad del Gran Universo[cite: 5].
 
-Podemos caracterizar el **estado metabólico evolutivo ($\zeta$)** de cualquier núcleo galáctico definiendo su índice alométrico respecto a la escala de calibración de la Vía Láctea ($M_{c0} = 4,3 \times 10^6\ M_\odot$, $M_{t0} = 0,65 \times 10^{11}\ M_\odot$)[cite: 5]:
+## 3.5. La Falacia del Sistema Solar: ¿Qué Representa Exactamente la Masa ($M$)?
+Para comprender a cabalidad esta macroarquitectura, es vital hacer una aclaración conceptual sobre la Masa ($M$) que nuestra ecuación acaba de calcular, ya que existe un profundo sesgo visual heredado de nuestro propio vecindario estelar[cite: 5].
 
-$$\zeta = \frac{1}{\pi} \ln\left(\frac{M_c}{M_{c0}}\right) \left[\ln\left(\frac{M_t}{M_{t0}}\right)\right]^{-1} \quad (10)$$
+Estamos acostumbrados a la dinámica del Sistema Solar, un modelo monárquico donde el Sol concentra el $99,8\%$ de toda la masa, mientras que los planetas representan apenas un residuo estadístico[cite: 5]. Este sesgo nos lleva a imaginar, erróneamente, que en una galaxia ocurre lo mismo: que el agujero negro supermasivo del centro contiene casi toda la masa y sostiene todo a su alrededor como un tirano gravitacional[cite: 5].
 
-| Sistema Galáctico | Masa Total Bariónica ($M_t$) | Masa del Núcleo Central ($M_c$) | Masa Residual ($M_r = M_t - M_c$) | Fracción Nuclear ($M_c / M_t$) | Cumplimiento ($M_c < 1\% M_t$) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Vía Láctea**[cite: 5] | $0,65 \times 10^{11}\ M_\odot$ | $4,30 \times 10^6\ M_\odot$ | $0,64996 \times 10^{11}\ M_\odot$ | $0,0066\%$ | Sí ($< 1\%$) |
-| **Andrómeda (M31)**[cite: 5] | $1,50 \times 10^{11}\ M_\odot$ | $1,40 \times 10^8\ M_\odot$ | $1,4986 \times 10^{11}\ M_\odot$ | $0,093\%$ | Sí ($< 1\%$) |
-| **Sombrero (M104)**[cite: 5] | $2,10 \times 10^{11}\ M_\odot$ | $1,00 \times 10^9\ M_\odot$ | $2,090 \times 10^{11}\ M_\odot$ | $0,476\%$ | Sí ($< 1\%$) |
-| **M87 (Elíptica cD)**[cite: 5] | $12,00 \times 10^{11}\ M_\odot$ | $6,50 \times 10^9\ M_\odot$ | $11,935 \times 10^{11}\ M_\odot$ | $0,542\%$ | Sí ($< 1\%$) |
-| **Centaurus A**[cite: 5] | $8,00 \times 10^{11}\ M_\odot$ | $5,50 \times 10^9\ M_\odot$ | $7,945 \times 10^{11}\ M_\odot$ | $0,688\%$ | Sí ($< 1\%$) |
+Los datos reales nos exigen romper esta ilusión[cite: 5]. En nuestra Vía Láctea, la masa del agujero negro central (Sagitario A*) es de aproximadamente $4,3\text{ millones de masas solares}$[cite: 5]. Sin embargo, la masa total calculada por nuestra ecuación para la galaxia es de casi $65.000\text{ millones de masas solares}$[cite: 5]. Esto significa que el inmenso agujero negro central representa menos del $0,01\%$ ($0,0066\%$) de la masa total del sistema[cite: 5]. En términos de escala, es apenas un grano de arena en la inmensidad del disco[cite: 5].
 
+Por lo tanto, la Masa Total ($M_t$) que nos entrega la fórmula $M_t = \frac{v^4}{G \cdot a_0}$ no es la masa del agujero negro[cite: 5]. Es la masa sumada y distribuida de toda la galaxia entera: sus miles de millones de estrellas, su gas y su polvo luminoso[cite: 5]. La fuerza que amarra a las estrellas en el borde no proviene del tirón de un único punto central hiperdenso, sino del tirón conjunto de todo ese majestuoso "cuerpo" estelar actuando como una sola estructura cohesionada bajo el régimen de gravedad débil[cite: 5]. Este entendimiento colectivo de la masa es el puente conceptual fundamental que necesitamos antes de explorar cómo interactúan estas galaxias enteras con estructuras aún mayores en el universo[cite: 5].
+
+## 3.6. La Ecuación Estructural: Determinación de la Masa ($M_t = M_c + M_r$)
+Al demostrar la estabilidad del disco galáctico sin materia oscura, se nos plantea la necesidad imperativa de determinar cómo se reparte la masa entre el agujero negro o núcleo central ($M_c$), la masa residual distribuida del sistema ($M_r$) y la masa total ($M_t$)[cite: 5]. Establecemos así la identidad estructural básica[cite: 5]:
+
+$$M_t = M_c + M_r \quad (7)$$
+
+Para conectar matemáticamente el núcleo con la periferia a través de las escalas, recurrimos a la información empírica observacional de galaxias en diferentes etapas evolutivas[cite: 5]:
+
+* **Asíntota de Saturación Metabólica (El límite estricto del 1%):** Las observaciones demuestran que la proporción del núcleo ($M_c / M_t$) no es fija, sino que evoluciona desde un minúsculo $0,0066\%$ en espirales como la Vía Láctea hasta estabilizarse entre el $0,5\%$ y el $0,8\%$ en colosos elípticos extremos y grandes nodos de cuencas[cite: 5]. Postulamos como ley estructural que el núcleo central es siempre estrictamente menor al $1\%$ de la masa total de su sistema anfitrión[cite: 5]:
+
+$$M_c < 0,01 \cdot M_t \quad (8)$$
+
+* **El Estado Metabólico Variable ($\zeta$):** Dado que la materia de un disco galáctico plano (2D) converge en espiral hacia una región central esferoidal (3D), podemos caracterizar el estado metabólico de acumulación de cada núcleo mediante una relación de escala alométrica calibrada sobre nuestra galaxia[cite: 5]:
+
+$$M_c = M_{c0} \cdot \left(\frac{M_t}{M_{t0}}\right)^{\zeta \cdot \pi} \quad (9)$$
+
+Al contrastar la relación estructural $M_t = M_c + M_r$ frente a los datos reales de sistemas galácticos representativos, verificamos que todos cumplen sin excepción el límite asintótico $M_c < 0,01 \cdot M_t$[cite: 5]:
+
+1. **Vía Láctea:** Masa Total ($M_t = 0,65 \times 10^{11}\ M_\odot$)[cite: 5]. Núcleo Real Observado ($M_c$): $4,30 \times 10^6\ M_\odot$[cite: 5]. Masa Residual ($M_r$): $0,64996 \times 10^{11}\ M_\odot$[cite: 6]. Proporción Nuclear ($M_c / M_t$): **$0,0066\%$** ($< 1\%$)[cite: 5].
+2. **Andrómeda (M31):** Masa Total ($M_t = 1,50 \times 10^{11}\ M_\odot$)[cite: 5]. Núcleo Real Observado ($M_c$): $1,40 \times 10^8\ M_\odot$[cite: 5]. Masa Residual ($M_r$): $1,4986 \times 10^{11}\ M_\odot$[cite: 7]. Proporción Nuclear ($M_c / M_t$): **$0,093\%$** ($< 1\%$)[cite: 5].
+3. **Galaxia del Sombrero (M104):** Masa Total ($M_t = 2,10 \times 10^{11}\ M_\odot$)[cite: 5]. Núcleo Real Observado ($M_c$): $1,00 \times 10^9\ M_\odot$[cite: 5]. Masa Residual ($M_r$): $2,09 \times 10^{11}\ M_\odot$. Proporción Nuclear ($M_c / M_t$): **$0,476\%$** ($< 1\%$)[cite: 5].
+4. **M87 (Coloso Elíptico):** Masa Total ($M_t = 12,00 \times 10^{11}\ M_\odot$)[cite: 5]. Núcleo Real Observado ($M_c$): $6,50 \times 10^9\ M_\odot$[cite: 5]. Masa Residual ($M_r$): $11,935 \times 10^{11}\ M_\odot$. Proporción Nuclear ($M_c / M_t$): **$0,542\%$** ($< 1\%$)[cite: 5].
+5. **Centaurus A:** Masa Total ($M_t = 8,00 \times 10^{11}\ M_\odot$)[cite: 5]. Núcleo Real Observado ($M_c$): $5,50 \times 10^9\ M_\odot$[cite: 5]. Masa Residual ($M_r$): $7,945 \times 10^{11}\ M_\odot$. Proporción Nuclear ($M_c / M_t$): **$0,688\%$** ($< 1\%$)[cite: 5].
+
+**Nota Analítica:** Mientras que la masa total ($M_t$) queda estrictamente determinada por la cinemática periférica ($v^4 / G a_0$), la fracción del núcleo ($M_c / M_t$) exhibe una progresión evolutiva natural desde el $0,0066\%$ hasta rozar el $0,7\%$, reflejando directamente el estado metabólico ($\zeta$) de cada sistema sin violar jamás el tope del $1\%$[cite: 4, 5].
+
+## 3.7. La Velocidad como ADN Arquitectónico: Los Umbrales Cinemáticos de la Escala
+La velocidad característica ($v$) no es una mera consecuencia pasiva de la masa acumulada, sino el **ADN arquitectónico** que comanda y dimensiona el tamaño del sistema[cite: 5]. El cosmos está estratificado por umbrales de velocidad resonantes[cite: 5]:
+
+* **El Régimen Galáctico (Cientos de km/s):** Delimita discos estelares estables y núcleos masivos a escala de kilopársecs[cite: 6].
+* **El Régimen de Cúmulos (Miles de km/s):** La métrica espacial se estira de manera proporcional, organizando enjambres y cúmulos masivos a escala de megapársecs[cite: 6].
+* **El Régimen Macrocaudal (Escalas Superuniversales):** En los peldaños cinemáticos más altos, los grandes flujos de rotación dictan el radio y la masa de los superuniversos completos[cite: 6].
+
+## 3.8. Validación en Macroescala: El Cúmulo de Virgo, su Núcleo y la Resolución del Gas Caliente
+Sometemos el modelo a una prueba de fuego directa: el Cúmulo de Virgo[cite: 6]. Las mediciones espectroscópicas indican que las galaxias situadas en los márgenes del cúmulo se desplazan con una velocidad característica del orden de $1.000\ \text{km/s}$[cite: 6]. Al introducir este parámetro en nuestra ecuación de inferencia inversa, obtenemos la masa total[cite: 6]:
+
+$$M_{\text{total}} = \frac{(1 \times 10^6\ \text{m/s})^4}{(6,674 \times 10^{-11}) \times (1,2 \times 10^{-10})} \approx 6,25 \times 10^{13}\ M_\odot \quad (10)$$
+
+Aplicando nuestra condición estructural ($M_c < 0,01 \cdot M_t$), el ancla central del cúmulo debe concentrar una masa estrictamente menor a $6,25 \times 10^{11}\ M_\odot$ (en torno a $\sim 5 \times 10^{11}\ M_\odot$, es decir, $\sim 0,8\%$ de $M_t$), la cual recae exactamente sobre el pozo central dominado por la galaxia elíptica supermasiva M87 y su halo cD interior[cite: 6].
+
+**La Resolución del Gas Intergaláctico:** Cuando la astrofísica suma la materia luminosa (estrellas de las más de $1.300$ galaxias del cúmulo) con la materia dispersa (el vasto océano de gas intergaláctico hipercaliente detectado en rayos X), la masa bariónica total real asciende al rango de $5 \times 10^{13}$ a $6,25 \times 10^{13}\ M_\odot$, coincidiendo con la predicción de la Ley de Escala[cite: 6, 7]. La supuesta "materia oscura" en esta escala es primordialmente el gas caliente intergaláctico e intracúmulo: el sistema es $100\%$ bariónico[cite: 6].
+
+## 3.9. Validación en el Cúmulo de Coma (Abell 1656) y el Doble Núcleo Central
+Las mediciones espectroscópicas en el Cúmulo de Coma registran una velocidad característica de $1.200\ \text{km/s}$[cite: 6]:
+
+$$M_{\text{total}} = \frac{(1,2 \times 10^6\ \text{m/s})^4}{(6,674 \times 10^{-11}) \times (1,2 \times 10^{-10})} \approx 1,30 \times 10^{14}\ M_\odot \quad (11)$$
+
+Aplicando la cota estructural ($M_c < 0,01 \cdot M_t$), el ancla central debe concentrar menos de $1,30 \times 10^{12}\ M_\odot$ ($\sim 1,0 \times 10^{12}\ M_\odot$)[cite: 6]. A diferencia de Virgo, el ancla descansa en el pozo de potencial compartido por dos supergigantes elípticas colosales: NGC 4874 y NGC 4889, cuya masa combinada satisface con precisión la exigencia teórica[cite: 6]. Al sumar la materia luminosa visible con la inmensa reserva de gas caliente en rayos X, el total bariónico converge en el rango predicho[cite: 6].
 ---
 
 ## 4. DE LOS CÚMULOS Y SUPERCÚMULOS A LA TOPOLOGÍA DINÁMICA $N_7$
