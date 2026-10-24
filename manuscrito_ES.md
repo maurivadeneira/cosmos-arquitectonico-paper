@@ -54,22 +54,22 @@ Frente a este caos de datos, la ortodoxia optó por inventar halos invisibles de
 
 En cumplimiento del rigor científico, reconocemos formalmente que este límite y su fórmula de escala coinciden con la Dinámica Newtoniana Modificada (MOND), postulada empíricamente por Mordehai Milgrom en 1983[cite: 2]. Aunque nuestro camino computacional fue guiado de manera independiente por datos brutos, esta convergencia histórica valida la solidez de la métrica[cite: 2].
 
-## 1.4. Formulación Matemática y la Expresión Completa de la Ley de Escala
-Para formalizar este comportamiento sin recurrir a masas invisibles, la deducción algebraica parte de modular la relación dinámica gravitacional introduciendo explícitamente la función de escala adimensional ($\mu$)[cite: 2]:
+## 1.4. Formulación Matemática: La Nueva Ley Fundamental de Fuerza
+Para formalizar este comportamiento sin recurrir a masas invisibles, nuestra investigación no se limita a un ajuste empírico, sino que postula una **Ley Fundamental de Fuerza Dependiente de la Escala**, modulando directamente la interacción dinámica mediante la función de transición adimensional $\mu(a/a_0)$:
 
-$$m \cdot a \cdot \mu\left(\frac{a}{a_0}\right) = G \frac{M \cdot m}{r^2} \quad (3)$$
+$$F \cdot \mu\left(\frac{a}{a_0}\right) = G \cdot \frac{M \cdot m}{r^2} \quad \Longleftrightarrow \quad m \cdot a \cdot \mu\left(\frac{a}{a_0}\right) = G \cdot \frac{M \cdot m}{r^2} \quad (3)$$
 
-En el régimen de alta aceleración local ($a \gg a_0$), la función de transición tiende a la unidad ($\mu \to 1$), recuperando con absoluta precisión la ley de gravitación universal de Newton[cite: 2]. Sin embargo, al descender la aceleración inercial de una estrella por debajo del umbral infinitesimal ($a_0$), el sistema introduce de forma natural la función de transición[cite: 2].
-
-En el régimen de gravedad profunda de los bordes galácticos ($a \ll a_0$), la función se simplifica a la proporción exacta $\mu = a/a_0$[cite: 2]. Al introducir esta condición geométrica en la ecuación, las masas de prueba ($m$) se cancelan, y el despeje algebraico de la aceleración ($a$) resulta en[cite: 2]:
+Esta ecuación unifica los regímenes gravitacionales de la naturaleza bajo un solo principio:
+* **En el régimen de alta aceleración local ($a \gg a_0$):** La función de transición tiende a la unidad ($\mu \to 1$), recuperando con absoluta precisión la ley de gravitación universal de Newton ($F = G M m / r^2$).
+* **En el régimen de gravedad profunda ($a \ll a_0$):** Al descender la aceleración por debajo del umbral crítico ($a_0$) en los bordes galácticos y el espacio profundo, la función se simplifica a la proporción exacta $\mu = a/a_0$. Al introducir esta condición en la Ecuación (3), las masas de prueba ($m$) se cancelan y el despeje algebraico de la aceleración ($a$) resulta en:
 
 $$a = \frac{\sqrt{G \cdot M \cdot a_0}}{r} \quad (4)$$
 
-Al aplicar $F = m \cdot a$, esto transforma la fuerza gravitacional efectiva del sistema en[cite: 2]:
+Al aplicar $F = m \cdot a$, esto revela la forma explícita de la **Fuerza Gravitacional Macrocósmica**:
 
 $$F = m \frac{\sqrt{G \cdot M \cdot a_0}}{r} \quad (5)$$
 
-Esta formulación deja plenamente transparente que la modificación altera de forma directa la interacción macroscópica[cite: 2]. La implicación física es monumental: la fuerza que sujeta a la galaxia ya no decae agresivamente al cuadrado de la distancia ($1/r^2$), sino que se suaviza para decaer en proporción al inverso de la distancia ($1/r$)[cite: 3]. Esto permite que el disco se mantenga cohesionado sin requerir materia oscura[cite: 3]. Como veremos a continuación, donde la academia tradicional se estancó —tratando esto como un simple parche local— nuestro modelo demuestra que esta fuerza es el principio rector macro-arquitectónico[cite: 3].
+Esta formulación deja plenamente transparente que la modificación altera de raíz la interacción a gran escala. La implicación física es monumental: la fuerza que sujeta a las grandes estructuras ya no decae agresivamente al cuadrado de la distancia ($1/r^2$), sino que se suaviza para decaer en proporción al inverso simple de la distancia ($1/r$). Esto permite que los discos galácticos y los superuniversos se mantengan cohesionados sin requerir materia oscura. Donde la academia tradicional se estancó —tratando esto como un simple parche fenomenológico local—, nuestro modelo demuestra que esta fuerza es el principio rector macro-arquitectónico del cosmos.
 
 ## 1.5. El Avance Macro-Arquitectónico: $a_0$ como Constante Sagrada y el Pulso de Hubble
 Históricamente, cuando la astrofísica empírica determinó el valor constante de $a_0$, la comunidad científica notó de inmediato una asombrosa cercanía numérica[cite: 3]. Se percataron de que esta pequeñísima aceleración galáctica era del mismo orden de magnitud que el producto de la velocidad de la luz ($c$) por el parámetro de Hubble ($H_0$), ajustado por la geometría de un círculo ($2\pi$)[cite: 3]:
