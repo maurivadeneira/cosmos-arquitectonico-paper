@@ -150,21 +150,17 @@ Los datos reales nos exigen romper esta ilusión[cite: 5]. En nuestra Vía Láct
 Por lo tanto, la Masa Total ($M_t$) que nos entrega la fórmula $M_t = \frac{v^4}{G \cdot a_0}$ no es la masa del agujero negro[cite: 5]. Es la masa sumada y distribuida de toda la galaxia entera: sus miles de millones de estrellas, su gas y su polvo luminoso[cite: 5]. La fuerza que amarra a las estrellas en el borde no proviene del tirón de un único punto central hiperdenso, sino del tirón conjunto de todo ese majestuoso "cuerpo" estelar actuando como una sola estructura cohesionada bajo el régimen de gravedad débil[cite: 5]. Este entendimiento colectivo de la masa es el puente conceptual fundamental que necesitamos antes de explorar cómo interactúan estas galaxias enteras con estructuras aún mayores en el universo[cite: 5].
 
 ## 3.6. La Ecuación Estructural: Determinación de la Masa ($M_t = M_c + M_r$)
-Al demostrar la estabilidad del disco galáctico sin materia oscura, se nos plantea la necesidad imperativa de determinar cómo se reparte la masa entre el agujero negro o núcleo central ($M_c$), la masa residual distribuida del sistema ($M_r$) y la masa total ($M_t$)[cite: 5]. Establecemos así la identidad estructural básica[cite: 5]:
+Al demostrar la estabilidad del disco galáctico sin materia oscura, surge la necesidad de determinar cómo se distribuye la masa entre el agujero negro o núcleo central de anclaje ($M_c$), la masa residual distribuida del sistema ($M_r$) y la masa total ($M_t$). Establecemos así la identidad estructural básica[cite: 5]:
 
 $$M_t = M_c + M_r \quad (7)$$
 
-Para conectar matemáticamente el núcleo con la periferia a través de las escalas, recurrimos a la información empírica observacional de galaxias en diferentes etapas evolutivas[cite: 5]:
+Al contrastar esta relación con las observaciones astronómicas de galaxias en diferentes etapas morfológicas y evolutivas, emerge una regla empírica fundamental[cite: 5]:
 
-* **Asíntota de Saturación Metabólica (El límite estricto del 1%):** Las observaciones demuestran que la proporción del núcleo ($M_c / M_t$) no es fija, sino que evoluciona desde un minúsculo $0,0066\%$ en espirales como la Vía Láctea hasta estabilizarse entre el $0,5\%$ y el $0,8\%$ en colosos elípticos extremos y grandes nodos de cuencas[cite: 5]. Postulamos como ley estructural que el núcleo central es siempre estrictamente menor al $1\%$ de la masa total de su sistema anfitrión[cite: 5]:
+* **Asíntota de Saturación Metabólica (El límite estricto del 1%):** Las mediciones demuestran que la proporción del núcleo respecto a la masa total ($M_c / M_t$) no es un porcentaje único y rígido, sino que evoluciona desde un minúsculo $0,0066\%$ en galaxias espirales como la Vía Láctea hasta estabilizarse entre el $0,5\%$ y el $0,8\%$ en colosos elípticos extremos y grandes nodos centrales de cúmulos[cite: 5, 6]. Establecemos como cota estructural observacional que el núcleo de anclaje es siempre estrictamente menor al $1\%$ de la masa total de su sistema anfitrión[cite: 5]:
 
-$$M_c < 0,01 \cdot M_t \quad (8)$$
+$$M_c < 0,01 \cdot M_t \quad \Longleftrightarrow \quad M_r > 0,99 \cdot M_t \quad (8)$$
 
-* **El Estado Metabólico Variable ($\zeta$):** Dado que la materia de un disco galáctico plano (2D) converge en espiral hacia una región central esferoidal (3D), podemos caracterizar el estado metabólico de acumulación de cada núcleo mediante una relación de escala alométrica calibrada sobre nuestra galaxia[cite: 5]:
-
-$$M_c = M_{c0} \cdot \left(\frac{M_t}{M_{t0}}\right)^{\zeta \cdot \pi} \quad (9)$$
-
-Al contrastar la relación estructural $M_t = M_c + M_r$ frente a los datos reales de sistemas galácticos representativos, verificamos que todos cumplen sin excepción el límite asintótico $M_c < 0,01 \cdot M_t$[cite: 5]:
+El contraste directo frente a los datos reales de sistemas galácticos representativos confirma el cumplimiento riguroso de esta cota sin necesidad de introducir exponentes artificiales[cite: 5]:
 
 1. **Vía Láctea:** Masa Total ($M_t = 0,65 \times 10^{11}\ M_\odot$)[cite: 5]. Núcleo Real Observado ($M_c$): $4,30 \times 10^6\ M_\odot$[cite: 5]. Masa Residual ($M_r$): $0,64996 \times 10^{11}\ M_\odot$[cite: 6]. Proporción Nuclear ($M_c / M_t$): **$0,0066\%$** ($< 1\%$)[cite: 5].
 2. **Andrómeda (M31):** Masa Total ($M_t = 1,50 \times 10^{11}\ M_\odot$)[cite: 5]. Núcleo Real Observado ($M_c$): $1,40 \times 10^8\ M_\odot$[cite: 5]. Masa Residual ($M_r$): $1,4986 \times 10^{11}\ M_\odot$[cite: 7]. Proporción Nuclear ($M_c / M_t$): **$0,093\%$** ($< 1\%$)[cite: 5].
@@ -172,94 +168,91 @@ Al contrastar la relación estructural $M_t = M_c + M_r$ frente a los datos real
 4. **M87 (Coloso Elíptico):** Masa Total ($M_t = 12,00 \times 10^{11}\ M_\odot$)[cite: 5]. Núcleo Real Observado ($M_c$): $6,50 \times 10^9\ M_\odot$[cite: 5]. Masa Residual ($M_r$): $11,935 \times 10^{11}\ M_\odot$. Proporción Nuclear ($M_c / M_t$): **$0,542\%$** ($< 1\%$)[cite: 5].
 5. **Centaurus A:** Masa Total ($M_t = 8,00 \times 10^{11}\ M_\odot$)[cite: 5]. Núcleo Real Observado ($M_c$): $5,50 \times 10^9\ M_\odot$[cite: 5]. Masa Residual ($M_r$): $7,945 \times 10^{11}\ M_\odot$. Proporción Nuclear ($M_c / M_t$): **$0,688\%$** ($< 1\%$)[cite: 5].
 
-**Nota Analítica:** Mientras que la masa total ($M_t$) queda estrictamente determinada por la cinemática periférica ($v^4 / G a_0$), la fracción del núcleo ($M_c / M_t$) exhibe una progresión evolutiva natural desde el $0,0066\%$ hasta rozar el $0,7\%$, reflejando directamente el estado metabólico ($\zeta$) de cada sistema sin violar jamás el tope del $1\%$[cite: 4, 5].
+**Nota Analítica:** Mientras que la masa total ($M_t$) queda determinada por la cinemática periférica bajo la constante $a_0$, la fracción contenida en el núcleo central ($M_c / M_t$) refleja el grado de concentración evolutiva de cada estructura, manteniéndose siempre por debajo de la barrera asintótica del $1\%$[cite: 4, 5].
 
-## 3.7. La Velocidad como ADN Arquitectónico: Los Umbrales Cinemáticos de la Escala
-La velocidad característica ($v$) no es una mera consecuencia pasiva de la masa acumulada, sino el **ADN arquitectónico** que comanda y dimensiona el tamaño del sistema[cite: 5]. El cosmos está estratificado por umbrales de velocidad resonantes[cite: 5]:
-
-* **El Régimen Galáctico (Cientos de km/s):** Delimita discos estelares estables y núcleos masivos a escala de kilopársecs[cite: 6].
-* **El Régimen de Cúmulos (Miles de km/s):** La métrica espacial se estira de manera proporcional, organizando enjambres y cúmulos masivos a escala de megapársecs[cite: 6].
-* **El Régimen Macrocaudal (Escalas Superuniversales):** En los peldaños cinemáticos más altos, los grandes flujos de rotación dictan el radio y la masa de los superuniversos completos[cite: 6].
-
-## 3.8. Validación en Macroescala: El Cúmulo de Virgo, su Núcleo y la Resolución del Gas Caliente
-Sometemos el modelo a una prueba de fuego directa: el Cúmulo de Virgo[cite: 6]. Las mediciones espectroscópicas indican que las galaxias situadas en los márgenes del cúmulo se desplazan con una velocidad característica del orden de $1.000\ \text{km/s}$[cite: 6]. Al introducir este parámetro en nuestra ecuación de inferencia inversa, obtenemos la masa total[cite: 6]:
-
-$$M_{\text{total}} = \frac{(1 \times 10^6\ \text{m/s})^4}{(6,674 \times 10^{-11}) \times (1,2 \times 10^{-10})} \approx 6,25 \times 10^{13}\ M_\odot \quad (10)$$
-
-Aplicando nuestra condición estructural ($M_c < 0,01 \cdot M_t$), el ancla central del cúmulo debe concentrar una masa estrictamente menor a $6,25 \times 10^{11}\ M_\odot$ (en torno a $\sim 5 \times 10^{11}\ M_\odot$, es decir, $\sim 0,8\%$ de $M_t$), la cual recae exactamente sobre el pozo central dominado por la galaxia elíptica supermasiva M87 y su halo cD interior[cite: 6].
-
-**La Resolución del Gas Intergaláctico:** Cuando la astrofísica suma la materia luminosa (estrellas de las más de $1.300$ galaxias del cúmulo) con la materia dispersa (el vasto océano de gas intergaláctico hipercaliente detectado en rayos X), la masa bariónica total real asciende al rango de $5 \times 10^{13}$ a $6,25 \times 10^{13}\ M_\odot$, coincidiendo con la predicción de la Ley de Escala[cite: 6, 7]. La supuesta "materia oscura" en esta escala es primordialmente el gas caliente intergaláctico e intracúmulo: el sistema es $100\%$ bariónico[cite: 6].
-
-## 3.9. Validación en el Cúmulo de Coma (Abell 1656) y el Doble Núcleo Central
-Las mediciones espectroscópicas en el Cúmulo de Coma registran una velocidad característica de $1.200\ \text{km/s}$[cite: 6]:
-
-$$M_{\text{total}} = \frac{(1,2 \times 10^6\ \text{m/s})^4}{(6,674 \times 10^{-11}) \times (1,2 \times 10^{-10})} \approx 1,30 \times 10^{14}\ M_\odot \quad (11)$$
-
-Aplicando la cota estructural ($M_c < 0,01 \cdot M_t$), el ancla central debe concentrar menos de $1,30 \times 10^{12}\ M_\odot$ ($\sim 1,0 \times 10^{12}\ M_\odot$)[cite: 6]. A diferencia de Virgo, el ancla descansa en el pozo de potencial compartido por dos supergigantes elípticas colosales: NGC 4874 y NGC 4889, cuya masa combinada satisface con precisión la exigencia teórica[cite: 6]. Al sumar la materia luminosa visible con la inmensa reserva de gas caliente en rayos X, el total bariónico converge en el rango predicho[cite: 6].
 ---
 
-## 4. DE LOS CÚMULOS Y SUPERCÚMULOS A LA TOPOLOGÍA DINÁMICA $N_7$
+# CAPÍTULO 4: DE LOS SUPERCÚMULOS AL MODELO COSMOLÓGICO $N_7$
 
-### 4.1. Bifurcación Topológica: Discos 2D vs. Cuencas Convergentes 3D
-Para escalar desde galaxias individuales hasta cúmulos y supercúmulos manteniendo la consistencia dimensional de la ley fundamental, distinguimos la geometría cinemática del sistema[cite: 6]:
+## 4.1. De la Galaxia a Laniakea y la Bifurcación Topológica
+La validación empírica de la ley de baja aceleración encuentra su extensión natural en la progresión escalar que va desde los sistemas galácticos individuales hasta los grandes cúmulos y supercúmulos de cuencas convergentes[cite: 6]. Partiendo de la relación fundamental de inferencia inversa[cite: 6]:
 
-* **Régimen Coplanar Rotacional (Sistemas 2D):** En galaxias espirales y en el plano macroscópico del Gran Universo, el sistema opera como un disco soportado por rotación tangencial $v$ (escala tipo Tully-Fisher, $M_t \propto v^4$)[cite: 6].
-* **Régimen de Cuenca Convergente (Sistemas 3D):** En cúmulos y supercúmulos (Virgo, Coma, Laniakea), el sistema constituye una red tridimensional caracterizada por la dispersión de velocidades viriales $\sigma$ (escala tipo Faber-Jackson, $M_t \propto \sigma^4$), donde el gas intergaláctico caliente detectado en rayos X (medio intracúmulo, ICM) aporta la fracción mayoritaria de la masa bariónica residual ($M_r$)[cite: 6].
+$$M_t = \frac{v^4}{G \cdot a_0} \quad (12)$$
 
-### 4.2. Tabla Unificada de Escalas Estructurales (De la Galaxia a Laniakea)
-Unificando los registros bajo las ecuaciones $M_t = \frac{v^4}{G \cdot a_0}$, $r_{\text{din}} = \sqrt{\frac{G \cdot M_t}{a_0}}$ y la cota estricta $M_c < 0,01 M_t$[cite: 5, 6, 7]:
+Para mantener el rigor físico al escalar de galaxias a cúmulos y supercúmulos, es indispensable distinguir la topología geométrica y la naturaleza del "nodo central" ($M_c$) en cada nivel de la jerarquía[cite: 6]:
 
-| Estructura Cósmica | Topología | Velocidad Característica ($v$ o $\sigma_{\text{ef}}$) | Masa Total Calculada ($M_t = M_c + M_r$) | Anclaje Central ($M_c < 1\% M_t$) | Masa Residual Bariónica ($M_r$: Estrellas + Gas ICM) | Fracción $M_c / M_t$ |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1. Vía Láctea**[cite: 6] | 2D Disco | $\sim 180 - 220\ \text{km/s}$ | $0,65 \times 10^{11}\ M_\odot$ | $4,3 \times 10^6\ M_\odot$ (Sgr A*) | $0,6499 \times 10^{11}\ M_\odot$ | $0,0066\%$ |
-| **2. Andrómeda (M31)**[cite: 7] | 2D Disco | $\sim 220 - 250\ \text{km/s}$ | $1,50 \times 10^{11}\ M_\odot$ | $1,4 \times 10^8\ M_\odot$ (Núcleo) | $1,4986 \times 10^{11}\ M_\odot$ | $0,093\%$ |
-| **3. Cúmulo de Virgo**[cite: 6, 7] | 3D Cuenca | $\sim 1.000\ \text{km/s}$ | $6,25 \times 10^{13}\ M_\odot$ | $\sim 5,0 \times 10^{11}\ M_\odot$ (Halo cD M87) | $6,20 \times 10^{13}\ M_\odot$ (Galaxias + Gas X) | $0,80\%$ |
-| **4. Cúmulo de Coma**[cite: 6, 7] | 3D Cuenca | $\sim 1.200\ \text{km/s}$ | $1,30 \times 10^{14}\ M_\odot$ | $\sim 1,0 \times 10^{12}\ M_\odot$ (NGC 4874/4889) | $1,29 \times 10^{14}\ M_\odot$ (Galaxias + Gas X) | $0,77\%$ |
-| **5. Cuenca Laniakea**[cite: 7] | 3D Cuenca | $\sim 6.320\ \text{km/s}$ (Flujo) | $1,00 \times 10^{17}\ M_\odot$ | $< 1,0 \times 10^{15}\ M_\odot$ (Atractor Norma) | $> 9,90 \times 10^{16}\ M_\odot$ ($\sim 10^5$ galaxias + WHIM) | $< 1,00\%$ |
+* **Régimen Coplanar Rotacional (Sistemas 2D):** A escala de galaxias espirales, el sistema opera como un disco rotatorio ("plato") donde $v$ representa la velocidad tangencial sostenida en los bordes (Relación Bariónica de Tully-Fisher) y el núcleo de anclaje ($M_c$) es el agujero negro central[cite: 5, 6].
+* **Régimen de Cuenca Convergente (Sistemas 3D):** A escala de cúmulos y supercúmulos masivos (como Virgo, Coma o Laniakea), el sistema no es un disco plano, sino una red tridimensional de atracción donde la cinemática está caracterizada por la dispersión de velocidades viriales $\sigma$ (Relación tipo Faber-Jackson) y corrientes de flujo convergente[cite: 6]. En esta geometría tridimensional, el anclaje central ($M_c < 0,01 \cdot M_t$) ya no es un único agujero negro aislado, sino el **nodo galáctico o cúmulo dominante en el fondo del pozo de potencial** (por ejemplo, la galaxia cD M87 en el Cúmulo de Virgo, el par NGC 4874/4889 en Coma, o el Cúmulo de Norma/Atractor en Laniakea)[cite: 6, 7].
 
-### 4.3. La Red Cósmica Observable, el Dominio de Shapley y la Calibración de $N_1$
-Consolidando las macroestructuras que conforman nuestro complejo supergaláctico inmediato (Laniakea, la Gran Muralla Sloan, Perseo-Piscis y el Gran Atractor), la masa acumulada asciende a $\sim 1,41 \times 10^{17}\ M_\odot$, cuyo nodo gravitacional dominante es el núcleo del Supercúmulo de Shapley (Abell 3558, con masa del orden de $\sim 1,4 \times 10^{15}\ M_\odot$, nuevamente en el límite $< 1\%$ de la macro-cuenca; y cuyo propio centro cD interno ronda $\sim 10^{13}\ M_\odot$, exhibiendo autosemejanza fractal a través de las escalas)[cite: 7].
+Dado que tanto las dinámicas rotacionales 2D como las de equilibrio virial 3D en el régimen profundo ($a \ll a_0$) escalan con la cuarta potencia de la velocidad característica ($v^4$ o $\sigma^4$), la ley fundamental permite estimar la masa bariónica total (galaxias más gas intergaláctico caliente en rayos X y medio tibio-caliente WHIM) que cohesiona estas estructuras[cite: 6].
 
-Siguiendo el principio de cosmogonía jerárquica de Carl Charlier y proyectando el millón ($\sim 10^6$) de cuencas homólogas que estructuran la red cósmica observable (corregido por el factor de oclusión de la zona de evitación galáctica), la masa bariónica total de nuestro **Superuniverso Observable ($N_1$)** queda calibrada en[cite: 7]:
+## 4.2. Tabla de Consistencia Empírica y Dinámica Estructural
+Unificando las mediciones desde la escala galáctica hasta nuestra cuenca supergaláctica local bajo la ley de baja aceleración y la cota estructural $M_c < 0,01 \cdot M_t$:
 
-$$M_{t(N1)} = 1,25 \times 10^{23}\ M_\odot \quad (11)$$
+* **1. Vía Láctea (2D - Disco):** Cinemática asintótica: $v_f \approx 180 - 220\ \text{km/s}$, $r \approx 50.000\text{ a.l.}$ Masa Total ($M_t$): $0,65 \times 10^{11}\ M_\odot$[cite: 6]. Anclaje ($M_c$): $4,3 \times 10^6\ M_\odot$ (Sagitario A*, $0,0066\%$)[cite: 5, 6]. Residual ($M_r$): $0,6499 \times 10^{11}\ M_\odot$ (Disco estelar y gas)[cite: 6].
+* **2. Andrómeda M31 (2D - Disco):** Cinemática: $v \approx 220 - 250\ \text{km/s}$, $r \approx 75.000\text{ a.l.}$ Masa Total ($M_t$): $1,50 \times 10^{11}\ M_\odot$[cite: 7]. Anclaje ($M_c$): $1,4 \times 10^8\ M_\odot$ (Agujero Negro, $0,093\%$)[cite: 5, 7]. Residual ($M_r$): $1,4986 \times 10^{11}\ M_\odot$[cite: 7].
+* **3. Cúmulo de Virgo (3D - Cuenca):** Cinemática: $\sigma \approx 1.000\ \text{km/s}$[cite: 6]. Masa Total ($M_t$): $6,25 \times 10^{13}\ M_\odot$[cite: 6]. Anclaje ($M_c$): $\sim 5,0 \times 10^{11}\ M_\odot$ (Galaxia central M87 y halo interior, $0,80\%$)[cite: 6]. Residual ($M_r$): $6,20 \times 10^{13}\ M_\odot$ ($\sim 1.300$ galaxias + gas caliente ICM)[cite: 6, 7].
+* **4. Cúmulo de Coma (3D - Cuenca):** Cinemática: $\sigma \approx 1.200\ \text{km/s}$[cite: 6]. Masa Total ($M_t$): $1,30 \times 10^{14}\ M_\odot$[cite: 6]. Anclaje ($M_c$): $\sim 1,0 \times 10^{12}\ M_\odot$ (Par central NGC 4874/4889, $0,77\%$)[cite: 6, 7]. Residual ($M_r$): $1,29 \times 10^{14}\ M_\odot$ (Miles de galaxias + gas en rayos X)[cite: 6, 7].
+* **5. Cuenca Laniakea (3D - Supercúmulo):** Escala de masa total estimada ($M_t$): $\sim 1,00 \times 10^{17}\ M_\odot$[cite: 7]. Nodo de Anclaje ($M_c$): $< 1,0 \times 10^{15}\ M_\odot$ (Región del Gran Atractor / Cúmulo de Norma, $< 1\%$)[cite: 7]. Residual ($M_r$): $> 0,99 \times 10^{17}\ M_\odot$ ($\sim 100.000$ galaxias y filamentos de gas difuso)[cite: 7].
 
-### 4.4. Proyección Macroscópica de $N_1$ a $N_7$: Distinción entre Radio de Cohesión Global y Velocidad Orbital del Ancla Central
-La existencia de flujos coherentes a gran escala (Flujo Oscuro) indica que nuestro sector observable ($N_1$) no es una isla estática, sino uno de los sectores periféricos que orbitan en un plano coplanar en torno a un **Gran Centro Absoluto ($M_c$)**[cite: 7, 8].
+## 4.3. La Red Cósmica Observable, el Dominio de Shapley y la Hipótesis de Escala para $N_1$
+Al examinar el complejo de macroestructuras que rodean e interactúan con nuestra cuenca local (Laniakea, la Gran Muralla Sloan, el Supercúmulo de Perseo-Piscis y el Gran Atractor), la masa combinada del sector local asciende a $\sim 1,41 \times 10^{17}\ M_\odot$[cite: 7]. Resulta notable que el nodo gravitacional más masivo hacia el cual convergen los flujos de esta región —el núcleo del Supercúmulo de Shapley (Abell 3558)— posee una masa estimada de $\sim 1,4 \times 10^{15}\ M_\odot$, guardando nuevamente la proporción característica de $\le 1\%$ respecto al complejo mayor; y, a su vez, el propio centro de Abell 3558 está dominado por una galaxia elíptica supermasiva (clase cD) del orden de $\sim 10^{13}\ M_\odot$ ($\le 1\%$ de Shapley), sugiriendo una autosemejanza jerárquica a través de tres órdenes de estructura[cite: 7].
 
-Al modelar la arquitectura completa para $N$ sectores homólogos ($N_1$ a $N_7$), resolvemos rigurosamente las ecuaciones separando el papel de la masa total ($M_t$) y el de la masa del núcleo central ($M_c$):
+A partir de este punto, para explorar cómo se comporta nuestra Ley Fundamental de Fuerza a escala del universo completo, **introducimos un postulado cosmológico explícito** inspirado en el concepto de Universo Jerárquico de Carl Charlier y en cosmogonías arquitectónicas clásicas[cite: 7, 15]: 
+Postulamos como hipótesis de trabajo que este complejo supergaláctico de $\sim 1,41 \times 10^{17}\ M_\odot$ actúa como un bloque modular y que nuestro **Superuniverso Observable ($N_1$)** está integrado por del orden de un millón ($\sim 10^6$) de tales cuencas interconectadas (ajustado por el factor de oclusión de la zona de evitación galáctica), lo que asigna a nuestro sector $N_1$ una masa bariónica modelo de[cite: 7]:
 
-1. **Masa Total del Sistema ($M_t$):** Cada sector aporta $1,25 \times 10^{23}\ M_\odot$, donde el ancla central ($M_c$) está incluida dentro de $M_t$ cumpliendo estrictamente la desigualdad $M_c < 0,01 M_t$ ($M_t = M_c + M_r$)[cite: 5, 7, 8]. Para $N = 7$ sectores, la masa total del Gran Universo es exactamente **$M_t = 8,75 \times 10^{23}\ M_\odot$**[cite: 8].
-2. **Radio Dinámico de Cohesión Global ($R$):** El borde estructural máximo de la cuenca global está determinado por la tensión total del potencial gravitacional sobre la masa conjunta $M_t$ bajo el límite $a_0$[cite: 8]:
-   $$R = \sqrt{\frac{G \cdot M_t}{a_0}} \quad (12)$$
-3. **Velocidad de Traslación Orbital en torno al Eje Central ($v_{\text{orb}}$):** Dado que los 7 sectores periféricos se distribuyen simétricamente en un anillo coplanar alrededor del centro (compensando mutuamente sus tracciones laterales en el plano azimutal), la velocidad neta de traslación orbital común en torno al origen $(0,0,0)$ está gobernada directamente por el pozo de potencial del **Gran Centro Absoluto ($M_c < 0,01 M_t$, calibrado en su estado metabólico de $\sim 0,8\% M_t \approx 6,95 \times 10^{21}\ M_\odot$ para $N_7$)**[cite: 1, 8, 11, 13]:
-   $$v_{\text{orb}} = (G \cdot M_c \cdot a_0)^{1/4} \quad (13)$$
+$$M_{t(N1)} = 1,25 \times 10^{23}\ M_\odot \quad (13)$$
 
-Esta separación física resuelve simultáneamente el tamaño del universo y mantiene todas las velocidades orbitales en un régimen estrictamente sub-lumínico ($v_{\text{orb}} \approx \frac{1}{3}c$):
+## 4.4. El Modelo Arquitectónico $N_7$: Extrapolación Teórica de $N_1$ a $N_7$
+Reconocemos expresamente que la ley dinámica galáctica $M = v^4/(G a_0)$ no demuestra por sí sola cuántos sectores componen la totalidad del cosmos ni obliga a priori a que la red tridimensional de supercúmulos vuelva a aplanarse en un disco a escala ultra-macroscópica. Sin embargo, la existencia de anomalías direccionales a gran escala (como el Flujo Oscuro y las anisotropías multipolares del fondo cósmico) nos motiva a formular y someter a prueba el **Modelo Arquitectónico $N_7$**[cite: 1, 7, 8]: la hipótesis de que nuestro Superuniverso ($N_1$) es uno de **siete sectores coplanares homólogos ($N_1$ a $N_7$)** que orbitan conjuntamente alrededor de un **Gran Centro Absoluto ($M_c$)**[cite: 1, 7, 8].
 
-| Configuración Macroscópica | Masa Total del Sistema ($M_t = M_c + M_r$) | Masa del Gran Centro ($M_c \approx 0,8\% M_t < 1\% M_t$) | Masa Periférica de Sectores ($M_r > 99\% M_t$) | Radio Dinámico Estructural ($R = \sqrt{G M_t / a_0}$) | Velocidad Orbital del Ancla ($v_{\text{orb}} = (G M_c a_0)^{1/4}$) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **$N_1$ (1 Sector)**[cite: 8] | $1,25 \times 10^{23}\ M_\odot$ | $1,00 \times 10^{21}\ M_\odot$ | $1,240 \times 10^{23}\ M_\odot$ | **$39.300\text{ M a.l.}$** | **$63.400\ \text{km/s}$** ($0,21 c$) |
-| **$N_2$ (2 Sectores)**[cite: 8] | $2,50 \times 10^{23}\ M_\odot$ | $2,00 \times 10^{21}\ M_\odot$ | $2,480 \times 10^{23}\ M_\odot$ | **$55.580\text{ M a.l.}$** | **$75.400\ \text{km/s}$** ($0,25 c$) |
-| **$N_3$ (3 Sectores)**[cite: 8] | $3,75 \times 10^{23}\ M_\odot$ | $3,00 \times 10^{21}\ M_\odot$ | $3,720 \times 10^{23}\ M_\odot$ | **$68.070\text{ M a.l.}$** | **$83.400\ \text{km/s}$** ($0,28 c$) |
-| **$N_4$ (4 Sectores)**[cite: 8] | $5,00 \times 10^{23}\ M_\odot$ | $4,00 \times 10^{21}\ M_\odot$ | $4,960 \times 10^{23}\ M_\odot$ | **$78.600\text{ M a.l.}$** | **$89.600\ \text{km/s}$** ($0,30 c$) |
-| **$N_5$ (5 Sectores)**[cite: 8] | $6,25 \times 10^{23}\ M_\odot$ | $5,00 \times 10^{21}\ M_\odot$ | $6,200 \times 10^{23}\ M_\odot$ | **$87.880\text{ M a.l.}$** | **$94.700\ \text{km/s}$** ($0,32 c$) |
-| **$N_6$ (6 Sectores)**[cite: 8] | $7,50 \times 10^{23}\ M_\odot$ | $6,00 \times 10^{21}\ M_\odot$ | $7,440 \times 10^{23}\ M_\odot$ | **$96.260\text{ M a.l.}$** | **$99.200\ \text{km/s}$** ($0,33 c$) |
-| **$N_7$ (7 Sectores)**[cite: 8] | **$8,75 \times 10^{23}\ M_\odot$** | **$6,95 \times 10^{21}\ M_\odot$** | **$8,680 \times 10^{23}\ M_\odot$** | **$104.000\text{ M a.l.}$** | **$103.000\ \text{km/s}$** ($0,34 c$) |
+El objetivo científico de esta sección es calcular con rigor matemático qué dimensiones espaciales y qué velocidades orbitales exige nuestra constante $a_0$ si aplicamos esta arquitectura de $N = 1$ a $N = 7$ sectores, respetando estrictamente la identidad estructural $M_t = M_c + M_r$ con $M_c < 0,01 \cdot M_t$[cite: 5, 8]:
 
-*(Nota: "M a.l." = Millones de años luz. Para $N_7$, el cálculo exacto $\sqrt{G (8,75 \times 10^{23} M_\odot) / a_0}$ arroja $103.978\text{ millones de años luz} \approx 104.000\text{ M a.l.}$)*[cite: 7, 8].
+1. **Radio Dinámico de Cohesión Global ($R$):** En el régimen gobernado por $a_0$, el radio máximo de cohesión gravitacional de un sistema de masa total $M_t$ está fijado por la relación fundamental[cite: 4, 8]:
+   $$R = \sqrt{\frac{G \cdot M_t}{a_0}} \quad (14)$$
+2. **Velocidad de Traslación Orbital en torno al Gran Centro ($v_{\text{orb}}$):** Dado que en una configuración simétrica de anillo los sectores periféricos ($M_r$) equilibran mutuamente sus tracciones laterales en el plano azimutal, la velocidad neta de traslación orbital en torno al eje central está gobernada directamente por la masa del ancla central ($M_c < 0,01 \cdot M_t$, evaluada en su rango superior de saturación metabólica $\sim 0,8\% M_t$, análogo al observado en cúmulos como Virgo y Coma)[cite: 6, 8]:
+   $$v_{\text{orb}} = (G \cdot M_c \cdot a_0)^{1/4} \quad (15)$$
 
-#### Criterios Físicos de Selección para la Arquitectura $N_7$:
-* **Descarte de $N_1$ (Ruptura del Horizonte):** Un universo reducido a un solo sector tendría un radio máximo de cohesión de $39.300\text{ M a.l.}$, inferior al radio de comovimiento ya cartografiado ($\sim 46.000\text{ M a.l.}$)[cite: 8].
-* **Descarte de $N_2$ a $N_5$ (Visibilidad del Gran Centro):** Para que el Gran Centro Absoluto ($M_c$) quede situado fuera de nuestro horizonte de termalización óptica ($\sim 35.000 - 46.000\text{ M a.l.}$) y ejerza desde allí el arrastre direccional del Flujo Oscuro, el radio total del sistema debe superar el umbral de los $100.000\text{ millones de años luz}$[cite: 8, 10, 11].
-* **Estabilidad Topológica de $N_7$:** La partición azimutal del disco coplanar en 7 sectores simétricos ($\sim 51,4^\circ$ por sector completo, con márgenes inter-sectoriales de equilibrio) proporciona la configuración óptima donde el radio global alcanza exactamente los $104.000\text{ millones de años luz}$ sin que la tensión perimetral interna supere el límite relativista de transmisión del medio ($c$)[cite: 8, 9, 12].
+Al ejecutar este barrido paramétrico desde $N_1$ hasta $N_7$, obtenemos las propiedades exactas del modelo:
 
-### 4.5. La Prevención del Colapso: El Pozo de Potencial Efectivo y la Barrera Centrífuga
-El modelo $N_7$ prescinde del Big Bang como singularidad inicial[cite: 8]. La estabilidad perpetua de la masa total ($8,75 \times 10^{23}\ M_\odot$) frente al colapso gravitatorio está garantizada por la conservación del momento angular ($L$) en un pozo de potencial efectivo[cite: 8]:
+* **$N_1$ (1 Sector):** $M_t = 1,25 \times 10^{23}\ M_\odot$ | $M_c \approx 1,00 \times 10^{21}\ M_\odot$ ($0,8\%$) | $M_r \approx 1,24 \times 10^{23}\ M_\odot$ | $R = \mathbf{39.300\text{ M a.l.}}$ | $v_{\text{orb}} = \mathbf{63.400\ \text{km/s}}$[cite: 8].
+* **$N_2$ (2 Sectores):** $M_t = 2,50 \times 10^{23}\ M_\odot$ | $M_c \approx 2,00 \times 10^{21}\ M_\odot$ ($0,8\%$) | $M_r \approx 2,48 \times 10^{23}\ M_\odot$ | $R = \mathbf{55.580\text{ M a.l.}}$ | $v_{\text{orb}} = \mathbf{75.400\ \text{km/s}}$[cite: 8].
+* **$N_3$ (3 Sectores):** $M_t = 3,75 \times 10^{23}\ M_\odot$ | $M_c \approx 3,00 \times 10^{21}\ M_\odot$ ($0,8\%$) | $M_r \approx 3,72 \times 10^{23}\ M_\odot$ | $R = \mathbf{68.070\text{ M a.l.}}$ | $v_{\text{orb}} = \mathbf{83.400\ \text{km/s}}$[cite: 8].
+* **$N_4$ (4 Sectores):** $M_t = 5,00 \times 10^{23}\ M_\odot$ | $M_c \approx 4,00 \times 10^{21}\ M_\odot$ ($0,8\%$) | $M_r \approx 4,96 \times 10^{23}\ M_\odot$ | $R = \mathbf{78.600\text{ M a.l.}}$ | $v_{\text{orb}} = \mathbf{89.600\ \text{km/s}}$[cite: 8].
+* **$N_5$ (5 Sectores):** $M_t = 6,25 \times 10^{23}\ M_\odot$ | $M_c \approx 5,00 \times 10^{21}\ M_\odot$ ($0,8\%$) | $M_r \approx 6,20 \times 10^{23}\ M_\odot$ | $R = \mathbf{87.880\text{ M a.l.}}$ | $v_{\text{orb}} = \mathbf{94.700\ \text{km/s}}$[cite: 8].
+* **$N_6$ (6 Sectores):** $M_t = 7,50 \times 10^{23}\ M_\odot$ | $M_c \approx 6,00 \times 10^{21}\ M_\odot$ ($0,8\%$) | $M_r \approx 7,44 \times 10^{23}\ M_\odot$ | $R = \mathbf{96.260\text{ M a.l.}}$ | $v_{\text{orb}} = \mathbf{99.200\ \text{km/s}}$[cite: 8].
+* **$N_7$ (7 Sectores):** $M_t = \mathbf{8,75 \times 10^{23}\ M_\odot}$ | $M_c \approx \mathbf{6,95 \times 10^{21}\ M_\odot}$ ($0,8\%$) | $M_r \approx \mathbf{8,68 \times 10^{23}\ M_\odot}$ | $R = \mathbf{104.000\text{ M a.l.}}$ | $v_{\text{orb}} = \mathbf{103.000\ \text{km/s}}$[cite: 8].
 
-$$V_{\text{eff}}(r) = V_{\text{grav}}(r) + \frac{L^2}{2 m r^2} = m \sqrt{G M_c a_0} \ln\left(\frac{r}{r_0}\right) + \frac{L^2}{2 m r^2} \quad (14)$$
+Consistencia interna del modelo en $N_7$:
+* **Coherencia con el Horizonte Observable ($N_1$ vs. $N_7$):** Un universo limitado a $N_1$ tendría un radio dinámico de $39.300\text{ millones de años luz}$, inferior al horizonte de comovimiento estimado por la astronomía actual ($\sim 46.000\text{ M a.l.}$), mientras que en $N_7$ el radio dinámico alcanza los **$104.000\text{ millones de años luz}$**, situando al Gran Centro Absoluto ($M_c$) más allá de nuestro horizonte de visibilidad óptica directa (el Muro de Niebla a $\sim 35.000 - 46.000\text{ M a.l.}$)[cite: 8, 10, 11].
+* **Régimen Cinemático Sub-lumínico:** Al estar gobernada la traslación por el ancla central ($M_c < 0,01 \cdot M_t$), la velocidad orbital del sistema en $N_7$ es de **$103.000\ \text{km/s}$** ($\sim 0,34 c$), manteniéndose íntegramente dentro de un rango físico sub-lumínico y libre de violaciones relativistas[cite: 8].
 
-Dado que la fuerza atractiva de gran escala decae como $1/r$ (potencial logarítmico suave), mientras que la fuerza centrífuga repulsiva asociada al momento angular crece como $1/r^3$ (potencial $\propto 1/r^2$), a distancias cortas la "barrera centrífuga" domina inevitablemente e impide cualquier colapso puntual[cite: 8]. El sistema posee un radio de equilibrio estable $R_0$ alrededor del cual puede oscilar elásticamente como un resorte armónico sin caer jamás en una singularidad[cite: 8, 9].
+## 4.5. La Prevención del Colapso: El Pozo de Potencial Efectivo y la Barrera Centrífuga
+Dentro de la hipótesis $N_7$, el universo no requiere originarse en una singularidad explosiva (Big Bang)[cite: 8]. El mecanismo físico que previene el colapso gravitatorio de la masa de $8,75 \times 10^{23}\ M_\odot$ es la conservación del momento angular ($L$) en un sistema coplanar rotante, cuya dinámica radial está regida por el pozo de potencial efectivo[cite: 8]:
+
+$$V_{\text{eff}}(r) = V(r) + \frac{L^2}{2 m r^2} \quad (16)$$
+
+Dado que en el régimen gobernado por $a_0$ la fuerza gravitacional atractiva decae de forma suavizada ($1/r$), el potencial gravitatorio asociado $V(r)$ es logarítmico[cite: 8]. A medida que el sistema intenta contraerse, el término centrífugo repulsivo dependiente del momento angular crece a una tasa mucho más abrupta de $1/r^2$ (fuerza $\propto 1/r^3$)[cite: 8]. Este "muro centrífugo" supera invariablemente a la atracción gravitacional a distancias cortas, creando una barrera física infranqueable[cite: 8]. Ante cualquier compresión, el sistema acumula tensión y rebota elásticamente en su pozo de potencial, sosteniendo un cosmos cíclico y estacionario[cite: 8].
+
+## 4.6. La Respiración Cósmica: El Ciclo Postulado de $2.000\text{ Millones de Años}$ y su Calibración con $H_0$
+Para unificar la estabilidad rotacional del modelo $N_7$ con el corrimiento al rojo y la expansión aparente observada por los telescopios, el marco incorpora tres movimientos simultáneos: las corrientes internas de cuenca (Flujo Oscuro), la rotación estructural tangencial ($103.000\ \text{km/s}$) y una **Respiración Radial Elástica**[cite: 8, 9].
+
+Modelamos esta respiración alrededor del radio de equilibrio ($R_0$) del pozo de potencial mediante la ecuación de un oscilador armónico[cite: 9]:
+
+$$R(t) = R_0 + A \cdot \sin\left(2\pi \frac{t}{T}\right) \quad (17)$$
+
+Donde $A$ es la amplitud de oscilación radial y $T$ es el periodo completo del ciclo[cite: 9]. Al derivar respecto al tiempo y dividir entre $R(t)$, obtenemos la tasa cinemática de estiramiento fraccional ($H_{\text{cin}}$) en cualquier instante del ciclo[cite: 9]:
+
+$$H_{\text{cin}}(t) = \frac{\frac{dR(t)}{dt}}{R(t)} \approx \left(\frac{A}{R_0}\right) \left(\frac{2\pi}{T}\right) \cos\left(2\pi \frac{t}{T}\right) \quad (18)$$
+
+### Calibración Observacional del Ciclo de $2.000\text{ Millones de Años}$:
+Introducimos como **segundo postulado arquitectónico del modelo** que el pulso respiratorio fundamental del cosmos tiene un periodo de **$T = 2.000\text{ millones de años}$** ($1.000\text{ millones de años}$ de exhalación expansiva y $1.000\text{ millones de años}$ de inhalación contractiva)[cite: 1, 9].
+
+Para verificar si este postulado es físicamente viable frente a las observaciones reales de laboratorio, despejamos de la Ecuación (18) cuál tendría que ser la amplitud fraccional de estiramiento ($\frac{A}{R_0}$) para que un ciclo de $T = 2 \times 10^9\text{ años}$ produzca una lectura del orden de la Constante de Hubble medida ($H_0 \approx 70\ \text{km/s/Mpc} \approx 7,14 \times 10^{-11}\ \text{años}^{-1}$)[cite: 9]:
+
+$$\frac{A}{R_0} = \frac{H_0 \cdot T}{2\pi} = \frac{(7,14 \times 10^{-11}\ \text{años}^{-1}) \cdot (2 \times 10^9\ \text{años})}{2\pi} \approx 0,0227 \quad (2,27\%) \quad (19)$$
+
+Esta calibración demuestra la parsimonia mecánica de la hipótesis: para reproducir las tasas de expansión medidas por la astrofísica contemporánea dentro de un ciclo de $2.000\text{ millones de años}$, el universo no necesita nacer de una singularidad ni duplicar su tamaño indefinidamente; le basta una oscilación elástica de apenas el **$2,27\%$** en torno a su radio de equilibrio[cite: 8, 9].
 
 ---
 
