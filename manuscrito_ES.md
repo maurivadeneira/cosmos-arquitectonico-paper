@@ -78,7 +78,7 @@ $$a_0 \approx \frac{c \cdot H_0}{2\pi}$$
 
 Sin embargo, atrapada en el paradigma del Big Bang —donde la expansión del universo se asume como un fenómeno explosivo desconectado de la dinámica rotacional de una galaxia—, la ciencia ortodoxa relegó esta relación a la categoría de "curiosidad empírica" o accidente numérico  .  
 
-El avance crítico de nuestra investigación consiste en poner esta relación sobre sus verdaderos pies físicos: en nuestro modelo, prescindimos de factores de ajuste artificiales y consagramos a **$a_0$ como la única constante estructural inamovible del tejido espacial**, mientras que el parámetro de Hubble ($H_0$) deja de ser una constante universal para entenderse como una lectura momentánea de la respiración cósmica en un determinado tiempo del ciclo, sumada al desgaste óptico de la luz en su viaje[cite: 9, 12].
+El avance crítico de nuestra investigación consiste en poner esta relación sobre sus verdaderos pies físicos: en nuestro modelo, prescindimos de factores de ajuste artificiales y consagramos a **$a_0$ como la única constante estructural inamovible del tejido espacial**, mientras que el parámetro de Hubble ($H_0$) deja de ser una constante universal para entenderse como una lectura momentánea de la respiración cósmica en un determinado tiempo del ciclo, sumada al desgaste óptico de la luz en su viaje.
 
 Al establecer esta jerarquía, la aceleración límite que sujeta el borde de nuestra Vía Láctea ($a_0$) deja de ser un parámetro arbitrario para erigirse en la tensión elástica permanente del sustrato cósmico[cite: 3, 9]. El ecosistema universal sostiene la cohesión de sus galaxias locales con la misma constante de tensión ($a_0$) que regula el equilibrio de las estructuras a gran escala  .  
 
@@ -347,74 +347,74 @@ A modo de mapa conceptual del escenario $N_7$ explorado en este trabajo, sinteti
 
 # CAPÍTULO 6: EL DESDOBLAMIENTO DE HUBBLE, EL EFECTO ACORDEÓN Y LA RESOLUCIÓN DE LA TENSIÓN COSMOLÓGICA
 
-Una vez establecida la independencia de nuestra constante fundamental $a_0 = 1,2 \times 10^{-10}\ \text{m/s}^2$ (sin recurrir a factores topológicos variables $\chi$ que diverjan en los puntos de retorno), este capítulo muestra cómo la combinación de la respiración cíclica de $2.000\text{ millones de años}$ con la fricción lumínica resuelve de forma limpia la llamada "Tensión de Hubble"[cite: 9, 12, 13].
+Una vez establecida la independencia de nuestra constante fundamental $a_0 = 1,2 \times 10^{-10}\ \text{m/s}^2$ (sin recurrir a factores topológicos variables $\chi$ que diverjan en los puntos de retorno), este capítulo muestra cómo la combinación de la respiración cíclica de $2.000\text{ millones de años}$ con la fricción lumínica resuelve de forma limpia la llamada "Tensión de Hubble".
 
 ## 6.1. El Desdoblamiento Observacional de Hubble ($H_{\text{obs}}$)
-Para interpretar correctamente las mediciones astrofísicas modernas, es imperativo distinguir qué parte del corrimiento al rojo observado ($z_{\text{obs}}$) es movimiento real y qué parte es desgaste óptico[cite: 12]. En nuestro modelo, el Parámetro de Hubble que miden los telescopios ($H_{\text{obs}}$) obedece a la suma de dos contribuciones físicas[cite: 12]:
+Para interpretar correctamente las mediciones astrofísicas modernas, es imperativo distinguir qué parte del corrimiento al rojo observado ($z_{\text{obs}}$) es movimiento real y qué parte es desgaste óptico. En nuestro modelo, el Parámetro de Hubble que miden los telescopios ($H_{\text{obs}}$) obedece a la suma de dos contribuciones físicas:
 
 $$H_{\text{obs}} = H_{\text{cin}} + H_\gamma \quad (21)$$
 
-Donde[cite: 12]:
-* **$H_{\text{cin}}$ (Componente Cinemático):** Es la tasa de velocidad física real a la que se expande o contrae la cuenca en un momento dado, empujada por el ciclo respiratorio de $2.000\text{ millones de años}$ (Ecuación 15)[cite: 9, 12]. En los puntos muertos de máxima extensión o máxima compresión del ciclo, $H_{\text{cin}} = 0$, mientras que $a_0$ permanece inalterada sosteniendo la cohesión de las galaxias[cite: 12].
+Donde:
+* **$H_{\text{cin}}$ (Componente Cinemático):** Es la tasa de velocidad física real a la que se expande o contrae la cuenca en un momento dado, empujada por el ciclo respiratorio de $2.000\text{ millones de años}$ (Ecuación 15). En los puntos muertos de máxima extensión o máxima compresión del ciclo, $H_{\text{cin}} = 0$, mientras que $a_0$ permanece inalterada sosteniendo la cohesión de las galaxias.
 * **$H_\gamma$ (Componente de Fricción):** Es la tasa aparente de alejamiento provocada exclusivamente por la pérdida de energía del fotón (Ley de Atenuación de Zwicky, Ecuación 20) al atravesar los pozos de potencial y el medio intergaláctico.
 
-Esta división permite reconciliar un universo dinámico que respira suavemente con un fotón que sufre desgaste secular en su viaje[cite: 12, 13].
+Esta división permite reconciliar un universo dinámico que respira suavemente con un fotón que sufre desgaste secular en su viaje.
 
 ## 6.2. El Efecto Acordeón: Cancelación Cinemática en Múltiples Ciclos
-Una objeción habitual frente a los modelos cíclicos radica en cuál sería el efecto acumulado de la respiración sobre la luz que viaja desde distancias cosmológicas extremas[cite: 13]. En nuestro marco, este conflicto se resuelve de forma natural al considerar la duración del ciclo respiratorio de $2.000\text{ millones de años}$[cite: 9, 13].
+Una objeción habitual frente a los modelos cíclicos radica en cuál sería el efecto acumulado de la respiración sobre la luz que viaja desde distancias cosmológicas extremas. En nuestro marco, este conflicto se resuelve de forma natural al considerar la duración del ciclo respiratorio de $2.000\text{ millones de años}$.
 
-Cuando un fotón proveniente del espacio profundo (por ejemplo, con un tiempo de tránsito de $10.000\text{ millones de años}$) viaja hacia nuestro punto de observación, su trayectoria no cruza un espacio en expansión lineal perpetua, sino que atraviesa **múltiples ciclos completos de apertura y cierre** de la macro-cuenca (en este ejemplo, cinco pulsos completos de exhalación e inhalación)[cite: 13].
+Cuando un fotón proveniente del espacio profundo (por ejemplo, con un tiempo de tránsito de $10.000\text{ millones de años}$) viaja hacia nuestro punto de observación, su trayectoria no cruza un espacio en expansión lineal perpetua, sino que atraviesa **múltiples ciclos completos de apertura y cierre** de la macro-cuenca (en este ejemplo, cinco pulsos completos de exhalación e inhalación).
 
-Matemáticamente, el efecto neto de este tránsito multisecular sobre la longitud de onda del fotón experimenta una **cancelación cinemática (Efecto Acordeón)**[cite: 13]:
-1. El semociclo de expansión ($1.000\text{ millones de años}$) estira transitoriamente la onda electromagnética[cite: 9, 13].
-2. El semociclo de compresión subsiguiente ($1.000\text{ millones de años}$) comprime recíprocamente la onda en la misma proporción[cite: 9, 13].
+Matemáticamente, el efecto neto de este tránsito multisecular sobre la longitud de onda del fotón experimenta una **cancelación cinemática (Efecto Acordeón)**:
+1. El semociclo de expansión ($1.000\text{ millones de años}$) estira transitoriamente la onda electromagnética.
+2. El semociclo de compresión subsiguiente ($1.000\text{ millones de años}$) comprime recíprocamente la onda en la misma proporción.
 
-Como resultado de esta alternancia simétrica, el componente puramente cinemático del corrimiento al rojo a escalas profundas promedia un valor neto cercano a cero ($\sum z_{\text{cin}} \approx 0$)[cite: 13].
+Como resultado de esta alternancia simétrica, el componente puramente cinemático del corrimiento al rojo a escalas profundas promedia un valor neto cercano a cero ($\sum z_{\text{cin}} \approx 0$).
 
 ## 6.3. La Resolución Óptica de la Tensión de Hubble
-La anulación del efecto cinemático a gran escala expone una explicación física sencilla para la **"Tensión de Hubble"** —la discrepancia entre la constante de Hubble medida en el universo local ($H_{\text{local}} \approx 73\ \text{km/s/Mpc}$, Riess et al.) frente a la obtenida en el universo profundo a través del Fondo Cósmico de Microondas ($H_{\text{profundo}} \approx 67,4\ \text{km/s/Mpc}$, colaboración Planck)—[cite: 13, 15]:
+La anulación del efecto cinemático a gran escala expone una explicación física sencilla para la **"Tensión de Hubble"** —la discrepancia entre la constante de Hubble medida en el universo local ($H_{\text{local}} \approx 73\ \text{km/s/Mpc}$, Riess et al.) frente a la obtenida en el universo profundo a través del Fondo Cósmico de Microondas ($H_{\text{profundo}} \approx 67,4\ \text{km/s/Mpc}$, colaboración Planck)—:
 
-* **En el Universo Profundo (Tránsito multieónico):** La cinemática de los ciclos intermedios de $2.000\text{ millones de años}$ se ha cancelado por completo por el Efecto Acordeón ($\langle H_{\text{cin}} \rangle \approx 0$)[cite: 13]. Lo que los instrumentos registran a distancias extremas no es la velocidad de retirada de las galaxias, sino puramente la acumulación termodinámica de la fricción lumínica: **$H_\gamma \approx 67,4\ \text{km/s/Mpc}$**[cite: 13].
-* **En el Universo Local (Tránsito corto):** En las galaxias cercanas, el fotón registra un tiempo de viaje de apenas unas decenas o cientos de millones de años (una fracción menor de un semociclo de $1.000\text{ millones de años}$), por lo que no hay cancelación en acordeón[cite: 13]. En esta escala corta, la señal óptica captura la suma directa del desgaste lumínico base ($H_\gamma \approx 67,4\ \text{km/s/Mpc}$) más la velocidad cinemática real de nuestra fase de exhalación local actual (**$H_{\text{cin}} \approx 5,6\ \text{km/s/Mpc}$**), arrojando el total observado de **$H_{\text{obs}} \approx 73,0\ \text{km/s/Mpc}$**[cite: 12, 13].
+* **En el Universo Profundo (Tránsito multieónico):** La cinemática de los ciclos intermedios de $2.000\text{ millones de años}$ se ha cancelado por completo por el Efecto Acordeón ($\langle H_{\text{cin}} \rangle \approx 0$). Lo que los instrumentos registran a distancias extremas no es la velocidad de retirada de las galaxias, sino puramente la acumulación termodinámica de la fricción lumínica: **$H_\gamma \approx 67,4\ \text{km/s/Mpc}$**.
+* **En el Universo Local (Tránsito corto):** En las galaxias cercanas, el fotón registra un tiempo de viaje de apenas unas decenas o cientos de millones de años (una fracción menor de un semociclo de $1.000\text{ millones de años}$), por lo que no hay cancelación en acordeón. En esta escala corta, la señal óptica captura la suma directa del desgaste lumínico base ($H_\gamma \approx 67,4\ \text{km/s/Mpc}$) más la velocidad cinemática real de nuestra fase de exhalación local actual (**$H_{\text{cin}} \approx 5,6\ \text{km/s/Mpc}$**), arrojando el total observado de **$H_{\text{obs}} \approx 73,0\ \text{km/s/Mpc}$**.
 
-De este modo, sin negar ni alterar un solo dato de laboratorio, desaparece la necesidad de invocar energía oscura repulsiva: la lectura profunda mide el desgaste del fotón en el medio ($H_\gamma$), mientras que el exceso local mide el pulso real de la respiración cósmica ($H_{\text{cin}}$)[cite: 12, 13].
+De este modo, sin negar ni alterar un solo dato de laboratorio, desaparece la necesidad de invocar energía oscura repulsiva: la lectura profunda mide el desgaste del fotón en el medio ($H_\gamma$), mientras que el exceso local mide el pulso real de la respiración cósmica ($H_{\text{cin}}$).
 
 ---
 
 # CAPÍTULO 7: REINTERPRETACIÓN DE LOS PILARES ORTODOXOS Y EPÍLOGO
 
 ## 7.1. El Eje Absoluto y el Marco Inercial
-La renuncia histórica de la física del siglo XX a un sustrato espacial fue una solución pragmática para un universo que se suponía homogéneo y sin centro, pero al prescindir del sustrato y del centro de referencia, la cosmología quedó atrapada en la singularidad del Big Bang y en la necesidad de inventar materia y energía oscuras[cite: 13]. Al considerar nuevamente un sustrato físico con tensión elástica definida ($a_0$) y un centro gravitacional de coordenadas ($M_c$), la necesidad de los "parches" invisibles se disuelve[cite: 13].
+La renuncia histórica de la física del siglo XX a un sustrato espacial fue una solución pragmática para un universo que se suponía homogéneo y sin centro, pero al prescindir del sustrato y del centro de referencia, la cosmología quedó atrapada en la singularidad del Big Bang y en la necesidad de inventar materia y energía oscuras. Al considerar nuevamente un sustrato físico con tensión elástica definida ($a_0$) y un centro gravitacional de coordenadas ($M_c$), la necesidad de los "parches" invisibles se disuelve.
 
-Bajo este marco arquitectónico, el orden cósmico sigue a la ley[cite: 13]. La gravedad fuerte ($1/r^2$) y el límite de gravedad suave ($a_0$, $1/r$) constituyen la partitura estructural sobre la cual la materia bariónica organiza su evolución[cite: 4, 13].
+Bajo este marco arquitectónico, el orden cósmico sigue a la ley. La gravedad fuerte ($1/r^2$) y el límite de gravedad suave ($a_0$, $1/r$) constituyen la partitura estructural sobre la cual la materia bariónica organiza su evolución.
 
 ## 7.2. El Valor Heurístico del Error: La Ruptura con el Big Bang y el Universo Eterno
-En la ciencia, ciertas aproximaciones preliminares —incluso cuando son posteriormente depuradas y corregidas por el rigor matemático y la revisión crítica— actúan como andamios indispensables para abrir nuevos caminos[cite: 14]. Durante las fases iniciales de esta investigación, antes de depurar las conversiones de escala y ajustar la relación exacta entre la masa bariónica y el límite $a_0$, un primer cálculo exploratorio sugirió un radio de $495.000\text{ millones de años luz}$[cite: 14].
+En la ciencia, ciertas aproximaciones preliminares —incluso cuando son posteriormente depuradas y corregidas por el rigor matemático y la revisión crítica— actúan como andamios indispensables para abrir nuevos caminos. Durante las fases iniciales de esta investigación, antes de depurar las conversiones de escala y ajustar la relación exacta entre la masa bariónica y el límite $a_0$, un primer cálculo exploratorio sugirió un radio de $495.000\text{ millones de años luz}$.
 
-Aunque la auditoría matemática posterior corrigió esa cifra a los $104.000\text{ millones de años luz}$ del escenario $N_7$ (y nos enseñó a separar con humildad lo que es ley demostrada en galaxias de lo que es simulación sobre un modelo cosmológico prestado), aquel cálculo inicial cumplió una función epistemológica invaluable: rompió el cerrojo mental impuesto por el modelo estándar[cite: 14].
+Aunque la auditoría matemática posterior corrigió esa cifra a los $104.000\text{ millones de años luz}$ del escenario $N_7$ (y nos enseñó a separar con humildad lo que es ley demostrada en galaxias de lo que es simulación sobre un modelo cosmológico prestado), aquel cálculo inicial cumplió una función epistemológica invaluable: rompió el cerrojo mental impuesto por el modelo estándar.
 
-Al obligarnos a pensar en una estructura geométrica de dimensiones tan vastas, el paradigma tradicional de un universo nacido de un punto singular hace apenas $13.800\text{ millones de años}$ perdió su carácter de dogma intocable[cite: 14]. Nos permitió comprender la viabilidad física de un **universo permanente**: un cosmos arquitectónico que no necesita nacer de la nada ni expandirse hacia una muerte térmica, sino que puede sostenerse a sí mismo en equilibrio rotacional y respiratorio a través del tiempo[cite: 14].
+Al obligarnos a pensar en una estructura geométrica de dimensiones tan vastas, el paradigma tradicional de un universo nacido de un punto singular hace apenas $13.800\text{ millones de años}$ perdió su carácter de dogma intocable. Nos permitió comprender la viabilidad física de un **universo permanente**: un cosmos arquitectónico que no necesita nacer de la nada ni expandirse hacia una muerte térmica, sino que puede sostenerse a sí mismo en equilibrio rotacional y respiratorio a través del tiempo.
 
 ## 7.3. El Vértigo de la Escala: Finitud Estructural en un Océano Infinito
-El abandono del paradigma de la explosión primordial no solo replantea las ecuaciones de la cinemática cósmica; invita a la mente humana a reestructurar su percepción de la escala[cite: 14]. La astronomía estándar interpretó la burbuja de $\sim 46.000\text{ millones de años luz}$ como el borde temporal de una creación explosiva[cite: 14].
+El abandono del paradigma de la explosión primordial no solo replantea las ecuaciones de la cinemática cósmica; invita a la mente humana a reestructurar su percepción de la escala. La astronomía estándar interpretó la burbuja de $\sim 46.000\text{ millones de años luz}$ como el borde temporal de una creación explosiva.
 
-En nuestro marco, ese límite visual se comprende como el "Muro de Niebla" termodinámico donde la luz se funde con el fondo de $2,7\ \text{K}$, mientras que la estructura física del sistema (ejemplificada en los $104.000\text{ millones de años luz}$ del modelo $N_7$) constituye un ecosistema finito, sujeto por la tensión centrífuga y la constante $a_0$[cite: 10, 14].
+En nuestro marco, ese límite visual se comprende como el "Muro de Niebla" termodinámico donde la luz se funde con el fondo de $2,7\ \text{K}$, mientras que la estructura física del sistema (ejemplificada en los $104.000\text{ millones de años luz}$ del modelo $N_7$) constituye un ecosistema finito, sujeto por la tensión centrífuga y la constante $a_0$.
 
-Y es aquí donde surge una interrogante filosófica y física fascinante: **Si nuestro Gran Universo es una estructura finita en rotación, ¿qué habita en el espacio infinito que lo contiene?**[cite: 14]
-Al abandonar la idea de que el espacio "nació" en una singularidad, el espacio recupera su estatus de lienzo absoluto, incondicionado y eterno[cite: 14]. Nuestro Gran Universo navega en un océano sin orillas[cite: 14]. Y esta finitud estructural frente a un vacío infinito sugiere, por extrapolación del principio de autosemejanza jerárquica (donde las estrellas forman galaxias, las galaxias forman cúmulos y los cúmulos forman superuniversos regidos por la misma ley $a_0$), la posibilidad de que existan otros grandes colosos cósmicos habitando las profundidades del espacio exterior no mapeado[cite: 13, 14].
+Y es aquí donde surge una interrogante filosófica y física fascinante: **Si nuestro Gran Universo es una estructura finita en rotación, ¿qué habita en el espacio infinito que lo contiene?**
+Al abandonar la idea de que el espacio "nació" en una singularidad, el espacio recupera su estatus de lienzo absoluto, incondicionado y eterno. Nuestro Gran Universo navega en un océano sin orillas. Y esta finitud estructural frente a un vacío infinito sugiere, por extrapolación del principio de autosemejanza jerárquica (donde las estrellas forman galaxias, las galaxias forman cúmulos y los cúmulos forman superuniversos regidos por la misma ley $a_0$), la posibilidad de que existan otros grandes colosos cósmicos habitando las profundidades del espacio exterior no mapeado.
 
-Al final, la renuncia a la creación explosiva no nos empequeñece; nos libera[cite: 14]. Nos plantea un universo que no camina inexorablemente hacia la muerte térmica, sino un motor orgánico y equilibrado que respira en las aguas del infinito[cite: 14].
+Al final, la renuncia a la creación explosiva no nos empequeñece; nos libera. Nos plantea un universo que no camina inexorablemente hacia la muerte térmica, sino un motor orgánico y equilibrado que respira en las aguas del infinito.
 
 ## 7.4. La Geometría del Espesor (El Eje Z) y la Ventana al Vacío
-Si la macroarquitectura del Gran Universo se rige por una dinámica de rotación coplanar alrededor de un centro, la conservación del momento angular impone una asimetría geométrica clara: mientras que el radio ecuatorial del disco ($r$) se extiende a escalas del orden de los $100.000\text{ millones de años luz}$, el espesor ortogonal del sistema (**su Eje Z**) debe ser drásticamente menor[cite: 14]. En este modelo, el Gran Universo es un disco aplanado, no una esfera isótropa[cite: 14].
+Si la macroarquitectura del Gran Universo se rige por una dinámica de rotación coplanar alrededor de un centro, la conservación del momento angular impone una asimetría geométrica clara: mientras que el radio ecuatorial del disco ($r$) se extiende a escalas del orden de los $100.000\text{ millones de años luz}$, el espesor ortogonal del sistema (**su Eje Z**) debe ser drásticamente menor. En este modelo, el Gran Universo es un disco aplanado, no una esfera isótropa.
 
-Esta geometría predice que nuestro horizonte visual debe comportarse de manera distinta según la dirección de observación[cite: 14]:
-* Al mirar a lo largo del plano ecuatorial del disco (eje $r$), nuestra vista atraviesa la densa acumulación de cuencas, gas y polvo, topando con el "Muro de Niebla" de termalización lumínica[cite: 14].
-* En cambio, cuando nuestros telescopios apuntan perpendicularmente al plano del disco (a través del **Eje Z**, donde el espesor de materia es mucho menor), la columna de gas y plasma decrece más rápido, la fricción óptica disminuye y la observación asoma de forma más limpia hacia la frialdad del vacío exterior[cite: 14, 15].
+Esta geometría predice que nuestro horizonte visual debe comportarse de manera distinta según la dirección de observación:
+* Al mirar a lo largo del plano ecuatorial del disco (eje $r$), nuestra vista atraviesa la densa acumulación de cuencas, gas y polvo, topando con el "Muro de Niebla" de termalización lumínica.
+* En cambio, cuando nuestros telescopios apuntan perpendicularmente al plano del disco (a través del **Eje Z**, donde el espesor de materia es mucho menor), la columna de gas y plasma decrece más rápido, la fricción óptica disminuye y la observación asoma de forma más limpia hacia la frialdad del vacío exterior.
 
-La astrofísica observacional ya ha registrado asimetrías direccionales a gran escala que para el modelo esférico estándar resultan difíciles de explicar: las mediciones del Fondo Cósmico de Microondas (CMB) realizadas por los satélites WMAP y Planck revelaron un alineamiento preferencial en los multipolos térmicos (denominado el **"Eje del Mal"**, *Axis of Evil*), así como la colosal **"Mancha Fría"** (*Cold Spot*) y enormes regiones deficitarias como el Vacío de Boötes ($330\text{ millones de años luz}$ de diámetro)[cite: 15].
+La astrofísica observacional ya ha registrado asimetrías direccionales a gran escala que para el modelo esférico estándar resultan difíciles de explicar: las mediciones del Fondo Cósmico de Microondas (CMB) realizadas por los satélites WMAP y Planck revelaron un alineamiento preferencial en los multipolos térmicos (denominado el **"Eje del Mal"**, *Axis of Evil*), así como la colosal **"Mancha Fría"** (*Cold Spot*) y enormes regiones deficitarias como el Vacío de Boötes ($330\text{ millones de años luz}$ de diámetro)].
 
-Dentro de nuestra hipótesis de trabajo, proponemos que estas anomalías se investiguen no como simples casualidades estadísticas o errores instrumentales, sino como posibles firmas candidatas de la geometría coplanar del cosmos: la huella direccional del espesor menor en nuestro Eje Z frente al plano principal del disco[cite: 15]. Contrastar cuantitativamente esta predicción geométrica con los mapas de cielo completo será una tarea apasionante para la cosmología observacional de las próximas décadas.
+Dentro de nuestra hipótesis de trabajo, proponemos que estas anomalías se investiguen no como simples casualidades estadísticas o errores instrumentales, sino como posibles firmas candidatas de la geometría coplanar del cosmos: la huella direccional del espesor menor en nuestro Eje Z frente al plano principal del disco]. Contrastar cuantitativamente esta predicción geométrica con los mapas de cielo completo será una tarea apasionante para la cosmología observacional de las próximas décadas.
 
 > *"Entregamos este manuscrito del Cosmos Arquitectónico como un andamio en construcción que nos permita aumentar la comprensión de nuestro universo majestuoso e inconmensurable; un cosmos infinito, estructurado y eterno."*  
 
@@ -422,22 +422,22 @@ Dentro de nuestra hipótesis de trabajo, proponemos que estas anomalías se inve
 
 ## Referencias
 
-1. Fundación Urantia. (1955). *El Libro de Urantia*. (Documento 15: Los Siete Superuniversos; Documento 12: El Universo de los Universos; Documento 11: La Isla Eterna del Paraíso)[cite: 15].
-2. Milgrom, M. (1983). A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis. *The Astrophysical Journal*, 270, 365-370[cite: 15].
-3. Tully, R. B., & Fisher, J. R. (1977). A New Method of Determining Distances to Galaxies. *Astronomy and Astrophysics*, 54, 661-673[cite: 15].
-4. Faber, S. M., & Jackson, R. E. (1976). Velocity dispersions and mass-to-light ratios for elliptical galaxies. *The Astrophysical Journal*, 204, 668-683[cite: 15].
-5. Kashlinsky, A., et al. (2008). A measurement of large-scale peculiar velocities of clusters of galaxies: results and cosmological implications. *The Astrophysical Journal Letters*, 686(2), L49[cite: 15].
-6. Lelli, F., McGaugh, S. S., & Schombert, J. M. (2016). SPARC: Mass Models for 175 Disk Galaxies with Spitzer Photometry. *The Astronomical Journal*, 152(6), 157[cite: 15].
-7. Antoja, T., et al. (2018). A dynamically young and perturbed Milky Way disk. *Nature*, 561(7723), 360-362[cite: 15].
-8. Migkas, K., et al. (2020). Probing cosmic isotropy with a new X-ray galaxy cluster sample through the $L_X-T$ scaling relation. *Astronomy & Astrophysics*, 636, A15[cite: 15].
-9. Planck Collaboration. (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics*, 641, A6[cite: 15].
-10. York, D. G., et al. (2000). The Sloan Digital Sky Survey: Technical Summary. *The Astronomical Journal*, 120(3), 1579[cite: 15].
-11. Tully, R. B., et al. (2014). The Laniakea supercluster of galaxies. *Nature*, 513(7516), 71-73[cite: 15].
-12. Proust, D., et al. (2006). The Shapley supercluster: the largest matter concentration in the local Universe. *Astronomy & Astrophysics*, 447(1), 133-144[cite: 15].
+1. Fundación Urantia. (1955). *El Libro de Urantia*. (Documento 15: Los Siete Superuniversos; Documento 12: El Universo de los Universos; Documento 11: La Isla Eterna del Paraíso)].
+2. Milgrom, M. (1983). A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis. *The Astrophysical Journal*, 270, 365-370].
+3. Tully, R. B., & Fisher, J. R. (1977). A New Method of Determining Distances to Galaxies. *Astronomy and Astrophysics*, 54, 661-673].
+4. Faber, S. M., & Jackson, R. E. (1976). Velocity dispersions and mass-to-light ratios for elliptical galaxies. *The Astrophysical Journal*, 204, 668-683].
+5. Kashlinsky, A., et al. (2008). A measurement of large-scale peculiar velocities of clusters of galaxies: results and cosmological implications. *The Astrophysical Journal Letters*, 686(2), L49].
+6. Lelli, F., McGaugh, S. S., & Schombert, J. M. (2016). SPARC: Mass Models for 175 Disk Galaxies with Spitzer Photometry. *The Astronomical Journal*, 152(6), 157].
+7. Antoja, T., et al. (2018). A dynamically young and perturbed Milky Way disk. *Nature*, 561(7723), 360-362].
+8. Migkas, K., et al. (2020). Probing cosmic isotropy with a new X-ray galaxy cluster sample through the $L_X-T$ scaling relation. *Astronomy & Astrophysics*, 636, A15].
+9. Planck Collaboration. (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics*, 641, A6].
+10. York, D. G., et al. (2000). The Sloan Digital Sky Survey: Technical Summary. *The Astronomical Journal*, 120(3), 1579].
+11. Tully, R. B., et al. (2014). The Laniakea supercluster of galaxies. *Nature*, 513(7516), 71-73].
+12. Proust, D., et al. (2006). The Shapley supercluster: the largest matter concentration in the local Universe. *Astronomy & Astrophysics*, 447(1), 133-144].
 13. Zwicky, F. (1929). On the Red Shift of Spectral Lines through Interstellar Space. *Proceedings of the National Academy of Sciences*, 15(10), 773-779; y (1933) Die Rotverschiebung von extragalaktischen Nebeln. *Helvetica Physica Acta*, 6, 110-127.
-14. Riess, A. G., et al. (2019). Large Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant. *The Astrophysical Journal*, 876(1), 85[cite: 15].
-15. Sunyaev, R. A., & Zeldovich, Y. B. (1972). The Observations of Relic Radiation. *Comments on Astrophysics and Space Physics*, 4, 173[cite: 15].
-16. Forman, W., & Jones, C. (1982). X-ray-imaging observations of clusters of galaxies. *Annual Review of Astronomy and Astrophysics*, 20, 547-585[cite: 15].
-17. Kirshner, R. P., et al. (1981). A million cubic megaparsec void in Bootes. *The Astrophysical Journal*, 248, L57-L60[cite: 15].
-18. Land, K., & Magueijo, J. (2005). The Axis of Evil: Examination of Evidence for a Preferred Axis in the Cosmic Radiation Anisotropy. *Physical Review Letters*, 95(7), 071301[cite: 15].
-19. Cruz, M., et al. (2005). Detection of a non-Gaussian spot in WMAP. *Monthly Notices of the Royal Astronomical Society*, 356(1), 29-40[cite: 15].
+14. Riess, A. G., et al. (2019). Large Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant. *The Astrophysical Journal*, 876(1), 85].
+15. Sunyaev, R. A., & Zeldovich, Y. B. (1972). The Observations of Relic Radiation. *Comments on Astrophysics and Space Physics*, 4, 173].
+16. Forman, W., & Jones, C. (1982). X-ray-imaging observations of clusters of galaxies. *Annual Review of Astronomy and Astrophysics*, 20, 547-585].
+17. Kirshner, R. P., et al. (1981). A million cubic megaparsec void in Bootes. *The Astrophysical Journal*, 248, L57-L60].
+18. Land, K., & Magueijo, J. (2005). The Axis of Evil: Examination of Evidence for a Preferred Axis in the Cosmic Radiation Anisotropy. *Physical Review Letters*, 95(7), 071301].
+19. Cruz, M., et al. (2005). Detection of a non-Gaussian spot in WMAP. *Monthly Notices of the Royal Astronomical Society*, 356(1), 29-40].
