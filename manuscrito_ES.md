@@ -80,7 +80,7 @@ Sin embargo, atrapada en el paradigma del Big Bang —donde la expansión del un
 
 El avance crítico de nuestra investigación consiste en poner esta relación sobre sus verdaderos pies físicos: en nuestro modelo, prescindimos de factores de ajuste artificiales y consagramos a **$a_0$ como la única constante estructural inamovible del tejido espacial**, mientras que el parámetro de Hubble ($H_0$) deja de ser una constante universal para entenderse como una lectura momentánea de la respiración cósmica en un determinado tiempo del ciclo, sumada al desgaste óptico de la luz en su viaje.
 
-Al establecer esta jerarquía, la aceleración límite que sujeta el borde de nuestra Vía Láctea ($a_0$) deja de ser un parámetro arbitrario para erigirse en la tensión elástica permanente del sustrato cósmico[cite: 3, 9]. El ecosistema universal sostiene la cohesión de sus galaxias locales con la misma constante de tensión ($a_0$) que regula el equilibrio de las estructuras a gran escala  .  
+Al establecer esta jerarquía, la aceleración límite que sujeta el borde de nuestra Vía Láctea ($a_0$) deja de ser un parámetro arbitrario para erigirse en la tensión elástica permanente del sustrato cósmico. El ecosistema universal sostiene la cohesión de sus galaxias locales con la misma constante de tensión ($a_0$) que regula el equilibrio de las estructuras a gran escala  .  
 
 ---
 
