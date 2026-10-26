@@ -50,7 +50,7 @@ Como regla metodológica estricta para esta investigación, establecimos que cua
 ## 1.3. El Surgimiento de la Anomalía y el Límite Crítico ($a_0$)
 Al procesar los datos espectroscópicos de rotación de galaxias reales —midiendo la velocidad tangencial de las estrellas ($v$) según su distancia ($r$) al núcleo masivo central— nuestro modelo expuso una contradicción matemática insalvable. Cerca del centro, la cinemática estelar obedece las aproximaciones gravitacionales clásicas. Sin embargo, en los confines exteriores de la galaxia, la velocidad no decae en función de la distancia; se estabiliza y se mantiene constante, provocando que la galaxia entera rote de manera compacta "como un plato", y si queremos ser más exactos, como un remolino.
 
-Frente a este caos de datos, la ortodoxia optó por inventar halos invisibles de materia oscura. En su lugar, el escrutinio de las curvas de rotación revela la existencia de una constante física universal: un límite crítico de aceleración estipulado en $a_0 \approx 1,2 \times 10^{-10}\ \text{m/s}^2$.
+Frente a este caos de datos, la física optó por una hipótesis hasta hoy sin sustento, suponer halos invisibles de materia oscura. En su lugar, el escrutinio de las curvas de rotación revela la existencia de una constante física universal: un límite crítico de aceleración estipulado en $a_0 \approx 1,2 \times 10^{-10}\ \text{m/s}^2$.
 
 En cumplimiento del rigor científico, reconocemos formalmente que este límite y su fórmula de escala coinciden con la Dinámica Newtoniana Modificada (MOND), postulada empíricamente por Mordehai Milgrom en 1983    . Aunque nuestro camino computacional fue guiado de manera independiente por datos brutos, esta convergencia histórica valida la solidez de la métrica.
 
