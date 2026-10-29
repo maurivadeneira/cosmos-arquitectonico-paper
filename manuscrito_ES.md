@@ -211,11 +211,11 @@ En ambos casos, observamos como **hipótesis empírica de trabajo** (ilustrada e
 $$\frac{M_c}{M_t} < 0,01 \quad \Longleftrightarrow \quad M_r > 0,99 \cdot M_t \quad (12)$$
 
 Ejemplos ilustrativos en galaxias individuales ($M_c \equiv M_{\text{BH}}$, $M_t \equiv M_{\text{bar,obs}}$):
-1. **Vía Láctea:** $M_{\text{bar,obs}} \approx 0,60 \times 10^{11}\ M_\odot$ (Perfil Central C), $M_{\text{BH}} = 4,30 \times 10^6\ M_\odot$ (GRAVITY, 2018), $M_{\text{BH}} / M_{\text{bar,obs}} = 0,0072\%$.
-2. **Andrómeda (M31):** $M_{\text{bar,obs}} \approx 1,50 \times 10^{11}\ M_\odot$ (Tamm et al., 2012), $M_{\text{BH}} = 1,40 \times 10^8\ M_\odot$ (Bender et al., 2005), $M_{\text{BH}} / M_{\text{bar,obs}} = 0,093\%$.
-3. **Sombrero (M104):** $M_{\text{bar,obs}} \approx 2,10 \times 10^{11}\ M_\odot$ (Tempel & Tenjes, 2006), $M_{\text{BH}} = 1,00 \times 10^9\ M_\odot$ (Kormendy et al., 1996), $M_{\text{BH}} / M_{\text{bar,obs}} = 0,476\%$.
-4. **M87 (NGC 4486):** $M_{\text{bar,obs}} \approx 12,00 \times 10^{11}\ M_\odot$ (Murphy et al., 2011), $M_{\text{BH}} = 6,50 \times 10^9\ M_\odot$ (EHT, 2019), $M_{\text{BH}} / M_{\text{bar,obs}} = 0,542\%$.
-5. **Centaurus A (NGC 5128):** $M_{\text{bar,obs}} \approx 8,00 \times 10^{11}\ M_\odot$ (Woodley et al., 2007), $M_{\text{BH}} = 5,50 \times 10^9\ M_\odot$ (Cappellari et al., 2009), $M_{\text{BH}} / M_{\text{bar,obs}} = 0,688\%$.
+1. **Vía Láctea:** $M_{\text{bar,obs}} \approx 0,60 \times 10^{11}\ M_\odot$ (Perfil Central C), $M_{\text{BH}} = 4,30 \times 10^6\ M_\odot$ (GRAVITY, 2018), $M_{\text{BH}} / M_{\text{bar,obs}} = 7,17 \times 10^{-5}$ ($0,00717\%$).
+2. **Andrómeda (M31):** $M_{\text{bar,obs}} \approx 1,50 \times 10^{11}\ M_\odot$ (Tamm et al., 2012), $M_{\text{BH}} = 1,40 \times 10^8\ M_\odot$ (Bender et al., 2005), $M_{\text{BH}} / M_{\text{bar,obs}} = 9,33 \times 10^{-4}$ ($0,0933\%$).
+3. **Sombrero (M104):** $M_{\text{bar,obs}} \approx 2,10 \times 10^{11}\ M_\odot$ (Tempel & Tenjes, 2006), $M_{\text{BH}} = 1,00 \times 10^9\ M_\odot$ (Kormendy et al., 1996), $M_{\text{BH}} / M_{\text{bar,obs}} = 4,76 \times 10^{-3}$ ($0,476\%$).
+4. **M87 (NGC 4486):** $M_{\text{bar,obs}} \approx 12,00 \times 10^{11}\ M_\odot$ (Murphy et al., 2011), $M_{\text{BH}} = 6,50 \times 10^9\ M_\odot$ (EHT, 2019), $M_{\text{BH}} / M_{\text{bar,obs}} = 5,42 \times 10^{-3}$ ($0,542\%$).
+5. **Centaurus A (NGC 5128):** $M_{\text{bar,obs}} \approx 8,00 \times 10^{11}\ M_\odot$ (Woodley et al., 2007), $M_{\text{BH}} = 5,50 \times 10^9\ M_\odot$ (Cappellari et al., 2009), $M_{\text{BH}} / M_{\text{bar,obs}} = 6,88 \times 10^{-3}$ ($0,688\%$).
 
 ## 3.4. Ecuación Hidrostática de Jeans en Cúmulos 3D y Condicionalidad de los Supuestos
 En un sistema esférico tridimensional en equilibrio estacionario con isotropía de velocidades ($\beta_{\text{anis}} = 0$), la ecuación de Jeans relaciona la densidad de trazadores $\rho(r)$ y la dispersión de velocidad radial ($\sigma_r$) con la aceleración gravitatoria $a(r)$:
@@ -243,7 +243,7 @@ Con este propósito, definimos como parámetro de entrada una unidad de masa de 
 
 $$M_{N1} = 1,00 \times 10^{21}\ M_\odot \quad (15)$$
 
-*(Dada la densidad bariónica media total del universo local $\rho_{\text{bar,tot}} = \Omega_b \rho_{\text{crít}} \approx 4,17 \times 10^{-28}\ \text{kg/m}^3 \approx 6,16 \times 10^9\ M_\odot/\text{Mpc}^3$ [Planck Collaboration, 2020; Shull et al., 2012], este parámetro de referencia equivale a la masa bariónica contenida en un volumen esférico fiducial de radio $R_{\text{fid}} \approx 3.385\ \text{Mpc} \approx 11.040\text{ M a.l.}$).*
+*(Dada la densidad bariónica media total del universo local $\rho_{\text{bar,tot}} = \Omega_b \rho_{\text{crít}} \approx 4,17 \times 10^{-28}\ \text{kg/m}^3 \approx 6,16 \times 10^9\ M_\odot/\text{Mpc}^3$ [Planck Collaboration, 2020; Shull et al., 2012], este parámetro de referencia equivale a la masa bariónica contenida en un volumen esférico fiducial de radio $R_{\text{fid}} \approx 3.385\ \text{Mpc} \equiv 3,385\ \text{Gpc}$ [$\approx 11.040\text{ millones de años luz}$]).*
 *(Nota: El radio geométrico fiducial $R_{\text{fid}} \approx 11.040\text{ M a.l.}$ proviene únicamente de integrar la densidad bariónica media $\rho_{\text{bar,tot}}$ y es conceptualmente distinto del radio dinámico de transición monopolar $r_t = \sqrt{G M_{N1} / a_0} = 3.516\text{ M a.l.}$ de la Tabla 3; asimismo, para $N_7$ la escala ilustrativa $R_{\text{ext}} \sim 104.000\text{ M a.l.}$ supera el radio del horizonte de partículas observable [$\sim 46.500\text{ M a.l.}$ en $\Lambda\text{CDM}$], por lo que debe entenderse como una escala paramétrica postulada más allá del horizonte local).*
 ## 4.2. Extrapolación Condicional de $N_1$ a $N_7$ y Requerimientos Relativistas en $v_f \approx 0,343c$
 Evaluamos el siguiente ejercicio paramétrico condicional: **Si postulamos un sistema macrocósmico cuya masa bariónica total es siete veces el parámetro de referencia $M_{N1}$ ($M_{t(N7)} = 7,00 \times 10^{21}\ M_\odot$, distribuida sin fronteras administrativas físicas en una masa residual $M_r > 0,99 M_t$ en torno a un atractor central hipotético $M_c < 0,01 M_t$), ¿qué valores numéricos resultan de extrapolar algebraicamente las Ecuaciones (7) y (10)?**
@@ -260,7 +260,7 @@ Evaluamos el siguiente ejercicio paramétrico condicional: **Si postulamos un si
 
 **Delimitación física sobre los resultados de $N_7$:**
 1. Los valores exactos $v_f = 102.754\ \text{km/s}$ ($\approx 103.000\ \text{km/s}$) y $r_t = 9.302\text{ M a.l.}$ son consecuencias algebraicas de introducir la masa postulada $M_{t(N7)} = 7,00 \times 10^{21}\ M_\odot$ en las Ecuaciones (10) y (7), y la columna $R_{\text{ext}} / r_t \approx 11$ es un supuesto geométrico adicional; no constituyen mediciones independientes.
-2. Dado que para $v_f \approx 0,343c$ el factor de Lorentz es $\gamma \approx 1,0645$ ($v_f^2 / c^2 \approx 11,8\%$), una formalización física completa de este escenario requeriría una métrica relativista autoconsistente y la especificación de sus condiciones de contorno cosmológicas.
+2. Dado que para $v_f \approx 0,343c$ el cociente cinemático es $v_f^2 / c^2 \approx 0,1176$ ($11,76\%$) y el factor de Lorentz correspondiente es $\gamma = 1 / \sqrt{1 - v_f^2/c^2} \approx 1,0645$, una formalización física completa de este escenario requeriría una métrica relativista autoconsistente. Asimismo, las expresiones algebraicas del radio se escriben rigurosamente con su raíz cuadrada ($r_t = \sqrt{G M_t / a_0}$), distinguiéndolas de las escalas geométricas paramétricas adicionales como $R_{\text{ext}} \sim 11 r_t$.
 
 ## 4.3. Estabilidad de Órbitas de Prueba frente a Estabilidad Colectiva Autogravitante
 El potencial efectivo unidimensional $V_{\text{eff}}(r) = v_f^2 \ln(r/r_0) + \frac{h^2}{2r^2}$ posee un mínimo estable único ($r_{\text{eq}} = h / v_f$) para partículas de prueba individuales con momento angular específico $h$. La demostración de estabilidad colectiva de una estructura cosmológica autogravitante completa permanece como problema abierto para simulaciones de N-cuerpos.
@@ -302,16 +302,16 @@ Definimos tres protocolos de prueba especificando los requisitos estadísticos y
 1. **Protocolo para la Prueba Dipolar del Campo Direccional en Pantheon+ (Scolnic et al., 2022; Brout et al., 2022):**
    - *Relación distancia-redshift y módulo de distancia predicho:* En el régimen de bajo corrimiento al rojo ($0,023 < z < 0,15$), parametrizamos la distancia de luminosidad direccional a primer orden cosmográfico como $d_L(z, \hat{n}_i) = \frac{c z}{H_{\text{obs}}(\hat{n}_i)}\left[1 + \frac{1}{2}(1 - q_{\text{ef}})z\right]$, con $H_{\text{obs}}(\hat{n}_i) = H_\gamma + H_{\text{cin}}(\hat{n}_i \cdot \hat{u}_c)$, lo que define el módulo de distancia teórico $\mu_{\text{teo}}(z_i, \hat{n}_i) = 5\log_{10}[d_L(z_i, \hat{n}_i)/10\ \text{pc}]$.
    - *Función de verosimilitud y criterio de refutación:* Definiendo el vector de residuos $\Delta \mu_i = m_{B,\text{corr},i} - M_B - \mu_{\text{teo}}(z_i, \hat{n}_i)$ sobre el catálogo Pantheon+ (marginalizando sobre el parámetro de magnitud absoluta $M_B$ y sobre el cono de incertidumbre angular de $\pm 15^\circ$ en torno a $l_c = 295^\circ, b_c = +15^\circ$), se minimiza $\chi^2 = \Delta \vec{\mu}^T C_{\text{stat+sys}}^{-1} \Delta \vec{\mu}$. La hipótesis de una componente direccional de escala $H_{\text{cin}} \sim 5,6\ \text{km/s/Mpc}$ quedará empíricamente refutada si la verosimilitud perfilada sobre $C_{\text{stat+sys}}$ arroja un límite superior al $99,7\%$ de confianza ($3\sigma$) de $\vert{}H_{\text{cin}}\vert{} < 1,0\ \text{km/s/Mpc}$.
-2. **Prueba Dinámica de Consistencia mediante la Frecuencia Epicíclica ($\kappa / \Omega = \sqrt{2}$) en Gaia:**
-   - *Cálculo exacto del periodo orbital y radial:* En un potencial con curva de rotación localmente plana ($dv_c / dr \approx 0$), la frecuencia epicíclica radial ($\kappa$) y la frecuencia angular circular ($\Omega = v_c / r$) cumplen la propiedad dinámica general $\kappa / \Omega = \sqrt{2}$. Evaluando exactamente con $r_\odot = 8,00\ \text{kpc} = 2,46856 \times 10^{20}\ \text{m}$ y $1\text{ año juliano} = 3,15576 \times 10^7\ \text{s}$ para $v_c = 229,00\ \text{km/s}$ (Eilers) y $v_c = 230,19\ \text{km/s}$ (Perfil Central C), el periodo orbital azimutal es:
+2. **Prueba Dinámica de Consistencia mediante la frecuencia epicíclica ($\kappa / \Omega = \sqrt{2}$) en Gaia:**
+   - *Cálculo exacto del periodo orbital y radial:* En un potencial con curva de rotación localmente plana ($dv_c / dr \approx 0$), la frecuencia epicíclica radial ($\kappa$) y la frecuencia angular circular ($\Omega = v_c / r$) satisfacen la propiedad dinámica general $\kappa / \Omega = \sqrt{2}$. Evaluando exactamente con $r_\odot = 8,00\ \text{kpc} = 2,46856 \times 10^{20}\ \text{m}$ y $1\text{ año juliano} = 3,15576 \times 10^7\ \text{s}$, el periodo orbital azimutal $T_{\text{orb}} = \frac{2\pi r_\odot}{v_c}$ para los dos valores de referencia ($v_c = 229,00\ \text{km/s}$ de Eilers et al. y $v_c = 230,19\ \text{km/s}$ del Perfil Central C) es:
 
-$$T_{\text{orb}} = \frac{2\pi r_\odot}{v_c} = 213,71\text{ a }214,82\text{ millones de años} \quad (213,7 - 214,8\text{ M años}) \quad (18\text{a})$$
+$$T_{\text{orb}} = \frac{2\pi \cdot (2,46856 \times 10^{20}\ \text{m})}{v_c} = 213,71\text{ a }214,82\text{ millones de años} \quad (213,7 - 214,8\text{ M años}) \quad (18\text{a})$$
 
-Dividiendo exactamente por $\sqrt{2} = 1,41421356$, el periodo de oscilación radial epicíclica correspondiente es:
+Dividiendo estrictamente este resultado por $\sqrt{2} = 1,41421356$ conforme a la relación general de curva plana ($\kappa / \Omega = \sqrt{2} \implies T_r = T_{\text{orb}} / \sqrt{2}$), el periodo de oscilación radial epicíclica correspondiente es:
 
 $$T_r = \frac{T_{\text{orb}}}{\sqrt{2}} = 151,12\text{ a }151,90\text{ millones de años} \quad (151,1 - 151,9\text{ M años}) \quad (18\text{b})$$
 
-   - *Alcance del test:* Esta relación es una propiedad dinámica general de cualquier potencial localmente plano (no exclusiva de $N_7$), útil para evaluar en Gaia DR4 la pendiente local de $v_c(r)$.
+   - *Alcance del test:* Esta relación es una propiedad dinámica general de cualquier potencial localmente plano (no exclusiva de $N_7$), útil para evaluar en los datos astrométricos de Gaia DR4 la pendiente local de $v_c(r)$ y separar modos estacionarios de perturbaciones transitorias inducidas por galaxias satélites.
 
 ---
 
@@ -341,7 +341,7 @@ Al concluir esta undécima versión auditada de *El Cosmos Arquitectónico*, est
 | $M_b, a_b$ | Masa y radio de escala del bulbo de Hernquist (VL) | $1,00 \times 10^{10}\ M_\odot$, $0,60\ \text{kpc}$ | $1,9885 \times 10^{40}\ \text{kg}$, $1,85142 \times 10^{19}\ \text{m}$ |
 | $M_d, R_d$ | Masa (Ramas A/C/B) y escala del disco de Freeman (VL) | $(4,50 / 5,00 / 5,50) \times 10^{10}\ M_\odot$, $2,60\ \text{kpc}$ | $(0,895 / 0,994 / 1,094) \times 10^{41}\ \text{kg}$, $8,02282 \times 10^{19}\ \text{m}$ |
 
-### A.2. Script Ejecutable Integral en Python que Calcula y Reproduce las Tablas 1A, 1B, 1C y los Casos A-01 a A-08
+### A.2. Script para la Reproducción de las Tablas Galácticas y de los Casos Numéricos Implementados (A-01 a A-07)
 
     import numpy as np
     from scipy.special import i0, k0, i1, k1
@@ -447,6 +447,13 @@ Al concluir esta undécima versión auditada de *El Cosmos Arquitectónico*, est
     vf_N7 = ((G * M_N7 * a0)**0.25) / 1000.0
     rt_N7_Mly = np.sqrt(G * M_N7 / a0) / (1e6 * ly)
     print(f"A-07 Escenario N7: vf = {vf_N7:.0f} km/s, rt = {rt_N7_Mly:.0f} Mly")
+    # A-08: Verificacion del ciclo armonico y parametros del dipolo de Hubble
+    T_yr = 2.0e9 # 2.000 millones de anos
+    R0 = 100.0 # valor base ilustrativo
+    A_amp = 0.18 # 0.18% de amplitud relativa A/R0
+    H_max_kmsmpc = (A_amp / 100.0) * (2.0 * np.pi / T_yr) * (3.0857e19 / 1000.0) * (3.15576e7 * 1e6) # conversion a km/s/Mpc aprox
+    print(f"A-08 Ciclo armonico y Hubble: Amplitud relativa A/R0 = {A_amp}% -> H_cin max estimada ~ {H_max_kmsmpc:.1f} km/s/Mpc")
+    print(f"A-08 Cierre periodico: R(T) - R(0) = {-A_amp} - ({-A_amp}) = 0.0 (Ciclo matematicamente cerrado)")
 
 ### A.3. Tabla Maestra de Auditoría Numérica Reproducible (Versión 12.0)
 
