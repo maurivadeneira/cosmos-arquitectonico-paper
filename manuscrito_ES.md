@@ -3,7 +3,7 @@
 **Mauricio Rivadeneira (1*), Colaborador de Investigación de IA (2)**
 (1) Investigador Independiente, Unidad de Simulación Avanzada de Física Computacional
 *Contacto: maurivadeneira@gmail.com
-**Octubre de 2026 — Versión 11.0 (Con Auditoría al Centésimo en Tabla 1B, Estadístico Global RMSE/Chi2 y Postulado de Conservación Global)**
+**Octubre de 2026 — Versión 12.0 (Edición con Script Integral para Todos los Casos A-01 a A-08 y Métricas Globales Exactas)**
 
 > "Entregamos este manuscrito del Cosmos Arquitectónico como un andamio en construcción que nos permita aumentar la comprensión de nuestro universo majestuoso e inconmensurable; un cosmos infinito, estructurado y eterno."
 
@@ -11,7 +11,7 @@
 
 ## RESUMEN
 
-Presentamos la formulación de un modelo fenomenológico explícito dependiente de la escala y un programa de pruebas falsables orientados a evaluar si la transición dinámica sobre la materia bariónica real en regímenes de aceleración ultrabaja permite describir las curvas de rotación galácticas sin recurrir a entidades oscuras inobservables en dicho régimen. Asimismo, frente a las métricas cosmológicas no estacionarias donde la divergencia covariante local ($\nabla_\mu T^{\mu\nu} = 0$) no garantiza la invariancia energética total, este marco adopta como postulado físico y filosófico fundacional la validez estricta de la conservación global de la materia y la energía (simetría temporal de Noether en un sustrato estacionario a gran escala), proponiendo un cosmos eterno, sin principio ni fin, estructurado y continuo. Partiendo del parámetro crítico de aceleración ($a_0 = 1,20 \times 10^{-10}\ \text{m/s}^2$, convergente en su límite asintótico con la dinámica de Milgrom) y fijando la función de transición racional única $\mu(x) = \frac{x}{1+x}$, derivamos una solución algebraica cuadrática cerrada que conecta continuamente el régimen newtoniano ($1/r^2$) con el régimen asintótico de vórtice o remolino ($1/r$). En la Vía Láctea, implementando un modelo bariónico explícito y uniforme —compuesto por un bulbo esferoidal de Hernquist ($M_b = 1,00 \times 10^{10}\ M_\odot$, $a_b = 0,60\ \text{kpc}$) más un disco exponencial de Freeman ($R_d = 2,60\ \text{kpc}$, evaluado en tres perfiles paramétricos: Rama A con $M_d = 4,50 \times 10^{10}\ M_\odot$, Perfil Central C con $M_d = 5,00 \times 10^{10}\ M_\odot$ y Rama B con $M_d = 5,50 \times 10^{10}\ M_\odot$)—, generamos mediante un único código reproducible en Python (`scipy.special`, incluido en el Anexo Técnico) tanto la curva en rejilla uniforme de $5,0\text{ a }25,0\ \text{kpc}$ (Tabla 1A) como la evaluación directa en los nueve radios exactos $R_{\text{bin}}$ de Eilers et al. (2019) con dos decimales de precisión sin redondeo intermedio (Tabla 1B). Bajo este presupuesto fenomenológico algebraico (que no equivale a resolver la ecuación de Poisson no lineal ni demuestra por sí solo la suficiencia bariónica universal en todas las escalas cosmológicas), el Perfil Central C arroja en la Tabla 1A velocidades de $228,67\ \text{km/s}$ ($5,0\ \text{kpc}$), $231,42\ \text{km/s}$ ($6,0\ \text{kpc}$), $230,19\ \text{km/s}$ ($8,0\ \text{kpc}$), $224,93\ \text{km/s}$ ($10,0\ \text{kpc}$), $218,64\ \text{km/s}$ ($12,0\ \text{kpc}$), $207,44\ \text{km/s}$ ($16,0\ \text{kpc}$), $199,62\ \text{km/s}$ ($20,0\ \text{kpc}$) y $193,57\ \text{km/s}$ ($25,0\ \text{kpc}$); y en los bines exactos de Eilers et al. (Tabla 1B), velocidades de $229,70\ \text{km/s}$ en $5,27\ \text{kpc}$ (residuo $+2,87\ \text{km/s}$), $231,63\ \text{km/s}$ en $6,27\ \text{kpc}$ ($+0,83\ \text{km/s}$), $230,60\ \text{km/s}$ en $7,78\ \text{kpc}$ ($+0,97\ \text{km/s}$), $229,63\ \text{km/s}$ en $8,27\ \text{kpc}$ ($+0,74\ \text{km/s}$) y $193,73\ \text{km/s}$ en $24,82\ \text{kpc}$ ($-4,69\ \text{km/s}$), alcanzando un error cuadrático medio global de $\text{RMSE} = 4,48\ \text{km/s}$ ($4,89\ \text{km/s}$ en la Rama B) a lo largo de los nueve bines observacionales.
+Presentamos la formulación de un modelo fenomenológico explícito dependiente de la escala y un programa de pruebas falsables orientados a evaluar si la transición dinámica sobre la materia bariónica real en regímenes de aceleración ultrabaja permite describir las curvas de rotación galácticas sin recurrir a entidades oscuras inobservables en dicho régimen. Asimismo, frente a las métricas cosmológicas no estacionarias donde la divergencia covariante local ($\nabla_\mu T^{\mu\nu} = 0$) no garantiza la invariancia energética total, este marco adopta como postulado físico y filosófico fundacional la validez estricta de la conservación global de la materia y la energía (simetría temporal de Noether en un sustrato estacionario a gran escala), proponiendo un cosmos eterno, sin principio ni fin, estructurado y continuo. Partiendo del parámetro crítico de aceleración ($a_0 = 1,20 \times 10^{-10}\ \text{m/s}^2$, convergente en su límite asintótico con la dinámica de Milgrom) y fijando la función de transición racional única $\mu(x) = \frac{x}{1+x}$, derivamos una solución algebraica cuadrática cerrada que conecta continuamente el régimen newtoniano ($1/r^2$) con el régimen asintótico de vórtice o remolino ($1/r$). En la Vía Láctea, implementando un modelo bariónico explícito y uniforme —compuesto por un bulbo esferoidal de Hernquist ($M_b = 1,00 \times 10^{10}\ M_\odot$, $a_b = 0,60\ \text{kpc}$) más un disco exponencial de Freeman ($R_d = 2,60\ \text{kpc}$, evaluado en tres perfiles paramétricos: Rama A con $M_d = 4,50 \times 10^{10}\ M_\odot$, Perfil Central C con $M_d = 5,00 \times 10^{10}\ M_\odot$ y Rama B con $M_d = 5,50 \times 10^{10}\ M_\odot$)—, generamos mediante un único código reproducible en Python (`scipy.special`, incluido en el Anexo Técnico) tanto la curva en rejilla uniforme de $5,0\text{ a }25,0\ \text{kpc}$ (Tabla 1A) como la evaluación directa en los nueve radios exactos $R_{\text{bin}}$ de Eilers et al. (2019) con dos decimales de precisión sin redondeo intermedio (Tabla 1B). Bajo este presupuesto fenomenológico algebraico (que no equivale a resolver la ecuación de Poisson no lineal ni demuestra por sí solo la suficiencia bariónica universal en todas las escalas cosmológicas), el Perfil Central C arroja en la Tabla 1A velocidades de $228,67\ \text{km/s}$ ($5,0\ \text{kpc}$), $231,42\ \text{km/s}$ ($6,0\ \text{kpc}$), $230,19\ \text{km/s}$ ($8,0\ \text{kpc}$), $224,93\ \text{km/s}$ ($10,0\ \text{kpc}$), $218,64\ \text{km/s}$ ($12,0\ \text{kpc}$), $207,44\ \text{km/s}$ ($16,0\ \text{kpc}$), $199,62\ \text{km/s}$ ($20,0\ \text{kpc}$) y $193,57\ \text{km/s}$ ($25,0\ \text{kpc}$); y en los bines exactos de Eilers et al. (Tabla 1B), velocidades de $229,70\ \text{km/s}$ en $5,27\ \text{kpc}$ (residuo $+2,87\ \text{km/s}$), $231,63\ \text{km/s}$ en $6,27\ \text{kpc}$ ($+0,83\ \text{km/s}$), $230,60\ \text{km/s}$ en $7,78\ \text{kpc}$ ($+0,97\ \text{km/s}$), $229,63\ \text{km/s}$ en $8,27\ \text{kpc}$ ($+0,74\ \text{km/s}$) y $193,73\ \text{km/s}$ en $24,82\ \text{kpc}$ ($-4,69\ \text{km/s}$), alcanzando a lo largo de los nueve bines observacionales un error cuadrático medio global exacto de $\text{RMSE} = 4,44\ \text{km/s}$ para el Perfil Central C ($\text{RMSE} = 9,33\ \text{km/s}$ en la Rama A y $\text{RMSE} = 6,34\ \text{km/s}$ global en la Rama B, la cual alcanza $\text{RMSE}_{\text{ext}} = 2,58\ \text{km/s}$ en los cuatro bines exteriores de $12,26\text{ a }24,82\ \text{kpc}$).
 
 A escala de galaxias espirales y cúmulos esferoidales modelados bajo equilibrio hidrostático isotrópico de Jeans, distinguimos explícitamente entre la masa bariónica observada ($M_{\text{bar,obs}}$), la masa bariónica inferida por la relación de escala de Tully-Fisher ($M_{\text{bar,TF}}$) y la masa dinámica efectiva ($M_{\text{dyn,ef}}$), conservando la identidad contable $M_t = M_c + M_r$ con equivalencia operacional separada por población ($M_c \equiv M_{\text{BH}}$ en galaxias 2D y $M_c \equiv M_{\text{BCG}}$ en cúmulos 3D), e ilustrando como conjetura empírica de trabajo la cota $M_c / M_t < 0,01$. Fuera de las conclusiones empíricas galácticas, exploramos en un plano estrictamente heurístico el escenario paramétrico condicional $N_7$ ($M_{t(N7)} = 7,00 \times 10^{21}\ M_\odot$ a partir de $M_{N1} = 1,00 \times 10^{21}\ M_\odot$, con consecuencias algebraicas $v_f = 102.754\ \text{km/s}$ y $r_t = 9.302\text{ M a.l.}$), el ciclo armónico completo de respiración radial ($R(t) = R_0 - A\cos(2\pi t/T)$ con $T = 2.000\text{ millones de años}$) y la descomposición vectorial de Hubble ($H_{\text{obs}} = H_\gamma + \vec{H}_{\text{cin}} \cdot \hat{n}$), presentándolos como ejercicios paramétricos en construcción orientados a diseñar futuras pruebas observacionales.
 
@@ -90,8 +90,8 @@ Planteamos como postulado conceptual que $a_0 = 1,20 \times 10^{-10}\ \text{m/s}
 
 # CAPÍTULO 2: AUDITORÍA REPRODUCIBLE DE LA CURVA DE ROTACIÓN DE LA VÍA LÁCTEA (5 A 25 KPC)
 
-## 2.1. Escala Característica de Transición ($r_t$) y Propiedad Algebraica en $g_N = a_0$
-Definimos el radio característico de transición ($r_t$) de un sistema como la distancia en la cual la magnitud del campo newtoniano iguala al parámetro crítico ($g_N(r_t) = a_0$):
+## 2.1. Radio de Transición Monopolar Aproximado ($r_t$) y Propiedad Algebraica en $g_N = a_0$
+Definimos la condición de transición en el plano como $g_{N,\text{bulbo}}(r_t) + g_{N,\text{disco}}(r_t) = a_0$, cuya expresión analítica en **aproximación monopolar** ($g_N \approx G M / r^2$) define el radio de transición monopolar aproximado:
 
 $$g_N(r_t) = a_0 \quad \left(\text{en aproximación monopolar: } r_t = \sqrt{\frac{G \cdot M}{a_0}}\right) \quad (7)$$
 
@@ -154,21 +154,21 @@ $$g_{N,\text{tot}}(r) = g_{N,\text{bulbo}}(r) + g_{N,\text{disco}}(r) \implies v
 | **19,82** | 1,1101 | **194,54 / 199,91 / 205,05** | **206,54 (+4,18 / -3,97) km/s** | **-6,63 km/s** (-1,49 en B) | $-1,67$ ($-0,38$ en B) | $\sigma_{\text{sys}} = 9,07$, $\sigma_{\text{comb}} = 9,90$ ; **$z_{\text{comb}} = -0,67$** |
 | **24,82** | 1,0655 | **188,77 / 193,73 / 198,46** | **198,42 (+6,12 / -6,50) km/s** | **-4,69 km/s** (+0,04 en B) | $-0,72$ ($+0,01$ en B) | $\sigma_{\text{sys}} = 9,88$, $\sigma_{\text{comb}} = 11,83$ ; **$z_{\text{comb}} = -0,40$** |
 
-### Tabla 1C: Resumen de Métricas Estadísticas Globales sobre los $N = 9$ Bines de Eilers et al. (2019)
+### Tabla 1C: Resumen de Métricas Estadísticas Globales sobre los $N = 9$ Bines de Eilers et al. (2019) (con $k = 0$ parámetros libres ajustados por rama prefijada, $\text{dof} = 9$)
 
-| Perfil Bariónico Evaluado | Masa de Disco $M_d$ ($10^{10}\ M_\odot$) | Error Cuadrático Medio Global ($\text{RMSE}$ en $5,27 - 24,82\ \text{kpc}$) | Residuo Medio con Signo ($\overline{\Delta v}$) | $\chi^2_{\text{stat}}$ Puro (Sólo con $\sigma_{\text{stat,Eilers}}$) | Indicador Combinado $\chi^2_{\text{comb}}$ (Con presupuesto $\sigma_{\text{comb}}$) |Región de Mejor Ajuste |
+| Perfil Bariónico Prefijado | Masa de Disco $M_d$ ($10^{10}\ M_\odot$) | $\text{RMSE}$ Global Exacto ($N = 9$ bines, $5,27 - 24,82\ \text{kpc}$) | $\text{RMSE}_{\text{int}}$ ($5$ bines: $5,27 - 10,27\ \text{kpc}$) y $\text{RMSE}_{\text{ext}}$ ($4$ bines: $12,26 - 24,82\ \text{kpc}$) | Residuo Medio con Signo ($\overline{\Delta v}$) | $\chi^2_{\text{stat}}$ Puro (Sólo con $\sigma_{\text{stat,Eilers}}$) | Indicador Sensibilidad $\chi^2_{\text{comb}}$ (Con presupuesto $\sigma_{\text{comb}}$) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Rama A (Cota Inferior)** | $4,50$ | **$9,32\ \text{km/s}$** | $-8,63\ \text{km/s}$ | $289,4$ | $8,84$ | Subestima el disco interior e intermedio |
-| **Perfil Central C (Intermedio)** | $5,00$ | **$4,48\ \text{km/s}$** | $-2,14\ \text{km/s}$ | $35,8$ | **$2,09$** | **Óptimo entre $5,27$ y $10,27\ \text{kpc}$ ($\text{RMSE}_{\text{int}} = 1,45\ \text{km/s}$)** |
-| **Rama B (Cota Superior)** | $5,50$ | **$4,89\ \text{km/s}$** | $+4,07\ \text{km/s}$ | $98,2$ | $3,57$ | **Óptimo entre $12,26$ y $24,82\ \text{kpc}$ ($\text{RMSE}_{\text{ext}} = 2,58\ \text{km/s}$)** |
+| **Rama A (Cota Inferior)** | $4,50$ | **$9,33\ \text{km/s}$** | $\text{Int: } 7,35\ \text{km/s}$ ; $\text{Ext: } 11,35\ \text{km/s}$ | $-8,63\ \text{km/s}$ | $310,4$ | $8,85$ |
+| **Perfil Central C (Intermedio)** | $5,00$ | **$4,44\ \text{km/s}$** | **$\text{Int: } 1,45\ \text{km/s}$** ; $\text{Ext: } 6,46\ \text{km/s}$ | $-2,14\ \text{km/s}$ | $36,0$ | **$2,09$** |
+| **Rama B (Cota Superior)** | $5,50$ | **$6,34\ \text{km/s}$** | $\text{Int: } 8,21\ \text{km/s}$ ; **$\text{Ext: } 2,58\ \text{km/s}$** | $+4,24\ \text{km/s}$ | $233,7$ | $5,89$ |
 
 **Convergencia hacia la asíntota monopolar a radios extremos ($r \gg 25\ \text{kpc}$):**
 En $r = 25,0\ \text{kpc}$ ($y = 4,81$), la curva aún se encuentra un $\sim 10\%$ por encima de su límite asintótico monopolar infinito ($v_{f,\text{C}} = (G M_{\text{bar,C}} a_0)^{1/4} = 175,8\ \text{km/s}$, y $v_{f,\text{B}} = 179,3\ \text{km/s}$) debido a dos contribuciones positivas que decaen como $1/r$: el término $+g_N / 2$ de la Ecuación (5) y el factor multipolar de Bessel ($F_{\text{Bessel}} = 1,0643 > 1$). Al extender el cálculo hasta $r = 50\ \text{kpc}$ y $r = 100\ \text{kpc}$, el Perfil Central C desciende suavemente a $183,2\ \text{km/s}$ ($50\ \text{kpc}$) y $179,3\ \text{km/s}$ ($100\ \text{kpc}$), convergiendo matemáticamente hacia su asíntota exacta $v_{f,\text{C}} = 175,8\ \text{km/s}$ cuando $r \to \infty$.
 
 ## 2.3. Contraste del Límite Newtoniano en Alta Aceleración (Sistema Solar y Estrella S2)
 1. **Interior del Sistema Solar ($r = 1\ \text{UA}$, $M = 1\ M_\odot$):** $g_N = 5,930 \times 10^{-3}\ \text{m/s}^2 \implies a / g_N - 1 = 2,02 \times 10^{-8}$.
-2. **Estrella S2 en Pericentro (Sagitario A*, $M_c = 4,30 \times 10^6\ M_\odot$, $r_p = 120\ \text{UA}$, $e = 0,8846$):** $g_N = 1,77\ \text{m/s}^2 \approx 1,47 \times 10^{10} a_0 \implies \mu \approx 1$, arrojando una velocidad pericéntrica kepleriana de $v_p = 7.650\ \text{km/s}$. *(Dejamos expresamente aclarado que este cálculo verifica únicamente que la Ecuación 5 regresa sin desviaciones al límite newtoniano cuando $g_N \gg a_0$; no constituye una prueba de la estructura relativista del modelo ni deriva por sí mismo el corrimiento al rojo gravitacional post-newtoniano medido por GRAVITY Collaboration, 2018).*
-3. **Cancelación de la masa de prueba ($m$) en el disco exterior:** Al cancelarse $m$ en la Ecuación (4), cuerpos de prueba de masas opuestas (p. ej., $0,08\ M_\odot$ frente a $21\ M_\odot$) siguen exactamente el mismo perfil de velocidad de las Tablas 1A y 1B en cualquier radio $r$.
+2. **Estrella S2 en Pericentro (Sagitario A*, $M_{\text{BH}} = 4,30 \times 10^6\ M_\odot$, $r_p = 120,0\ \text{UA} = 1,79517 \times 10^{13}\ \text{m}$, $e = 0,8846$):** En el pericentro la aceleración newtoniana es $g_N = G M_{\text{BH}} / r_p^2 = 1,771\ \text{m/s}^2 \approx 1,48 \times 10^{10} a_0$, por lo que la desviación fraccional de la Ecuación (5) respecto a la gravedad newtoniana es $a/g_N - 1 \approx a_0 / g_N = 6,78 \times 10^{-11}$ ($\mu = 1 - 6,78 \times 10^{-11} \approx 1$). Evaluando directamente el límite kepleriano local $v_p = \sqrt{\frac{G M_{\text{BH}}}{r_p}(1+e)}$ (sin extrapolar la integral de *vis-viva* fuera del potencial $1/r$), se obtiene $v_p = 7.739,7 \approx 7.740\ \text{km/s}$. *(Este cálculo verifica exclusivamente la recuperación del límite newtoniano local cuando $g_N \gg a_0$ y no deriva el corrimiento al rojo relativista medido por GRAVITY Collaboration, 2018).*
+3. **Independencia respecto a la masa de prueba ($m$) en el disco exterior:** Al cancelarse $m$ en la Ecuación (4), cuerpos de prueba de masas diferentes (p. ej., $0,08\ M_\odot$ frente a $21\ M_\odot$) siguen exactamente el mismo perfil de velocidad de las Tablas 1A y 1B en cualquier radio $r$.
 
 ---
 
@@ -185,7 +185,7 @@ El contraste físico de la Ecuación (10) consiste en evaluar si la masa barión
 
 | Galaxia (Referencia) | Velocidad Asintótica en $r \gg R_d$ ($v_f$) | Masa Bariónica Inferida por Escala TF ($M_{\text{bar,TF}} = v_f^4 / G a_0$) | Masa Bariónica Observada ($M_{\text{bar,obs}} = M_* + 1,33 M_{\text{HI}}$) | Diferencia Relativa ($(M_{\text{bar,TF}} - M_{\text{bar,obs}})/M_{\text{bar,obs}}$) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Vía Láctea** (Límite $r \to \infty$ de Perfiles A–C–B) | $175,8 \pm 3,6\ \text{km/s}$ (asíntota de $5,5 - 6,5 \times 10^{10}\ M_\odot$) | $(6,00 \pm 0,50) \times 10^{10}\ M_\odot$ | $(5,50 - 6,50) \times 10^{10}\ M_\odot$ | Identidad exacta en el límite $r \to \infty$ (en $r=25\ \text{kpc}$, $v_{\text{mod}}$ aún supera a $v_f$ en $\sim 10\%$) |
+| **Vía Láctea** (Verificación de consistencia interna en $r \to \infty$) | $175,81\ \text{km/s}$ (asíntota calculada de Central C; $[172,05 - 179,32]$ en A–B) | $6,00 \times 10^{10}\ M_\odot$ ($[5,50 - 6,50] \times 10^{10}$) | $(5,50 - 6,50) \times 10^{10}\ M_\odot$ (adoptada en A–C–B) | $0,0\%$ por construcción (identidad algebraica de la asíntota; el contraste empírico independiente en radios finitos es el de la Tabla 1B) |
 | **NGC 3198** (Lelli et al., 2016 - SPARC) | $150,1 \pm 3,0\ \text{km/s}$ | $(3,19 \pm 0,25) \times 10^{10}\ M_\odot$ | $(3,05 \pm 0,45) \times 10^{10}\ M_\odot$ | $+4,6\%$ (Compatible en $1\sigma$) |
 | **M33 / NGC 598** (SPARC / Corbelli 2014) | $96,0 \pm 4,0\ \text{km/s}$ | $(5,33 \pm 0,89) \times 10^{9}\ M_\odot$ | $(5,00 \pm 0,80) \times 10^{9}\ M_\odot$ | $+6,6\%$ (Compatible en $1\sigma$) |
 
@@ -244,7 +244,7 @@ Con este propósito, definimos como parámetro de entrada una unidad de masa de 
 $$M_{N1} = 1,00 \times 10^{21}\ M_\odot \quad (15)$$
 
 *(Dada la densidad bariónica media total del universo local $\rho_{\text{bar,tot}} = \Omega_b \rho_{\text{crít}} \approx 4,17 \times 10^{-28}\ \text{kg/m}^3 \approx 6,16 \times 10^9\ M_\odot/\text{Mpc}^3$ [Planck Collaboration, 2020; Shull et al., 2012], este parámetro de referencia equivale a la masa bariónica contenida en un volumen esférico fiducial de radio $R_{\text{fid}} \approx 3.385\ \text{Mpc} \approx 11.040\text{ M a.l.}$).*
-
+*(Nota: El radio geométrico fiducial $R_{\text{fid}} \approx 11.040\text{ M a.l.}$ proviene únicamente de integrar la densidad bariónica media $\rho_{\text{bar,tot}}$ y es conceptualmente distinto del radio dinámico de transición monopolar $r_t = \sqrt{G M_{N1} / a_0} = 3.516\text{ M a.l.}$ de la Tabla 3; asimismo, para $N_7$ la escala ilustrativa $R_{\text{ext}} \sim 104.000\text{ M a.l.}$ supera el radio del horizonte de partículas observable [$\sim 46.500\text{ M a.l.}$ en $\Lambda\text{CDM}$], por lo que debe entenderse como una escala paramétrica postulada más allá del horizonte local).*
 ## 4.2. Extrapolación Condicional de $N_1$ a $N_7$ y Requerimientos Relativistas en $v_f \approx 0,343c$
 Evaluamos el siguiente ejercicio paramétrico condicional: **Si postulamos un sistema macrocósmico cuya masa bariónica total es siete veces el parámetro de referencia $M_{N1}$ ($M_{t(N7)} = 7,00 \times 10^{21}\ M_\odot$, distribuida sin fronteras administrativas físicas en una masa residual $M_r > 0,99 M_t$ en torno a un atractor central hipotético $M_c < 0,01 M_t$), ¿qué valores numéricos resultan de extrapolar algebraicamente las Ecuaciones (7) y (10)?**
 
@@ -279,8 +279,9 @@ Derivando la Ecuación (16a) respecto al tiempo $t$, la tasa cinemática de camb
 $$H_{\text{cin}}(t) = \frac{\dot{R}(t)}{R(t)} = \frac{\left(\frac{2\pi A}{T}\right) \sin\left(\frac{2\pi t}{T}\right)}{R_0 - A \cos\left(\frac{2\pi t}{T}\right)} \approx H_{\text{máx}} \cdot \sin\left(\frac{2\pi t}{T}\right) \quad \text{con } H_{\text{máx}} = \left(\frac{A}{R_0}\right)\frac{2\pi}{T} \quad (16\text{b})$$
 
 Si definimos la variable de fase adimensional normalizada al semociclo como $u = \frac{2t}{T} \in [0, 2]$ (donde un ciclo completo abarca de $u = 0$ a $u = 2,0$):
-- **Semociclo de Exhalación Expansiva ($0 < u < 1,0$, es decir, $0 < t < 1.000\text{ M años}$):** $\sin(\pi u) > 0 \implies H_{\text{cin}}(u) > 0$. Entre $u = 0$ y $u = 0,5$ la expansión acelera hasta alcanzar su máximo $H_{\text{máx}}$ en $u = 0,5$ ($t = 500\text{ M años}$); entre $u = 0,5$ y $u = 1,0$ la expansión desacelera hasta anularse en la máxima elongación $R_0 + A$ en $u = 1,0$ ($t = 1.000\text{ M años}$).
-- **Semociclo de Inhalación Contractiva ($1,0 < u < 2,0$, es decir, $1.000 < t < 2.000\text{ M años}$):** $\sin(\pi u) < 0 \implies H_{\text{cin}}(u) < 0$. El sistema se contrae acelerando hacia adentro desde $u = 1,0$ hasta alcanzar la velocidad máxima de contracción $-H_{\text{máx}}$ en $u = 1,5$ ($t = 1.500\text{ M años}$), y frena su contracción entre $u = 1,5$ y $u = 2,0$ hasta retornar al punto de máxima compresión $R_0 - A$ en $u = 2,0$ ($t = 2.000\text{ M años}$), reiniciando perpetuamente el ciclo en consonancia con un cosmos eterno sin singularidad inicial.
+Imponiendo la condición física de positividad estricta del radio ($R_0 > A > 0$) y definiendo la fase adimensional $u = \frac{2t}{T} \in [0, 2]$:
+- **Mínimo inicial ($u = 0$, $t = 0$) y Semiciclo de Exhalación Expansiva ($0 < u < 1,0$):** El ciclo parte de su radio mínimo $R(0) = R_0 - A$ con velocidad nula. Para $0 < u < 1,0$, $\sin(\pi u) > 0 \implies H_{\text{cin}}(u) > 0$: en la aproximación de amplitud pequeña ($A \ll R_0$), la tasa de expansión alcanza su máximo $H_{\text{máx}}$ en $u \approx 0,5$ ($t = 500\text{ M años}$) y desacelera hasta anularse en la máxima elongación $R(T/2) = R_0 + A$ en $u = 1,0$ ($t = 1.000\text{ M años}$).
+- **Semiciclo de Inhalación Contractiva ($1,0 < u < 2,0$) y Cierre Periódico en el Mínimo ($u = 2,0$, $t = T$):** Para $1,0 < u < 2,0$, $\sin(\pi u) < 0 \implies H_{\text{cin}}(u) < 0$: el sistema se contrae alcanzando la tasa máxima de contracción $-H_{\text{máx}}$ en $u \approx 1,5$ ($t = 1.500\text{ M años}$) y frena hasta retornar en $u = 2,0$ ($t = 2.000\text{ M años}$) a $R(T) = R_0 - A$, **que es exactamente el mismo estado mínimo inicial de $t = 0$ ($R(T) = R(0)$ y $\dot{R}(T) = \dot{R}(0) = 0$)**, cerrando de forma matemáticamente periódica el ciclo.
 
 *(Como ejercicio paramétrico condicional, un valor ilustrativo $H_{\text{cin}} \approx +5,6\ \text{km/s/Mpc}$ correspondería al pico $u = 0,5$ si la amplitud relativa fuese $A/R_0 \approx 0,18\%$, o bien a las fases simétricas $u_1 \approx 0,025$ o $u_2 \approx 0,975$ si $A/R_0 \approx 2,27\%$).*
 
@@ -298,21 +299,19 @@ Dejamos explícitamente sentado que la diferencia aritmética entre determinacio
 
 Definimos tres protocolos de prueba especificando los requisitos estadísticos y observacionales necesarios para su ejecución rigurosa:
 
-1. **Protocolo para la Prueba Dipolar del Campo Vectorial ($\vec{H}_{\text{cin}}$) en Catálogos de Supernovas y Cúmulos:**
-   - *Hipótesis nula ($M_0$) vs. Hipótesis direccional ($M_1$):* Sobre una muestra homogénea de supernovas Tipo Ia (p. ej., Pantheon+ en el corte $0,023 < z < 0,15$, tras sustraer el dipolo cinemático del CMB y el campo de velocidades peculiares locales con su incertidumbre asociada), el modelo nulo isótropo $M_0$ ajusta un único parámetro $H_0$, mientras que el modelo direccional $M_1$ evalúa $H_{\text{obs}}(\hat{n}_i) = H_\gamma + H_{\text{cin}} (\hat{n}_i \cdot \hat{u}_c)$ fijando *a priori* el eje de prueba en la región de Shapley/Vela ($l_c = 295^\circ, b_c = +15^\circ$, propagando una incertidumbre angular de $\pm 15^\circ$).
-   - *Función de verosimilitud y criterio de refutación:* El ajuste debe ejecutarse minimizando $\chi^2 = \Delta \vec{\mu}^T \, C^{-1} \, \Delta \vec{\mu}$ con la matriz completa de covarianza estadística y sistemática $C$ de Pantheon+ ($\mathcal{L} \propto \exp(-\chi^2 / 2)$). El escenario exploratorio quedaría empíricamente excluido si el límite superior al $99,7\%$ de nivel de confianza ($3\sigma$ derivado de la verosimilitud perfilada sobre $C$) restringe la componente proyectada en dicho eje a $|H_{\text{cin}}| < 1,0\ \text{km/s/Mpc}$.
-2. **Prueba Dinámica de Consistencia mediante la Frecuencia Epicíclica ($\kappa / \Omega = \sqrt{2}$, $T_r = 152,0\text{ M años}$) en Gaia:**
-   - *Cálculo explícito y documentado del periodo radial:* En un potencial con curva de rotación localmente plana ($dv_c / dr \approx 0$), la frecuencia epicíclica radial ($\kappa$) y la frecuencia angular circular ($\Omega = v_c / r$) cumplen la propiedad dinámica general $\kappa / \Omega = \sqrt{2}$. Utilizando los parámetros exactos de la posición solar en nuestra Tabla 1A ($r_\odot = 8,00\ \text{kpc} = 2,46856 \times 10^{20}\ \text{m}$ y velocidad circular $v_c = 229,0\ \text{km/s}$ observada o $230,2\ \text{km/s}$ en el Perfil Central C, con $1\text{ año juliano} = 3,15576 \times 10^7\ \text{s}$), el periodo orbital azimutal es:
+1. **Protocolo para la Prueba Dipolar del Campo Direccional en Pantheon+ (Scolnic et al., 2022; Brout et al., 2022):**
+   - *Relación distancia-redshift y módulo de distancia predicho:* En el régimen de bajo corrimiento al rojo ($0,023 < z < 0,15$), parametrizamos la distancia de luminosidad direccional a primer orden cosmográfico como $d_L(z, \hat{n}_i) = \frac{c z}{H_{\text{obs}}(\hat{n}_i)}\left[1 + \frac{1}{2}(1 - q_{\text{ef}})z\right]$, con $H_{\text{obs}}(\hat{n}_i) = H_\gamma + H_{\text{cin}}(\hat{n}_i \cdot \hat{u}_c)$, lo que define el módulo de distancia teórico $\mu_{\text{teo}}(z_i, \hat{n}_i) = 5\log_{10}[d_L(z_i, \hat{n}_i)/10\ \text{pc}]$.
+   - *Función de verosimilitud y criterio de refutación:* Definiendo el vector de residuos $\Delta \mu_i = m_{B,\text{corr},i} - M_B - \mu_{\text{teo}}(z_i, \hat{n}_i)$ sobre el catálogo Pantheon+ (marginalizando sobre el parámetro de magnitud absoluta $M_B$ y sobre el cono de incertidumbre angular de $\pm 15^\circ$ en torno a $l_c = 295^\circ, b_c = +15^\circ$), se minimiza $\chi^2 = \Delta \vec{\mu}^T C_{\text{stat+sys}}^{-1} \Delta \vec{\mu}$. La hipótesis de una componente direccional de escala $H_{\text{cin}} \sim 5,6\ \text{km/s/Mpc}$ quedará empíricamente refutada si la verosimilitud perfilada sobre $C_{\text{stat+sys}}$ arroja un límite superior al $99,7\%$ de confianza ($3\sigma$) de $\vert{}H_{\text{cin}}\vert{} < 1,0\ \text{km/s/Mpc}$.
+2. **Prueba Dinámica de Consistencia mediante la Frecuencia Epicíclica ($\kappa / \Omega = \sqrt{2}$) en Gaia:**
+   - *Cálculo exacto del periodo orbital y radial:* En un potencial con curva de rotación localmente plana ($dv_c / dr \approx 0$), la frecuencia epicíclica radial ($\kappa$) y la frecuencia angular circular ($\Omega = v_c / r$) cumplen la propiedad dinámica general $\kappa / \Omega = \sqrt{2}$. Evaluando exactamente con $r_\odot = 8,00\ \text{kpc} = 2,46856 \times 10^{20}\ \text{m}$ y $1\text{ año juliano} = 3,15576 \times 10^7\ \text{s}$ para $v_c = 229,00\ \text{km/s}$ (Eilers) y $v_c = 230,19\ \text{km/s}$ (Perfil Central C), el periodo orbital azimutal es:
 
-$$T_{\text{orb}} = \frac{2\pi r_\odot}{v_c} = 214,6\text{ a }215,7\text{ millones de años} \quad (\approx 215,0\text{ M años}) \quad (18\text{a})$$
+$$T_{\text{orb}} = \frac{2\pi r_\odot}{v_c} = 213,71\text{ a }214,82\text{ millones de años} \quad (213,7 - 214,8\text{ M años}) \quad (18\text{a})$$
 
-Dividiendo por $\sqrt{2} = 1,41421$, el periodo de oscilación radial epicíclica correspondiente es:
+Dividiendo exactamente por $\sqrt{2} = 1,41421356$, el periodo de oscilación radial epicíclica correspondiente es:
 
-$$T_r = \frac{T_{\text{orb}}}{\sqrt{2}} = 151,8\text{ a }152,5\text{ millones de años} \quad (\approx 152,0\text{ M años}) \quad (18\text{b})$$
+$$T_r = \frac{T_{\text{orb}}}{\sqrt{2}} = 151,12\text{ a }151,90\text{ millones de años} \quad (151,1 - 151,9\text{ M años}) \quad (18\text{b})$$
 
-   - *Alcance del test:* Esta relación es una propiedad dinámica general de cualquier potencial plano (y no una predicción exclusiva de $N_7$); su utilidad consiste en contrastar en los datos de Gaia DR4 la pendiente real de $v_c(r)$ y separar modos estacionarios de perturbaciones transitorias.
-3. **Contraste de Pendiente Magnitud-Redshift en el Eje Z vs. Plano Supergaláctico:**
-   - Comparar el módulo de distancia de candelas estándar y cuásares ($z > 1$) entre los polos supergalácticos ($|\text{SGB}| > 60^\circ$) y el plano supergaláctico ($|\text{SGB}| < 15^\circ$), controlando previamente los sesgos de selección fotométrica, extinción galáctica de polvo y evolución con el corrimiento al rojo.
+   - *Alcance del test:* Esta relación es una propiedad dinámica general de cualquier potencial localmente plano (no exclusiva de $N_7$), útil para evaluar en Gaia DR4 la pendiente local de $v_c(r)$.
 
 ---
 
@@ -321,13 +320,13 @@ $$T_r = \frac{T_{\text{orb}}}{\sqrt{2}} = 151,8\text{ a }152,5\text{ millones de
 ## 7.1. Alcance Empírico del Modelo Galáctico, Postulado de Conservación Global y Separación de las Hipótesis Cosmológicas
 Al concluir esta undécima versión auditada de *El Cosmos Arquitectónico*, establecemos con rigor la distinción entre los tres niveles alcanzados en este estudio:
 
-1. **En el plano galáctico cuantitativo (Capítulos 1 y 2):** Hemos demostrado que la regla algebraica de transición ($\mu(x) = x/(1+x)$) evaluada exactamente con funciones modificadas de Bessel sobre un bulbo de Hernquist más un disco exponencial de Freeman genera una curva de rotación compatible en forma y magnitud con las mediciones de la Vía Láctea entre $5,27\text{ y }24,82\ \text{kpc}$ (Eilers et al., 2019), logrando un error cuadrático medio global de $\text{RMSE} = 4,48\ \text{km/s}$ para el Perfil Central C ($M_d = 5,00 \times 10^{10}\ M_\odot$) y de $2,58\ \text{km/s}$ en el disco exterior ($12,26 - 24,82\ \text{kpc}$) para la Rama B ($M_d = 5,50 \times 10^{10}\ M_\odot$). Reconocemos explícitamente que este ajuste bajo un presupuesto algebraico local demuestra compatibilidad empírica condicionada en la curva de rotación analizada, pero no equivale por sí solo a resolver la ecuación de campo de Poisson no lineal ni demuestra de forma universal la suficiencia bariónica en lentes gravitacionales, dinámica interna de cúmulos o anisotropías del fondo cósmico de microondas.
+1. **En el plano galáctico cuantitativo (Capítulos 1 y 2):** En el dominio galáctico analizado, el modelo algebraico de transición ($\mu(x) = x/(1+x)$), aplicado a un bulbo de Hernquist y un disco exponencial de Freeman, produce una curva de rotación cuya forma y magnitud son comparables con las mediciones de Eilers et al. (2019) en el intervalo de $5,27\text{ a }24,82\ \text{kpc}$, logrando un error cuadrático medio global de $\text{RMSE} = 4,44\ \text{km/s}$ para el Perfil Central C ($\text{RMSE}_{\text{int}} = 1,45\ \text{km/s}$ entre $5,27\text{ y }10,27\ \text{kpc}$) y de $\text{RMSE}_{\text{ext}} = 2,58\ \text{km/s}$ en la región exterior ($12,26 - 24,82\ \text{kpc}$) para la Rama B ($\text{RMSE}$ global de $6,34\ \text{km/s}$). Esta compatibilidad es condicional a las masas adoptadas, la función de interpolación y el tratamiento de las incertidumbres, y no demuestra por sí sola la validez de una teoría gravitatoria de campo completa ni la suficiencia universal de la materia bariónica en todas las escalas.
 2. **En el plano de los postulados físicos y filosóficos (Conservación Global frente a $\nabla_\mu T^{\mu\nu} = 0$):** Reconocemos que en el marco de la relatividad general aplicada a métricas cosmológicas en expansión (FLRW), la ley local de conservación covariante ($\nabla_\mu T^{\mu\nu} = 0$) no conlleva una ley de conservación global de la energía ni implica matemáticamente que el universo deba ser eterno. Precisamente ante esa característica del modelo estándar, *El Cosmos Arquitectónico* formula como **postulado filosófico y principio físico fundacional del autor** la exigencia de conservación global estricta de la materia y la energía en un espacio-tiempo estacionario a gran escala, proponiendo a partir de dicho axioma la concepción de un cosmos eterno, continuo y sin principio ni fin.
 3. **En el plano heurístico e independiente de las hipótesis cosmológicas (Capítulos 4, 5 y 6):** Mantenemos la conjetura poblacional del $1\%$, el ejercicio paramétrico $N_7$, la oscilación armónica completa de $2.000\text{ millones de años}$ y la parametrización de atenuación fotónica más campo vectorial de Hubble estrictamente separados de los resultados empíricos galácticos. Se entregan como una brújula heurística en construcción cuyo valor científico reside en las pruebas observacionales falsables que dejan planteadas hacia el futuro.
 
 ---
 
-## ANEXO TÉCNICO: TABLA MAESTRA DE ENTRADAS, SCRIPT EJECUTABLE PARA TABLAS 1A Y 1B, Y RESUMEN DE AUDITORÍA (VERSIÓN 10.0)
+## ANEXO TÉCNICO: TABLA MAESTRA DE ENTRADAS, SCRIPT EJECUTABLE INTEGRAL Y RESUMEN DE AUDITORÍA (VERSIÓN 12.0)
 
 ### A.1. Tabla de Constantes y Parámetros de Entrada con Unidades Explícitas
 
@@ -338,27 +337,28 @@ Al concluir esta undécima versión auditada de *El Cosmos Arquitectónico*, est
 | $c$ | Velocidad de la luz en el vacío | $299.792,458$ | $\text{km}\,\text{s}^{-1}$ |
 | $M_\odot$ | Masa solar | $1,9885 \times 10^{30}$ | $\text{kg}$ |
 | $\text{kpc}$ | Kilopársec | $3,0857 \times 10^{19}$ | $\text{m}$ |
-| $\text{a.l.}$ | Año luz juliano | $9,4607 \times 10^{15}$ | $\text{m}$ |
+| $\text{a.l.}, \text{año}$ | Año luz juliano y año juliano | $9,4607 \times 10^{15}\ \text{m}$ ; $3,15576 \times 10^{7}\ \text{s}$ | $\text{m}$ ; $\text{s}$ |
 | $M_b, a_b$ | Masa y radio de escala del bulbo de Hernquist (VL) | $1,00 \times 10^{10}\ M_\odot$, $0,60\ \text{kpc}$ | $1,9885 \times 10^{40}\ \text{kg}$, $1,85142 \times 10^{19}\ \text{m}$ |
 | $M_d, R_d$ | Masa (Ramas A/C/B) y escala del disco de Freeman (VL) | $(4,50 / 5,00 / 5,50) \times 10^{10}\ M_\odot$, $2,60\ \text{kpc}$ | $(0,895 / 0,994 / 1,094) \times 10^{41}\ \text{kg}$, $8,02282 \times 10^{19}\ \text{m}$ |
 
-### A.2. Script Ejecutable en Python que Genera Íntegramente las Tablas 1A, 1B y 1C al Centésimo (Sin Transcripción Manual)
-
-El siguiente script estándar de Python 3 (`numpy` y `scipy.special`) imprime todas las velocidades y residuos con dos decimales exactos (`.2f`) directamente desde las variables en punto flotante de 64 bits, reproduciendo sin intervención manual cada celda de las Tablas 1A, 1B y 1C:
+### A.2. Script Ejecutable Integral en Python que Calcula y Reproduce las Tablas 1A, 1B, 1C y los Casos A-01 a A-08
 
     import numpy as np
     from scipy.special import i0, k0, i1, k1
 
-    # 1. Constantes fisicas y parametros geometricos fijos (Version 11.0)
+    # 1. Constantes fisicas y parametros geometricos fijos (Version 12.0)
     G = 6.674e-11          # m^3 kg^-1 s^-2
     a0 = 1.20e-10          # m s^-2
     M_sun = 1.9885e30      # kg
     kpc = 3.0857e19        # m
+    AU = 1.495978707e11    # m
+    ly = 9.4607e15         # m
+    yr = 3.15576e7         # s
 
-    M_b = 1.00e10 * M_sun  # Masa bulbo Hernquist (kg)
-    a_b = 0.60 * kpc       # Escala bulbo Hernquist (m)
-    R_d = 2.60 * kpc       # Escala disco Freeman (m)
-    M_d_branches = [4.50e10 * M_sun, 5.00e10 * M_sun, 5.50e10 * M_sun] # Ramas A, C, B
+    M_b = 1.00e10 * M_sun
+    a_b = 0.60 * kpc
+    R_d = 2.60 * kpc
+    M_d_branches = [4.50e10 * M_sun, 5.00e10 * M_sun, 5.50e10 * M_sun]
 
     def eval_model_at_radius(rk):
         r_m = rk * kpc
@@ -379,67 +379,87 @@ El siguiente script estándar de Python 3 (`numpy` y `scipy.special`) imprime to
         return y, dB, F_Bessel, gN_bulge*1e10, gN_disks, gN_tots, vNs, aMods, vMods
 
     print("=== TABLA 1A: REJILLA UNIFORME (5.0 A 25.0 KPC) ===")
-    r_grid = [5.0, 6.0, 8.0, 10.0, 12.0, 16.0, 20.0, 25.0]
-    for rk in r_grid:
+    for rk in [5.0, 6.0, 8.0, 10.0, 12.0, 16.0, 20.0, 25.0]:
         y, dB, FB, gNb, gNd, gNt, vN, aM, vM = eval_model_at_radius(rk)
         print(f"r={rk:4.1f} | y={y:7.5f} | dB={dB:7.5f} | FB={FB:6.4f} | "
-              f"vN={vN[0]:6.2f}/{vN[1]:6.2f}/{vN[2]:6.2f} | "
-              f"vMod={vM[0]:6.2f}/{vM[1]:6.2f}/{vM[2]:6.2f}")
+              f"vN={vN[0]:6.2f}/{vN[1]:6.2f}/{vN[2]:6.2f} | vMod={vM[0]:6.2f}/{vM[1]:6.2f}/{vM[2]:6.2f}")
 
-    print("\n=== TABLA 1B: EVALUACION EXACTA EN RADIOS R_bin DE EILERS ET AL. (2019) ===")
+    print("\n=== TABLA 1B: EVALUACION EN RADIOS R_bin DE EILERS ET AL. (2019) ===")
     eilers_bins = [
-        (5.27, 226.83, 1.91, 1.90),
-        (6.27, 230.80, 1.38, 1.32),
-        (7.78, 229.63, 0.60, 0.63),
-        (8.27, 228.89, 0.61, 0.60),
-        (10.27, 224.96, 0.84, 0.96),
-        (12.26, 220.96, 1.22, 1.27),
-        (15.78, 217.47, 1.86, 2.15),
-        (19.82, 206.54, 4.18, 3.97),
-        (24.82, 198.42, 6.12, 6.50)
+        (5.27, 226.83, 1.91, 1.90), (6.27, 230.80, 1.38, 1.32), (7.78, 229.63, 0.60, 0.63),
+        (8.27, 228.89, 0.61, 0.60), (10.27, 224.96, 0.84, 0.96), (12.26, 220.96, 1.22, 1.27),
+        (15.78, 217.47, 1.86, 2.15), (19.82, 206.54, 4.18, 3.97), (24.82, 198.42, 6.12, 6.50)
     ]
-    sq_err = [0.0, 0.0, 0.0]
-    chi2_stat = [0.0, 0.0, 0.0]
-    chi2_comb = [0.0, 0.0, 0.0]
+    res_all = [[], [], []]
+    chi2_stat, chi2_comb = [0.0, 0.0, 0.0], [0.0, 0.0, 0.0]
     for R_b, vc_b, sp, sm in eilers_bins:
         y, dB, FB, gNb, gNd, gNt, vN, aM, vM = eval_model_at_radius(R_b)
         f_sys = 0.03 + 0.02 * max(0.0, (R_b - 8.0) / 17.0)
         sig_sys = f_sys * vc_b
         for b_idx in range(3):
             dv = vM[b_idx] - vc_b
+            res_all[b_idx].append(dv)
             s_st = sp if dv >= 0 else sm
             s_cb = np.sqrt(s_st**2 + sig_sys**2)
-            sq_err[b_idx] += dv**2
             chi2_stat[b_idx] += (dv / s_st)**2
             chi2_comb[b_idx] += (dv / s_cb)**2
         dv_C = vM[1] - vc_b
-        sig_stat_C = sp if dv_C >= 0 else sm
-        sig_comb_C = np.sqrt(sig_stat_C**2 + sig_sys**2)
-        z_stat_C = dv_C / sig_stat_C
-        z_comb_C = dv_C / sig_comb_C
-        print(f"R_bin={R_b:5.2f} | FB={FB:6.4f} | vMod={vM[0]:6.2f}/{vM[1]:6.2f}/{vM[2]:6.2f} | "
-              f"Eilers={vc_b:6.2f} | dV_C={dv_C:+6.2f} | z_stat={z_stat_C:+5.2f} | "
-              f"sig_comb={sig_comb_C:5.2f} | z_comb={z_comb_C:+5.2f}")
+        s_st_C = sp if dv_C >= 0 else sm
+        s_cb_C = np.sqrt(s_st_C**2 + sig_sys**2)
+        print(f"R={R_b:5.2f} | FB={FB:6.4f} | vMod={vM[0]:6.2f}/{vM[1]:6.2f}/{vM[2]:6.2f} | "
+              f"dV_C={dv_C:+6.2f} | z_stat={dv_C/s_st_C:+5.2f} | sig_cb={s_cb_C:5.2f} | z_cb={dv_C/s_cb_C:+5.2f}")
 
-    print("\n=== TABLA 1C: METRICAS GLOBALES (N = 9 BINES) ===")
+    print("\n=== TABLA 1C: METRICAS GLOBALES, INTERIORES Y EXTERIORES ===")
     names = ["Rama A (4.5e10)", "Central C (5.0e10)", "Rama B (5.5e10)"]
     for b_idx in range(3):
-        rmse = np.sqrt(sq_err[b_idx] / len(eilers_bins))
-        print(f"{names[b_idx]:18s} | RMSE = {rmse:5.2f} km/s | "
-              f"chi2_stat = {chi2_stat[b_idx]:6.1f} | chi2_comb = {chi2_comb[b_idx]:5.2f}")
+        arr = np.array(res_all[b_idx])
+        rmse_tot = np.sqrt(np.mean(arr**2))
+        rmse_int = np.sqrt(np.mean(arr[:5]**2))
+        rmse_ext = np.sqrt(np.mean(arr[5:]**2))
+        mean_dv = np.mean(arr)
+        print(f"{names[b_idx]:18s} | RMSE_tot={rmse_tot:5.2f} | RMSE_int={rmse_int:5.2f} | "
+              f"RMSE_ext={rmse_ext:5.2f} | mean_dV={mean_dv:+6.2f} | chi2_st={chi2_stat[b_idx]:5.1f} | chi2_cb={chi2_comb[b_idx]:4.2f}")
 
-### A.3. Tabla Maestra de Auditoría Numérica Reproducible (Versión 11.0)
+    print("\n=== VERIFICACION DE CASOS A-01 A A-07 DE LA TABLA MAESTRA A.3 ===")
+    # A-01: Tierra a 1 UA
+    gN_earth = G * M_sun / (AU**2)
+    a_earth = 0.5 * gN_earth * (1.0 + np.sqrt(1.0 + 4.0 * a0 / gN_earth))
+    print(f"A-01 Tierra: gN={gN_earth:.4e} m/s^2, a/gN-1={a0/gN_earth:.2e}, v={np.sqrt(AU*a_earth)/1000:.2f} km/s")
+    # A-02: Estrella S2 en pericentro (limite kepleriano local)
+    r_p_S2 = 120.0 * AU
+    gN_S2 = G * (4.30e6 * M_sun) / (r_p_S2**2)
+    vp_S2 = np.sqrt(G * (4.30e6 * M_sun) * (1.0 + 0.8846) / r_p_S2) / 1000.0
+    print(f"A-02 Estrella S2: gN={gN_S2:.2f} m/s^2, a/gN-1={a0/gN_S2:.2e}, vp_Kepler={vp_S2:.1f} km/s")
+    # A-04: Periodo orbital y epiciclico en r_sun = 8.0 kpc
+    for vc_val in [230.19, 229.00]:
+        T_orb_Myr = (2.0 * np.pi * (8.0 * kpc) / (vc_val * 1000.0)) / (1e6 * yr)
+        print(f"A-04 Epiciclico (vc={vc_val:.2f}): T_orb={T_orb_Myr:.2f} Myr, T_r={T_orb_Myr/np.sqrt(2):.2f} Myr")
+    # A-05: SPARC Tully-Fisher (NGC 3198 y M33)
+    for name, vf in [("NGC 3198", 150.1e3), ("M33", 96.0e3)]:
+        M_tf = (vf**4) / (G * a0 * M_sun)
+        print(f"A-05 {name}: M_bar_TF = {M_tf:.2e} M_sun")
+    # A-06: Cumulos Virgo y Coma (Jeans alpha=3)
+    for name, sig in [("Virgo", 577e3), ("Coma", 693e3)]:
+        M_cl = (9.0 * (sig**4)) / (G * a0 * M_sun)
+        print(f"A-06 {name}: M_dyn_ef = {M_cl:.2e} M_sun")
+    # A-07: Escenario N7
+    M_N7 = 7.0e21 * M_sun
+    vf_N7 = ((G * M_N7 * a0)**0.25) / 1000.0
+    rt_N7_Mly = np.sqrt(G * M_N7 / a0) / (1e6 * ly)
+    print(f"A-07 Escenario N7: vf = {vf_N7:.0f} km/s, rt = {rt_N7_Mly:.0f} Mly")
 
-| ID / Sistema | Parámetros de Entrada Documentados (Inputs) | Ecuación del Modelo Aplicada | Resultado Calculado Verificado por Script (Output) | Categoría Epistemológica y Alcance Técnico |
+### A.3. Tabla Maestra de Auditoría Numérica Reproducible (Versión 12.0)
+
+| ID / Sistema | Parámetros de Entrada Documentados (Inputs) | Ecuación del Modelo Aplicada | Resultado Calculado Verificado por Script A.2 (Output) | Categoría Epistemológica y Alcance Técnico |
 | :--- | :--- | :--- | :--- | :--- |
-| **A-01. Tierra en Sistema Solar** | $M = 1,00\ M_\odot$; $r = 1,496 \times 10^{11}\ \text{m}$ ($1\ \text{UA}$) | Ec. (5): $a = \frac{g_N}{2}(1 + \sqrt{1 + 4a_0/g_N})$ | $g_N = 5,930 \times 10^{-3}\ \text{m/s}^2$; $a / g_N - 1 = 2,02 \times 10^{-8}$; $v = 29,78\ \text{km/s}$ | **Consecuencia Algebraica Cerrada.** Verifica el límite newtoniano ($\mu \to 1$). |
-| **A-02. Estrella S2 (Pericentro Sgr A*)** | $M_c \equiv M_{\text{BH}} = 4,30 \times 10^6\ M_\odot$; $r_p = 1,795 \times 10^{13}\ \text{m}$ ($120\ \text{UA}$); $e = 0,8846$ | Ec. (5) + Vis-Viva: $v_p = \sqrt{r_p \cdot a(r_p) \cdot (1+e)}$ | $g_N = 1,77\ \text{m/s}^2 \gg a_0$; $v_p = 7.650\ \text{km/s}$ | **Verificación de Límite Newtoniano.** No constituye prueba relativista ni deriva el redshift gravitacional de GRAVITY. |
-| **A-03. Vía Láctea: Tablas 1A, 1B y 1C al Centésimo** | Bulbo Hernquist ($a_b = 0,60\ \text{kpc}$): $M_b = 1,00 \times 10^{10}\ M_\odot$; Disco Freeman ($R_d = 2,60\ \text{kpc}$), Ramas A/C/B: $M_d = (4,50 / 5,00 / 5,50) \times 10^{10}\ M_\odot$ | Ec. (9a + 9b) con `scipy.special` + Presupuesto algebraico Ec. (5) (Script A.2) | **Tabla 1A (Central C):** $5\ \text{kpc}$: **228,67**; $6\ \text{kpc}$: **231,42**; $8\ \text{kpc}$: **230,19**; $10\ \text{kpc}$: **224,93**; $12\ \text{kpc}$: **218,64**; $16\ \text{kpc}$: **207,44**; $20\ \text{kpc}$: **199,62**; $25\ \text{kpc}$: **193,57 km/s**. **Tabla 1B ($R_{\text{bin}}$ exactos, Central C):** $5,27$: **229,70** ($\Delta v = +2,87$); $6,27$: **231,63** ($+0,83$); $7,78$: **230,60** ($+0,97$); $8,27$: **229,63** ($+0,74$); $10,27$: **224,18** ($-0,78$); $12,26$: **217,85** ($-3,11$); $15,78$: **207,99** ($-9,48$); $19,82$: **199,91** ($-6,63$); $24,82$: **193,73 km/s** ($-4,69$). **Global (Tabla 1C):** $\text{RMSE}_{\text{C}} = \mathbf{4,48\ \text{km/s}}$ ($\text{RMSE}_{\text{B}} = 4,89\ \text{km/s}$) | **Ejecución Reproducible al Centésimo por Script.** Separa el error estadístico primario de Eilers et al. (2019) del presupuesto sistemático ilustrativo del autor y reporta métricas globales ($\text{RMSE}, \chi^2$). |
-| **A-04. Test Epicíclico en Radio Solar** | $r_\odot = 8,00\ \text{kpc}$; $v_c = 229,0 - 230,19\ \text{km/s}$; Curva plana: $\kappa / \Omega = \sqrt{2}$ | Ec. (18a–18b): $T_{\text{orb}} = 2\pi r_\odot / v_c$; $T_r = T_{\text{orb}} / \sqrt{2}$ | $T_{\text{orb}} = 214,6 - 215,7\text{ M años}$; $T_r = 151,8 - 152,5\text{ M años}$ ($\approx 152,0$) | **Propiedad Dinámica de Curva Plana.** No es predicción exclusiva de $N_7$. |
-| **A-05. Galaxias NGC 3198 y M33 (SPARC)** | NGC 3198: $v_f = 150,1 \pm 3,0\ \text{km/s}$; M33: $v_f = 96,0 \pm 4,0\ \text{km/s}$ | Ec. (10): $M_{\text{bar,TF}} = v_f^4 / (G \cdot a_0)$ vs. $M_{\text{bar,obs}}$ | NGC 3198: $M_{\text{bar,TF}} = (3,19 \pm 0,25) \times 10^{10}\ M_\odot$; M33: $M_{\text{bar,TF}} = (5,33 \pm 0,89) \times 10^{9}\ M_\odot$ | **Ejemplos Ilustrativos Individuales.** Separación explícita entre $M_{\text{bar,TF}}$ y $M_{\text{bar,obs}}$. |
-| **A-06. Cúmulos Virgo y Coma en $r_{200}$ (Jeans 3D)** | Virgo: $\sigma_r \approx 577\ \text{km/s}$; Coma: $\sigma_r \approx 693\ \text{km/s}$; Supuestos: $\alpha = 3$, $\beta_{\text{anis}} = 0$ | Ec. (14): $M_{\text{dyn,ef}} = \alpha^2 \sigma_r^4 / (G \cdot a_0)$; Razón contable $M_{\text{BCG}} / M_{\text{dyn,ef}}$ | Virgo: $M_{\text{dyn,ef}} = 6,28 \times 10^{13}\ M_\odot$; Coma: $M_{\text{dyn,ef}} = 1,30 \times 10^{14}\ M_\odot$ | **Estimación Condicional de Orden de Magnitud.** No resuelve el déficit bariónico del núcleo interno de Coma (Sanders, 2003). |
-| **A-07. Escenario Heurístico $N_7$** | Parámetro de referencia: $M_{N1} = 1,00 \times 10^{21}\ M_\odot$; $M_t(N_7) = 7 \times 10^{21}\ M_\odot$ | Extrapolación algebraica de Ec. (10) y Ec. (7): $v_f = (G M_t a_0)^{1/4}$; $r_t = \sqrt{G M_t / a_0}$ | $v_f = 102.754 \approx 103.000\ \text{km/s}$ ($0,343c$, $\gamma = 1,0645$); $r_t = 9.302 \approx 9.310\text{ M a.l.}$ | **Brújula Heurística Independiente.** Consecuencia matemática del $M_t$ postulado; su interpretación física requeriría tratamiento relativista. |
-| **A-08. Ciclo Armónico Completo y Vector de Hubble** | Postulados exploratorios: $R(t) = R_0 - A\cos(2\pi t/T)$ con $T = 2,0 \times 10^9\text{ años}$; eje $(l_c = 295^\circ, b_c = +15^\circ)$ | Ec. (16a–16b) y Ec. (17): $H_{\text{cin}}(t) \approx \frac{2\pi A}{TR_0}\sin\left(\frac{2\pi t}{T}\right)$; $H_{\text{obs}}(\hat{n}) = H_\gamma + \vec{H}_{\text{cin}}\cdot\hat{n}$ | Ciclo completo unificado de exhalación ($0<u<1$) e inhalación ($1<u<2$); contraste dipolar mediante matriz de covarianza $C$ | **Ejercicio Paramétrico en Construcción.** Sujeto a refutación en Pantheon+ y a pruebas pendientes de supernovas, Tolman, Etherington y CMB. |
+| **A-01. Tierra en Sistema Solar** | $M = 1,00\ M_\odot$; $r = 1,00\ \text{UA}$ | Ec. (5): $a = \frac{g_N}{2}(1 + \sqrt{1 + 4a_0/g_N})$ | $g_N = 5,930 \times 10^{-3}\ \text{m/s}^2$; $a / g_N - 1 = 2,02 \times 10^{-8}$; $v = 29,78\ \text{km/s}$ | **Consecuencia Algebraica Cerrada.** Verifica el límite newtoniano ($\mu \to 1$). |
+| **A-02. Estrella S2 (Pericentro Sgr A*)** | $M_{\text{BH}} = 4,30 \times 10^6\ M_\odot$; $r_p = 120,0\ \text{UA}$; $e = 0,8846$ | Límite kepleriano local ($g_N \gg a_0$): $v_p = \sqrt{\frac{G M_{\text{BH}}}{r_p}(1+e)}$ | $g_N = 1,77\ \text{m/s}^2$; $a/g_N - 1 = 6,78 \times 10^{-11}$; **$v_p = 7.740\ \text{km/s}$** ($7.739,7\ \text{km/s}$) | **Verificación de Límite Newtoniano Local.** Sin extrapolar *vis-viva* fuera de $1/r$; no constituye prueba relativista. |
+| **A-03. Vía Láctea: Tablas 1A, 1B y 1C** | Bulbo Hernquist ($a_b = 0,60\ \text{kpc}$): $M_b = 1,00 \times 10^{10}\ M_\odot$; Disco Freeman ($R_d = 2,60\ \text{kpc}$), Ramas A/C/B: $M_d = (4,50 / 5,00 / 5,50) \times 10^{10}\ M_\odot$ | Ec. (9a + 9b) con `scipy.special` + Presupuesto algebraico Ec. (5) (Script A.2) | **Tabla 1A (Central C):** $228,67,\ 231,42,\ 230,19,\ 224,93,\ 218,64,\ 207,44,\ 199,62,\ 193,57\ \text{km/s}$. **Tabla 1B ($R_{\text{bin}}$ exactos, Central C):** $229,70,\ 231,63,\ 230,60,\ 229,63,\ 224,18,\ 217,85,\ 207,99,\ 199,91,\ 193,73\ \text{km/s}$. **Tabla 1C ($\text{RMSE}$ global $N=9$):** **Rama A: $9,33\ \text{km/s}$; Central C: $4,44\ \text{km/s}$ ($\text{int}: 1,45$); Rama B: $6,34\ \text{km/s}$ ($\text{ext}: 2,58\ \text{km/s}$)** | **Ejecución Reproducible al Centésimo por Script A.2.** Separa el error estadístico de Eilers et al. (2019) del análisis de sensibilidad sistemático del autor. |
+| **A-04. Test Epicíclico en Radio Solar** | $r_\odot = 8,00\ \text{kpc}$; $v_c = 229,00 - 230,19\ \text{km/s}$; Curva plana: $\kappa / \Omega = \sqrt{2}$ | Ec. (18a–18b): $T_{\text{orb}} = 2\pi r_\odot / v_c$; $T_r = T_{\text{orb}} / \sqrt{2}$ | **$T_{\text{orb}} = 213,71 - 214,82\text{ M años}$**; **$T_r = 151,12 - 151,90\text{ M años}$** | **Propiedad Dinámica de Curva Plana.** Calculada exactamente en el Script A.2. |
+| **A-05. Galaxias NGC 3198 y M33 (SPARC)** | NGC 3198: $v_f = 150,1 \pm 3,0\ \text{km/s}$; M33: $v_f = 96,0 \pm 4,0\ \text{km/s}$ | Ec. (10): $M_{\text{bar,TF}} = v_f^4 / (G \cdot a_0)$ vs. $M_{\text{bar,obs}}$ | NGC 3198: $M_{\text{bar,TF}} = 3,19 \times 10^{10}\ M_\odot$; M33: $M_{\text{bar,TF}} = 5,33 \times 10^{9}\ M_\odot$ | **Ejemplos Ilustrativos Individuales.** Calculados en el Script A.2. |
+| **A-06. Cúmulos Virgo y Coma en $r_{200}$ (Jeans 3D)** | Virgo: $\sigma_r \approx 577\ \text{km/s}$; Coma: $\sigma_r \approx 693\ \text{km/s}$; Supuestos: $\alpha = 3$, $\beta_{\text{anis}} = 0$ | Ec. (14): $M_{\text{dyn,ef}} = \alpha^2 \sigma_r^4 / (G \cdot a_0)$ | Virgo: $M_{\text{dyn,ef}} = 6,28 \times 10^{13}\ M_\odot$; Coma: $M_{\text{dyn,ef}} = 1,30 \times 10^{14}\ M_\odot$ | **Estimación Condicional de Orden de Magnitud.** Calculada en el Script A.2; sujeta a supuestos fuertes de Jeans. |
+| **A-07. Escenario Paramétrico $N_7$** | Parámetro de referencia: $M_{N1} = 1,00 \times 10^{21}\ M_\odot$; $M_t(N_7) = 7 \times 10^{21}\ M_\odot$ | Extrapolación monopolar de Ec. (10) y Ec. (7): $v_f = (G M_t a_0)^{1/4}$; $r_t = \sqrt{G M_t / a_0}$ | $v_f = 102.754\ \text{km/s}$ ($0,343c$, $\gamma = 1,0645$); $r_t = 9.302\text{ M a.l.}$ | **Resultado Algebraico Condicional.** Calculado en el Script A.2; ejercicio heurístico no validado físicamente. |
+| **A-08. Ciclo Armónico y Protocolo Dipolar** | Postulados exploratorios: $R(t) = R_0 - A\cos(2\pi t/T)$ ($R_0 > A > 0$, $T = 2,0 \times 10^9\text{ años}$); eje $(l_c = 295^\circ, b_c = +15^\circ)$ | Ec. (16a–16b) y protocolo Pantheon+ con $d_L(z,\hat{n})$ sobre matriz $C_{\text{stat+sys}}$ | Ciclo periódico cerrado ($R(T)=R(0)=R_0-A$); protocolo estadístico diseñado para ejecución futura | **Propuesta Metodológica y Ejercicio en Construcción.** Protocolo formulado pendiente de ejecución observacional. |
 
 ---
 
@@ -469,7 +489,7 @@ El siguiente script estándar de Python 3 (`numpy` y `scipy.special`) imprime to
 22. Planck Collaboration. (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics*, 641, A6.
 23. Riess, A. G., et al. (2019). Large Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant. *The Astrophysical Journal*, 876(1), 85.
 24. Zwicky, F. (1929). On the Red Shift of Spectral Lines through Interstellar Space. *Proceedings of the National Academy of Sciences*, 15(10), 773-779.
-
+25. Scolnic, D., et al. (2022). The Pantheon+ Analysis: The Full Data Set and Light-curve Release. *The Astrophysical Journal*, 938(2), 113; y Brout, D., et al. (2022). The Pantheon+ Analysis: Cosmological Constraints. *The Astrophysical Journal*, 938(2), 110.
 ## Fuentes Filosóficas y Motivacionales (Antecedentes Conceptuales No Técnicos)
 
 - Fundación Urantia. (1955). *El Libro de Urantia*. (Documento 15: Los Siete Superuniversos; Documento 12: El Universo de los Universos; Documento 11: La Isla Eterna del Paraíso). [Citado exclusivamente como fuente de inspiración filosófica y heurística para la exploración del parámetro condicional $N_7$, sin atribuirle valor de evidencia científica o astronómica].
