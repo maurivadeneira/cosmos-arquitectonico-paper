@@ -1,4 +1,6 @@
 # EL COSMOS ARQUITECTÓNICO: APROVECHANDO LAS COSMOGONÍAS JERÁRQUICAS PARA RESOLVER LA ANOMALÍA DE LA MATERIA OSCURA Y EL BIG BANG MEDIANTE DINÁMICAS DEPENDIENTES DE LA ESCALA_V2
+Versión en español: El Cosmos Arquitectónico (Version V2). Zenodo. https://doi.org/10.5281/zenodo.23817837
+Versión en inglés: The Architectural Cosmos (Version V2). Zenodo. https://doi.org/10.5281/zenodo.23821509
 
 **Mauricio Rivadeneira (1*), Colaborador de Investigación de IA (2)**
 (1) Investigador Independiente, Unidad de Simulación Avanzada de Física Computacional
